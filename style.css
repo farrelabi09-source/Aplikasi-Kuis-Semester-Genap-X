@@ -1,0 +1,299 @@
+/* ============================================================
+   QUIZ APP — style.css
+   ============================================================ */
+
+/* --- FONT & BASE --- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Montserrat:wght@700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    overflow-x: hidden;
+    transition: background-color 300ms;
+}
+
+/* --- CANVAS LATAR --- */
+#bg-canvas {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw; height: 100vh;
+    z-index: -1;
+    background-color: #f1f5f9;
+    transition: background-color 300ms;
+}
+
+/* --- KONTAINER UTAMA --- */
+.main-container {
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    max-width: 42rem;
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    background-color: #ffffff;
+    transition: background-color 300ms;
+}
+@media (min-width: 1024px) {
+    .main-container { max-width: 64rem; }
+}
+@media (min-width: 768px) {
+    body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+    }
+    .main-container { margin-top: 0; margin-bottom: 0; }
+}
+
+/* --- FADE TRANSITIONS --- */
+#menu-container, #quiz-container, #score-container,
+.modal-backdrop, .modal-container, #question-area {
+    transition: opacity 300ms ease-in-out;
+}
+.modal-backdrop.hidden, .modal-container.hidden {
+    pointer-events: none;
+}
+
+/* ============================================================
+   DARK MODE
+   ============================================================ */
+body.dark { color: #f3f4f6; }
+body.dark #bg-canvas { background-color: #111827; }
+body.dark .main-container,
+body.dark .modal-container { background-color: #1f2937; }
+
+body.dark h1, body.dark h2, body.dark h3, body.dark h4,
+body.dark p, body.dark strong,
+body.dark #question-text, body.dark #modal-nav-title { color: #f3f4f6; }
+
+body.dark .text-slate-700 { color: #d1d5db; }
+body.dark #back-to-menu-quiz-btn { color: #93c5fd; }
+
+body.dark #loading-spinner p,
+body.dark #question-counter {
+    color: #9ca3af;
+    background-color: #374151;
+}
+body.dark .option-btn {
+    background-color: #374151;
+    border-color: #4b5563;
+    color: #f3f4f6;
+}
+body.dark .option-btn:hover { background-color: #4b5563; }
+body.dark .q-nav-unanswered {
+    background-color: #374151;
+    color: #f3f4f6;
+}
+body.dark .q-nav-unanswered:hover { background-color: #4b5563; }
+body.dark #passage-container {
+    background-color: #374151;
+    border-color: #4b5563;
+}
+body.dark #passage-container * { color: #f3f4f6 !important; }
+
+body.dark .explanation-correct {
+    background-color: #064e3b;
+    border-color: #34d399;
+    color: #d1fae5;
+}
+body.dark .explanation-wrong {
+    background-color: #7f1d1d;
+    border-color: #f87171;
+    color: #fee2e2;
+}
+body.dark #prev-btn {
+    background-color: #374151;
+    color: #f3f4f6;
+    border-color: #4b5563;
+}
+body.dark #prev-btn:hover { background-color: #4b5563; }
+body.dark #next-btn {
+    background-color: #2563eb !important;
+    color: white !important;
+}
+body.dark #prev-btn:disabled,
+body.dark #next-btn:disabled {
+    background-color: #374151;
+    opacity: 0.5;
+}
+body.dark #back-to-menu-score-btn {
+    background-color: #16a34a;
+    color: white;
+}
+body.dark #back-to-menu-score-btn:hover { background-color: #15803d; }
+
+/* ============================================================
+   FLOATING CONTROLS
+   ============================================================ */
+#floating-controls {
+    position: fixed;
+    top: 20px; right: 20px;
+    z-index: 100;
+    display: flex;
+    gap: 10px;
+}
+.floating-icon-btn {
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 9999px;
+    border: 1px solid #cbd5e1;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,.1), 0 2px 4px -1px rgba(0,0,0,.06);
+    transition: all 300ms ease;
+    cursor: pointer;
+    position: relative;
+    width: 42px; height: 42px;
+}
+body.dark .floating-icon-btn {
+    background-color: #374151;
+    border-color: #4b5563;
+    color: #f3f4f6;
+}
+.floating-icon-btn > svg {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    transition: opacity 300ms ease-in-out, transform 300ms ease-in-out;
+}
+
+/* Ikon Tema */
+#theme-toggle-btn-floating { color: #f59e0b; }
+#theme-sun-icon  { opacity: 1;  transform: translate(-50%,-50%) rotate(0deg) scale(1); }
+#theme-moon-icon { opacity: 0;  transform: translate(-50%,-50%) rotate(-90deg) scale(.5); }
+body.dark #theme-toggle-btn-floating { color: #60a5fa; }
+body.dark #theme-sun-icon  { opacity: 0; transform: translate(-50%,-50%) rotate(90deg) scale(.5); }
+body.dark #theme-moon-icon { opacity: 1; transform: translate(-50%,-50%) rotate(0deg) scale(1); }
+
+/* Ikon Musik */
+#music-icon-unmuted { opacity: 0; transform: translate(-50%,-50%) scale(.5); }
+#music-icon-muted   { opacity: 1; transform: translate(-50%,-50%) scale(1); }
+#music-toggle-btn-floating.is-unmuted #music-icon-unmuted { opacity: 1; transform: translate(-50%,-50%) scale(1); }
+#music-toggle-btn-floating.is-unmuted #music-icon-muted   { opacity: 0; transform: translate(-50%,-50%) scale(.5); }
+
+/* ============================================================
+   PILIHAN JAWABAN
+   ============================================================ */
+.selected-answer {
+    background-color: #dbeafe;
+    border-color: #2563eb;
+    color: #1e3a8a;
+    font-weight: 600;
+}
+body.dark .selected-answer {
+    background-color: #1e3a8a !important;
+    border-color: #60a5fa !important;
+    color: #eff6ff !important;
+}
+.correct-answer {
+    background-color: #dcfce7;
+    border-color: #22c55e;
+    color: #166534;
+    font-weight: 600;
+}
+body.dark .correct-answer {
+    background-color: #064e3b !important;
+    border-color: #34d399 !important;
+    color: #d1fae5 !important;
+}
+.wrong-answer {
+    background-color: #fee2e2;
+    border-color: #ef4444;
+    color: #991b1b;
+    font-weight: 600;
+}
+body.dark .wrong-answer {
+    background-color: #7f1d1d !important;
+    border-color: #f87171 !important;
+    color: #fee2e2 !important;
+}
+
+/* ============================================================
+   TOMBOL MATA PELAJARAN
+   ============================================================ */
+.subject-active   { background-color: #2563eb; color: white; font-weight: 500; }
+.subject-inactive { background-color: #e5e7eb; color: #374151; font-weight: 500; }
+.subject-inactive:hover { background-color: #d1d5db; }
+body.dark .subject-inactive { background-color: #374151; color: #f3f4f6; }
+body.dark .subject-inactive:hover { background-color: #4b5563; }
+
+/* ============================================================
+   PANEL NAVIGASI SOAL
+   ============================================================ */
+.q-nav-btn {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 700;
+    width: 36px; height: 36px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: all 200ms ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+#quiz-nav-panel,
+#desktop-nav-panel {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+.q-nav-unanswered   { background-color: #e5e7eb; color: #374151; }
+.q-nav-answered     { background-color: #22c55e; color: white; }
+.q-nav-answered-quiz{ background-color: #3b82f6; color: white; }
+.q-nav-wrong-answered{ background-color: #ef4444; color: white; }
+.q-nav-active       { background-color: #f59e0b; color: white; }
+
+.q-nav-unanswered:hover { background-color: #d1d5db; }
+.q-nav-answered:hover   { background-color: #16a34a; }
+.q-nav-active:hover     { background-color: #d97706; }
+
+/* ============================================================
+   MODAL BACKDROP
+   ============================================================ */
+.modal-backdrop {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,.5);
+    z-index: 40;
+    transition: opacity 300ms ease-in-out;
+}
+.modal-container {
+    position: fixed;
+    top: 50%; left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 50;
+    width: 90%;
+    max-width: 500px;
+    max-height: 80vh;
+    overflow-y: auto;
+    transition: opacity 300ms ease-in-out;
+}
+
+/* ============================================================
+   SCROLLBAR KUSTOM
+   ============================================================ */
+#question-text, .option-btn, #explanation-text, #passage-content {
+    max-height: 200px;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e1 transparent;
+}
+#question-text::-webkit-scrollbar,
+.option-btn::-webkit-scrollbar,
+#explanation-text::-webkit-scrollbar,
+#passage-content::-webkit-scrollbar { width: 4px; }
+#question-text::-webkit-scrollbar-thumb,
+.option-btn::-webkit-scrollbar-thumb,
+#explanation-text::-webkit-scrollbar-thumb,
+#passage-content::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 3px;
+}
+body.dark #question-text::-webkit-scrollbar-thumb,
+body.dark .option-btn::-webkit-scrollbar-thumb,
+body.dark #explanation-text::-webkit-scrollbar-thumb,
+body.dark #passage-content::-webkit-scrollbar-thumb { background: #4b5563; }
+
+/* Spinner animasi */
+@keyframes spin { to { transform: rotate(360deg); } }
+#loading-spinner svg,
+#question-loading-spinner svg { animation: spin 1s linear infinite; }
