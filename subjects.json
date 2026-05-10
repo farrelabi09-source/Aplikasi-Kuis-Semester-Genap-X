@@ -1,0 +1,62 @@
+[
+    {
+        "id": "Ekonomi",
+        "title": "Kuis UAS Ekonomi"
+    },
+    {
+        "id": "Kimia",
+        "title": "Kuis UAS Kimia"
+    },
+    {
+        "id": "BahasaInggris",
+        "title": "Kuis UAS Bahasa Inggris"
+    },
+    {
+        "id": "Matematika",
+        "title": "Kuis UAS Matematika"
+    },
+    {
+        "id": "MuatanLokal",
+        "title": "Kuis UAS Muatan Lokal"
+    },
+    {
+        "id": "Geografi",
+        "title": "Kuis UAS Geografi"
+    },
+    {
+        "id": "Sejarah",
+        "title": "Kuis UAS Sejarah"
+    },
+    {
+        "id": "BahasaIndonesia",
+        "title": "Kuis UAS Bahasa Indonesia"
+    },
+    {
+        "id": "Sosiologi",
+        "title": "Kuis UAS Sosiologi"
+    },
+    {
+        "id": "SeniBudaya",
+        "title": "Kuis UAS Seni Budaya"
+    },
+    {
+        "id": "Fisika",
+        "title": "Kuis UAS Fisika"
+    },
+    {
+        "id": "Biologi",
+        "title": "Kuis UAS Biologi"
+    },
+    {
+        "id": "PJOK",
+        "title": "Kuis UAS PJOK"
+    },
+    {
+        "id": "Informatika",
+        "title": "Kuis UAS Informatika"
+    },
+    {
+        "id": "PAI",
+        "title": "Kuis UAS Pendidikan Agama Islam"
+    }
+]
