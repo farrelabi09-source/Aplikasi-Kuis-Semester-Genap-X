@@ -1,0 +1,494 @@
+[
+  {
+    "passageTitle": "BAGIAN 1: Berpikir Komputasional",
+    "passageText": "Konsep dasar Computational Thinking meliputi dekomposisi, abstraksi, pengenalan pola, dan algoritma dalam pemecahan masalah sehari-hari maupun teknis.",
+    "questions": [
+      {
+        "question": "1. Fondasi berpikir komputasional yang berfokus pada pemecahan masalah besar menjadi bagian-bagian yang lebih kecil dan mudah dikelola disebut...",
+        "options": [
+          "Abstraksi",
+          "Algoritma",
+          "Dekomposisi",
+          "Pengenalan Pola",
+          "Evaluasi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Dekomposisi adalah proses memecah masalah kompleks menjadi sub-masalah yang lebih kecil agar lebih mudah diselesaikan."
+      },
+      {
+        "question": "2. Saat kita melihat peta Google Maps, kita hanya melihat jalur jalan, nama tempat, dan kemacetan. Kita tidak melihat jenis pohon di pinggir jalan atau warna cat rumah warga. Hal ini merupakan penerapan dari...",
+        "options": [
+          "Dekomposisi",
+          "Abstraksi",
+          "Pengenalan Pola",
+          "Algoritma",
+          "Debugging"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Abstraksi adalah proses menyaring detail yang tidak relevan dan hanya berfokus pada informasi penting yang dibutuhkan."
+      },
+      {
+        "question": "3. Manakah pernyataan berikut yang paling tepat menggambarkan \"Pengenalan Pola\"?",
+        "options": [
+          "Menyusun langkah-langkah sistematis untuk menyelesaikan masalah.",
+          "Mengabaikan detail yang tidak penting.",
+          "Mencari kesamaan bentuk, tren, atau keteraturan dalam data.",
+          "Memecah perangkat keras menjadi komponen kecil.",
+          "Menulis kode program dalam bahasa C++."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pengenalan pola (Pattern Recognition) bertujuan mengidentifikasi tren atau kesamaan untuk membantu prediksi atau penyelesaian masalah."
+      },
+      {
+        "question": "4. Perhatikan urutan langkah berikut:\n1. Masukkan kartu ATM\n2. Pilih bahasa\n3. Masukkan PIN\n4. Pilih nominal penarikan\n5. Ambil uang\n\nUrutan langkah logis di atas adalah contoh penerapan...",
+        "options": [
+          "Abstraksi",
+          "Algoritma",
+          "Dekomposisi",
+          "Heuristik",
+          "Inferensi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Algoritma adalah serangkaian langkah-langkah logis dan sistematis yang disusun untuk menyelesaikan suatu tugas."
+      },
+      {
+        "question": "5. Seorang siswa ingin mengatur jadwal belajar untuk 5 mata pelajaran berbeda dalam satu minggu agar tidak bentrok dengan ekstrakurikuler. Kemampuan otak untuk mengatur strategi ini disebut...",
+        "options": [
+          "Berpikir Komputasional",
+          "Berpikir Kritis",
+          "Berpikir Emosional",
+          "Artificial Intelligence",
+          "Machine Learning"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ini adalah inti CT (Computational Thinking), yaitu kemampuan manusia untuk memformulasikan masalah agar dapat diselesaikan dengan efektif."
+      },
+      {
+        "question": "6. Dalam konsep tumpukan (Stack), prinsip yang digunakan adalah...",
+        "options": [
+          "FIFO (First In First Out)",
+          "LIFO (Last In First Out)",
+          "GIGO (Garbage In Garbage Out)",
+          "HIPO (Hierarchy Plus Input-Process-Output)",
+          "SISO (Single Input Single Output)"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Seperti tumpukan piring, yang terakhir ditaruh (atas) adalah yang pertama diambil."
+      },
+      {
+        "question": "7. Antrean pembeli tiket bioskop merupakan contoh penerapan struktur data...",
+        "options": [
+          "Stack",
+          "Array",
+          "Queue",
+          "Tree",
+          "Graph"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Queue (antrean) menggunakan prinsip FIFO (First In First Out), siapa yang datang duluan, dilayani duluan."
+      },
+      {
+        "question": "8. Perhatikan pernyataan berikut tentang pencarian (Searching):\n“Mencari buku di perpustakaan dengan memeriksa satu per satu dari rak pertama hingga terakhir.”\nMetode ini disebut...",
+        "options": [
+          "Binary Search",
+          "Sequential Search",
+          "Bubble Sort",
+          "Merge Sort",
+          "Quick Search"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sequential search mencari data secara urut dari awal sampai akhir."
+      },
+      {
+        "question": "9. Manakah di bawah ini yang MERUPAKAN contoh dekomposisi dalam merencanakan sebuah acara ulang tahun?",
+        "options": [
+          "Mengabaikan warna baju tamu undangan.",
+          "Melihat kesamaan susunan acara dengan tahun lalu.",
+          "Membagi tugas menjadi: Divisi Makanan, Divisi Dekorasi, dan Divisi Acara.",
+          "Menulis urutan jam acara dari awal sampai akhir.",
+          "Menghitung total biaya."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Memecah acara besar (ulang tahun) menjadi tugas-tugas kecil (divisi) adalah dekomposisi."
+      },
+      {
+        "question": "10. Berpikir komputasional tidak selalu harus menggunakan komputer. Tujuannya adalah...",
+        "options": [
+          "Agar manusia berpikir seperti robot yang kaku.",
+          "Melatih otak untuk memecahkan masalah secara efektif, efisien, dan optimal.",
+          "Menggantikan peran manusia dengan mesin.",
+          "Menghafal kode pemrograman.",
+          "Membeli perangkat keras tercanggih."
+        ],
+        "correctAnswer": 1,
+        "explanation": "CT adalah skill pola pikir (mindset), bukan sekadar penggunaan alat."
+      },
+      {
+        "question": "11. Pernyataan yang TIDAK TEPAT mengenai Algoritma adalah...",
+        "options": [
+          "Algoritma harus memiliki langkah yang jelas.",
+          "Algoritma harus memiliki titik berhenti (finite).",
+          "Algoritma hanya bisa digunakan untuk masalah matematika.",
+          "Algoritma yang baik harus efektif.",
+          "Algoritma bisa ditulis dalam bentuk pseudocode atau flowchart."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Algoritma bisa digunakan untuk segala jenis masalah, mulai dari memasak, mencuci baju, hingga pemrograman."
+      },
+      {
+        "question": "12. Ketika komputer mengalami \"Hang\" dan kita mencari tahu penyebabnya dengan mengecek satu per satu: apakah karena RAM penuh? Apakah karena virus? Atau apakah karena panas? Ini adalah proses...",
+        "options": [
+          "Abstraksi",
+          "Pengenalan Pola",
+          "Evaluasi (Debugging)",
+          "Kompilasi",
+          "Enkripsi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mencari kesalahan atau penyebab masalah (bug) dan memperbaikinya adalah debugging/evaluasi."
+      },
+      {
+        "question": "13. Optimasi penjadwalan (scheduling) dalam berpikir komputasional bertujuan untuk...",
+        "options": [
+          "Memperlama proses pengerjaan.",
+          "Menggunakan sumber daya sebanyak-banyaknya.",
+          "Menyelesaikan tugas dalam waktu sesingkat mungkin dengan sumber daya efisien.",
+          "Menghindari pekerjaan yang sulit.",
+          "Membuat algoritma menjadi rumit."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Optimasi berarti mencari solusi terbaik/paling efisien."
+      },
+      {
+        "question": "14. Flowchart simbol \"Belah Ketupat\" (Decision) digunakan untuk...",
+        "options": [
+          "Menandakan mulai dan selesai.",
+          "Proses perhitungan.",
+          "Input atau Output data.",
+          "Mengambil keputusan berdasarkan kondisi (Ya/Tidak).",
+          "Menghubungkan halaman."
+        ],
+        "correctAnswer": 3,
+        "explanation": "Simbol decision digunakan untuk percabangan logika."
+      },
+      {
+        "question": "15. Menemukan bahwa \"setiap file foto memiliki ekstensi .jpg atau .png\" saat merapikan folder adalah contoh...",
+        "options": [
+          "Abstraksi",
+          "Pengenalan Pola",
+          "Dekomposisi",
+          "Algoritma",
+          "Heuristik"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Menemukan keteraturan/ciri khas yang sama pada sekumpulan data."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 2: Hardware Komputer",
+    "passageText": "Pemahaman mengenai komponen perangkat keras komputer, fungsi, kelebihan/kekurangan, serta troubleshooting dasar.",
+    "questions": [
+      {
+        "question": "16. Otak dari komputer yang berfungsi untuk memproses data dan mengontrol seluruh kinerja sistem adalah...",
+        "options": [
+          "RAM",
+          "Harddisk",
+          "CPU (Processor)",
+          "VGA Card",
+          "Motherboard"
+        ],
+        "correctAnswer": 2,
+        "explanation": "CPU (Central Processing Unit) adalah unit pemroses utama."
+      },
+      {
+        "question": "17. Perangkat berikut yang tergolong sebagai Input Device adalah...",
+        "options": [
+          "Monitor, Speaker, Printer",
+          "Mouse, Keyboard, Scanner",
+          "Harddisk, Flashdisk, SSD",
+          "RAM, ROM, Cache",
+          "Proyektor, Plotter, Headset"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ketiganya berfungsi memasukkan data/perintah ke dalam komputer."
+      },
+      {
+        "question": "18. Pernyataan yang TEPAT mengenai perbedaan RAM dan ROM adalah...",
+        "options": [
+          "RAM bersifat permanen, ROM bersifat sementara.",
+          "Data di RAM hilang saat listrik mati (Volatile), sedangkan data di ROM tetap ada (Non-Volatile).",
+          "RAM digunakan untuk menyimpan OS secara permanen.",
+          "ROM bisa ditambah kapasitasnya dengan mudah seperti RAM.",
+          "ROM bekerja lebih cepat daripada RAM dalam multitasking."
+        ],
+        "correctAnswer": 1,
+        "explanation": "RAM untuk running applications (volatile), ROM untuk firmware/BIOS (non-volatile)."
+      },
+      {
+        "question": "19. Fungsi utama dari Thermal Paste pada pemasangan CPU adalah...",
+        "options": [
+          "Merekatkan CPU agar tidak jatuh.",
+          "Mengalirkan listrik dari motherboard ke CPU.",
+          "Menghubungkan pin CPU dengan soket.",
+          "Mengisi celah mikroskopis antara CPU dan Heatsink untuk memaksimalkan penyaluran panas.",
+          "Mendinginkan CPU secara langsung tanpa kipas."
+        ],
+        "correctAnswer": 3,
+        "explanation": "Tanpa thermal paste, penyaluran panas tidak sempurna dan CPU bisa overheat."
+      },
+      {
+        "question": "20. Berikut ini adalah kekurangan dari Hard Disk Drive (HDD) dibandingkan Solid State Drive (SSD), KECUALI...",
+        "options": [
+          "HDD lebih lambat dalam membaca data (booting lama).",
+          "HDD rentan rusak jika terguncang karena memiliki piringan berputar.",
+          "HDD menimbulkan suara bising.",
+          "HDD harganya jauh lebih mahal daripada SSD untuk kapasitas yang sama.",
+          "HDD mengonsumsi daya listrik lebih besar."
+        ],
+        "correctAnswer": 3,
+        "explanation": "HDD justru lebih murah per GB-nya dibanding SSD. Pilihan lain adalah kekurangan HDD yang benar."
+      },
+      {
+        "question": "21. Komponen yang berfungsi mengubah sinyal digital dari komputer menjadi tampilan grafis di layar monitor adalah...",
+        "options": [
+          "Sound Card",
+          "VGA Card (GPU)",
+          "Network Card",
+          "Memory Card",
+          "Processor"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Video Graphics Array (VGA) atau GPU bertanggung jawab atas pemrosesan visual/gambar."
+      },
+      {
+        "question": "22. Mengapa SSD (Solid State Drive) lebih disarankan untuk instalasi Sistem Operasi (Windows/Linux) dibandingkan HDD?",
+        "options": [
+          "Karena SSD memiliki kapasitas penyimpanan yang tak terbatas.",
+          "Karena SSD menggunakan piringan magnetik yang kuat.",
+          "Karena kecepatan Read/Write SSD jauh lebih tinggi sehingga booting dan buka aplikasi lebih cepat.",
+          "Karena SSD lebih berat sehingga komputer lebih stabil.",
+          "Karena SSD tidak membutuhkan listrik."
+        ],
+        "correctAnswer": 2,
+        "explanation": "SSD menggunakan chip flash tanpa komponen bergerak, membuatnya sangat cepat."
+      },
+      {
+        "question": "23. Perangkat output yang berfungsi mencetak desain gambar teknik atau arsitektur dengan ukuran kertas yang sangat besar disebut...",
+        "options": [
+          "Printer Dot Matrix",
+          "Scanner",
+          "Plotter",
+          "Printer Laserjet",
+          "3D Printer"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Plotter digunakan khusus untuk mencetak grafis vektor berukuran besar (A0, A1)."
+      },
+      {
+        "question": "24. Apa fungsi dari ALU (Arithmetic Logic Unit) di dalam CPU?",
+        "options": [
+          "Menyimpan data sementara.",
+          "Melakukan operasi matematika (tambah, kurang) dan logika (AND, OR).",
+          "Mengatur lalu lintas data antar komponen.",
+          "Mendinginkan suhu prosesor.",
+          "Mengubah arus AC menjadi DC."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bagian CPU yang 'menghitung' adalah ALU."
+      },
+      {
+        "question": "25. Jika komputer menyala (kipas berputar) tetapi layar monitor tidak menampilkan apapun (No Display) dan terdengar bunyi beep panjang berulang, kemungkinan besar masalah ada pada komponen...",
+        "options": [
+          "Harddisk",
+          "RAM",
+          "Mouse",
+          "Keyboard",
+          "Kabel LAN"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Indikasi bunyi beep berulang pada BIOS umumnya menandakan masalah pada memori (RAM)."
+      },
+      {
+        "question": "26. Motherboard berfungsi sebagai...",
+        "options": [
+          "Penyedia daya listrik utama.",
+          "Papan sirkuit utama tempat semua komponen komputer saling terhubung.",
+          "Media penyimpanan data jangka panjang.",
+          "Alat untuk mengetik perintah.",
+          "Pelindung komputer dari virus."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Motherboard adalah 'tulang punggung' komputer tempat CPU, RAM, VGA, dll dipasang."
+      },
+      {
+        "question": "27. Kelebihan Printer Laserjet dibandingkan Printer Inkjet adalah...",
+        "options": [
+          "Harga beli printernya lebih murah.",
+          "Bisa mencetak foto dengan gradasi warna lebih halus dari inkjet.",
+          "Kecepatan cetak teks sangat tinggi dan tinta tidak mudah luntur.",
+          "Menggunakan tinta cair yang mudah diisi ulang.",
+          "Tidak membutuhkan listrik yang besar."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Laserjet menggunakan bubuk toner dan pemanas, sangat cepat untuk dokumen teks dan tahan air."
+      },
+      {
+        "question": "28. Port yang paling umum digunakan saat ini untuk menghubungkan mouse, keyboard, flashdisk, dan printer adalah...",
+        "options": [
+          "Port VGA",
+          "Port PS/2",
+          "Port USB (Universal Serial Bus)",
+          "Port HDMI",
+          "Port Jack Audio"
+        ],
+        "correctAnswer": 2,
+        "explanation": "USB adalah standar universal koneksi kabel saat ini."
+      },
+      {
+        "question": "29. Manakah pernyataan yang BENAR mengenai Power Supply Unit (PSU)?",
+        "options": [
+          "PSU berfungsi menyimpan data saat mati lampu.",
+          "PSU mengubah arus listrik AC (bolak-balik) dari PLN menjadi DC (searah) untuk komponen komputer.",
+          "PSU adalah otak dari komputer.",
+          "PSU berfungsi menampilkan gambar.",
+          "Semakin kecil Watt PSU, semakin bagus performa komputer gaming."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Komponen komputer membutuhkan arus DC, sedangkan listrik rumah adalah AC. PSU adalah penukarnya."
+      },
+      {
+        "question": "30. Fungsi dari Heatsink Fan pada komputer adalah...",
+        "options": [
+          "Menambah kecepatan internet.",
+          "Menyerap dan membuang panas yang dihasilkan oleh prosesor.",
+          "Sebagai hiasan lampu warna-warni.",
+          "Menyimpan cadangan listrik.",
+          "Menambah kapasitas penyimpanan data."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Logam (heatsink) menyerap panas, dan kipas (fan) membuangnya."
+      },
+      {
+        "question": "31. Berikut ini adalah media penyimpanan (Storage), KECUALI...",
+        "options": [
+          "DVD-RW",
+          "Flashdisk",
+          "DDR4 (RAM)",
+          "SSD NVMe",
+          "MicroSD"
+        ],
+        "correctAnswer": 2,
+        "explanation": "RAM adalah memori utama (volatile), bukan media penyimpanan data permanen (Storage)."
+      },
+      {
+        "question": "32. Kelebihan menggunakan keyboard mekanikal (mechanical keyboard) dibanding membran adalah...",
+        "options": [
+          "Harganya sangat murah.",
+          "Tidak bersuara sama sekali.",
+          "Durability (daya tahan) tombol lebih tinggi dan memberikan feedback taktil yang nyaman.",
+          "Lebih tipis dan ringan.",
+          "Tahan air sepenuhnya."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Switch mekanikal punya umur klik lebih panjang dan rasa ketikan yang lebih presisi."
+      },
+      {
+        "question": "33. Satuan kecepatan sebuah Prosesor (CPU) dinyatakan dalam...",
+        "options": [
+          "Byte",
+          "Hertz (Hz/GHz)",
+          "Pixel",
+          "RPM",
+          "Bit per second"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hertz mengukur siklus/frekuensi clock prosesor per detik."
+      },
+      {
+        "question": "34. Apa yang dimaksud dengan Bottleneck pada hardware komputer?",
+        "options": [
+          "Leher botol yang digunakan untuk pendingin cair.",
+          "Kondisi di mana performa komputer terhambat karena salah satu komponen jauh lebih lambat dibanding komponen lain.",
+          "Virus yang menyerang hardware.",
+          "Kerusakan pada kabel monitor.",
+          "Kecepatan komputer yang meningkat drastis."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Contoh: Memakai prosesor super cepat tapi RAM-nya sangat kecil, maka performa keseluruhan akan terhambat."
+      },
+      {
+        "question": "35. Perangkat keras yang digunakan untuk menghubungkan komputer ke jaringan internet melalui kabel adalah...",
+        "options": [
+          "Sound Card",
+          "LAN Card (NIC)",
+          "VGA Card",
+          "TV Tuner",
+          "Capture Card"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Network Interface Card (NIC) atau LAN Card memiliki port RJ45 untuk kabel internet."
+      },
+      {
+        "question": "36. Resolusi layar monitor \"Full HD\" merujuk pada ukuran piksel...",
+        "options": [
+          "1280 x 720",
+          "1920 x 1080",
+          "3840 x 2160 (4K)",
+          "800 x 600",
+          "2560 x 1440"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Standar Full HD saat ini adalah 1920x1080 piksel."
+      },
+      {
+        "question": "37. Salah satu fungsi utama Sistem Operasi dalam kaitannya dengan Hardware adalah...",
+        "options": [
+          "Sebagai perangkat keras tambahan.",
+          "Sebagai jembatan (interface) antara pengguna (user) dan perangkat keras (hardware).",
+          "Membersihkan debu pada hardware.",
+          "Merakit komponen hardware.",
+          "Mengganti fungsi prosesor."
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hardware tidak bisa dimengerti langsung oleh manusia tanpa Sistem Operasi (OS) yang menerjemahkan perintah."
+      },
+      {
+        "question": "38. Scanner adalah perangkat input yang cara kerjanya mirip dengan...",
+        "options": [
+          "Mesin Fotokopi",
+          "Mesin Tik",
+          "Televisi",
+          "Radio",
+          "Speaker"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Scanner memindai dokumen fisik menjadi file digital (gambar/pdf), prinsip optiknya mirip fotokopi."
+      },
+      {
+        "question": "39. Kekurangan komputer All-in-One (PC yang mesinnya menyatu dengan monitor) dibandingkan PC Desktop Rakitan (Tower) adalah...",
+        "options": [
+          "Lebih boros tempat.",
+          "Kabel lebih berantakan.",
+          "Sulit untuk di-upgrade komponennya (seperti ganti VGA atau Prosesor).",
+          "Harganya selalu lebih murah.",
+          "Performanya selalu lebih kencang."
+        ],
+        "correctAnswer": 2,
+        "explanation": "PC All-in-One didesain ringkas, sehingga komponennya seringkali disolder atau sempit, menyulitkan penggantian parts."
+      },
+      {
+        "question": "40. Di bawah ini pernyataan yang tepat mengenai Overheating (panas berlebih) pada komputer, KECUALI...",
+        "options": [
+          "Dapat menyebabkan komputer mati mendadak (restart).",
+          "Disebabkan oleh debu yang menumpuk pada kipas.",
+          "Dapat memperpendek umur komponen.",
+          "Membuat kinerja komputer menjadi lebih cepat.",
+          "Bisa diatasi dengan mengganti thermal paste dan membersihkan debu."
+        ],
+        "correctAnswer": 3,
+        "explanation": "Overheating justru menyebabkan throttling (penurunan kecepatan otomatis) agar komponen tidak terbakar, jadi komputer makin lambat."
+      }
+    ]
+  }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "passageTitle": "Text 1: Bukit Bangkirai (Questions 1-5)",
+        "passageText": "Bukit Bangkirai, located in East Kalimantan, is a natural tourism park renowned for its tropical rainforest conservation. The park's primary allure is its Canopy Bridge, a 64-meter long wooden bridge suspended 30 meters above the forest floor. This bridge connects five massive Bangkirai trees, offering visitors a breathtaking \"Walking in the Sky\" experience, allowing them to observe the forest's rich biodiversity from above.\n\nThe park serves not only as a tourist destination but also as an important site for environmental education and research. Many visitors, including students and researchers, come to study the diverse flora and fauna. The decision to preserve this area rather than convert it to plantation land highlights a growing commitment to conservation, ensuring that this natural wonder can be enjoyed by future generations.",
+        "questions": [
+            {
+                "question": "1. What is the main topic discussed in the first paragraph?",
+                "options": [
+                    "The location of Bukit Bangkirai in East Kalimantan.",
+                    "The process of building the Canopy Bridge.",
+                    "The description and main attraction of Bukit Bangkirai.",
+                    "The types of trees found in the rainforest.",
+                    "The length and height of the suspension bridge."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Paragraf pertama memperkenalkan Bukit Bangkirai dan berfokus pada daya tarik utamanya, yaitu Canopy Bridge, yang merupakan deskripsi umum tempat tersebut."
+            },
+            {
+                "question": "2. Based on the text, why do many people visit Bukit Bangkirai?",
+                "options": [
+                    "Because it is the only rainforest in Kalimantan.",
+                    "To experience the unique sensation of walking on the high Canopy Bridge.",
+                    "Because it is the cheapest tourist spot in the area.",
+                    "To see the five largest Bangkirai trees in the world.",
+                    "To protest the conversion of forests to plantations."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Teks menyebutkan 'The park's primary allure is its Canopy Bridge... offering visitors a breathtaking \"Walking in the Sky\" experience'."
+            },
+            {
+                "question": "3. What is the meaning of the phrase \"Walking in the Sky\" in the first paragraph?",
+                "options": [
+                    "A type of extreme sport involving parachutes.",
+                    "A virtual reality simulation of the forest.",
+                    "The experience of walking on the high-altitude Canopy Bridge.",
+                    "A local legend about the spirits in the forest.",
+                    "A research program to study the sky."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Frasa tersebut merujuk pada pengalaman unik berjalan di jembatan yang tergantung tinggi (30 meter) di atas lantai hutan."
+            },
+            {
+                "question": "4. What can be inferred about the park from the second paragraph?",
+                "options": [
+                    "The park is managed primarily for commercial profit.",
+                    "The park prioritizes education and conservation over tourism.",
+                    "The park struggles with a low number of visitors.",
+                    "The park holds a significant value beyond just recreation.",
+                    "The park will soon be converted to plantation land."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Paragraf kedua menyebutkan bahwa taman ini tidak hanya untuk turis, tetapi juga 'as an important site for environmental education and research' dan menyoroti komitmen konservasi, menunjukkan nilai yang lebih dalam dari sekadar rekreasi."
+            },
+            {
+                "question": "5. What underlying moral or value can be learned from the text?",
+                "options": [
+                    "Modern construction is superior to nature.",
+                    "Economic development is more important than nature.",
+                    "Preserving nature is crucial for education and future generations.",
+                    "Tourism is the only way to fund conservation.",
+                    "Research should only be done in laboratories."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Penekanan pada 'conservation' dan 'ensuring that this natural wonder can be enjoyed by future generations' adalah pesan moral tersiratnya."
+            }
+        ]
+    },
+    {
+        "passageTitle": "Text 2: Mahakam Bridge (Questions 6-10)",
+        "passageText": "The Mahakam Bridge is a prominent landmark in Samarinda, East Kalimantan. It is a suspension bridge that spans the Mahakam River, connecting the city center with the Samarinda Seberang area. Completed in 1986, it was the first suspension bridge in Indonesia.\n\nBeyond its vital function for transportation, the bridge has become an icon of the city. Its towering steel structure and intricate cable design are impressive. At night, the bridge is illuminated by colorful lights, making it a favorite spot for photography and social gatherings. This visual appeal has significantly boosted its status as a symbol of Samarinda's identity.",
+        "questions": [
+            {
+                "question": "6. What is the main function of the second paragraph in relation to the first?",
+                "options": [
+                    "To contrast the bridge's past and present condition.",
+                    "To provide a step-by-step history of the bridge's construction.",
+                    "To describe the bridge's aesthetic features and iconic status.",
+                    "To argue against the cost of the bridge's lighting.",
+                    "To list the different types of bridges in Indonesia."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Paragraf pertama menjelaskan fungsi dasar dan lokasi. Paragraf kedua menjelaskan mengapa jembatan itu menjadi ikon kota dengan mendeskripsikan penampilannya ('towering steel structure', 'colorful lights')."
+            },
+            {
+                "question": "7. Why has the Mahakam Bridge become a favorite photo spot?",
+                "options": [
+                    "Because it is the only bridge in Samarinda.",
+                    "Because it is the oldest bridge in Indonesia.",
+                    "Because of its impressive structure and beautiful lighting at night.",
+                    "Because it connects to the Samarinda Seberang area.",
+                    "Because it is used for social gatherings."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Teks menyatakan 'Its towering steel structure... are impressive' dan 'the bridge is illuminated by colorful lights, making it a favorite spot for photography'."
+            },
+            {
+                "question": "8. According to the text, which of the following is a physical feature of the bridge, not its function?",
+                "options": [
+                    "Connecting the city center with Samarinda Seberang.",
+                    "Serving as a vital route for transportation.",
+                    "Boosting the city's identity.",
+                    "Being a spot for social gatherings.",
+                    "Having a towering steel structure and intricate cables."
+                ],
+                "correctAnswer": 4,
+                "explanation": "Sebuah jembatan *memiliki* struktur baja tinggi dan kabel. Pilihan A-D adalah *fungsi* (apa yang ia lakukan) atau *nilai* (bagaimana ia dirasakan)."
+            },
+            {
+                "question": "9. What is the author's primary purpose in writing this text?",
+                "options": [
+                    "To persuade the government to build more bridges.",
+                    "To explain the engineering principles of a suspension bridge.",
+                    "To describe the Mahakam Bridge as both a functional structure and a city icon.",
+                    "To promote a specific photography competition at the bridge.",
+                    "To criticize the crowds that gather at the bridge."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Ini adalah Descriptive Text. Tujuannya adalah untuk mendeskripsikan secara rinci, mencakup fungsi (transportasi) dan estetik (ikon kota)."
+            },
+            {
+                "question": "10. What can be inferred about the bridge's role in the city?",
+                "options": [
+                    "It is only important for transportation.",
+                    "It is a vital part of the city's economy and cultural identity.",
+                    "It is becoming less popular over time.",
+                    "It is mainly a historical artifact with no modern use.",
+                    "It is dangerous to visit at night."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Teks menyebutkan 'vital function for transportation' (ekonomi) dan 'symbol of Samarinda's identity' (budaya/ikonik), menjadikannya bagian penting dari keduanya."
+            }
+        ]
+    },
+    {
+        "passageTitle": "Text 3: Announcements (Questions 11-18)",
+        "passageText": "(Announcement 1: Debate)\nTo: All Students of Class 10 and 11\n\nThe English Club is hosting its annual Debate Competition.\nDate: Saturday, December 14th, 2025\nTime: 9:00 AM - 3:00 PM\nVenue: School Auditorium\nTheme: \"The Role of AI in Modern Education\"\nRegistration: Free. Sign up your team (3 members) at the English Club room (Ms. Rina) by December 10th.\nA. All participants must attend a mandatory technical meeting on Dec 12th.\nB. Exciting prizes await the winners!\n\n(Announcement 2: Workshop)\n... The Student Council will hold a 'Digital Leadership' workshop on Friday, 20th December. This workshop is not mandatory, but seats are limited. The workshop aims to equip students with essential skills for managing online projects and teams. All participants will receive a digital certificate.\n\n(Announcement 3: Sports Day)\n... Our annual Sports Day will be held next week. The following sports are available: Futsal, Basketball, and Badminton. Students who wish to participate in Badminton must bring their own rackets. Futsal and basketballs will be provided by the school.",
+        "questions": [
+            {
+                "question": "11. What is the main purpose of Announcement 1 (Debate)?",
+                "options": [
+                    "To teach students about the role of AI.",
+                    "To invite students to watch the debate competition.",
+                    "To inform and invite students to participate in the debate competition.",
+                    "To announce the winners of a previous competition.",
+                    "To recruit new members for the English Club."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Tujuan utama Announcement Text adalah untuk mengumumkan dan mengajak audiens target (Siswa Kelas 10 & 11) untuk berpartisipasi ('Sign up your team')."
+            },
+            {
+                "question": "12. Which part of Announcement 1 informs participants about a mandatory preparatory session?",
+                "options": [
+                    "The headline \"To: All Students\".",
+                    "The \"Theme\" section.",
+                    "The \"Registration\" section.",
+                    "Point A.",
+                    "Point B."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Point A menyatakan: 'All participants must attend a mandatory technical meeting on Dec 12th.' Kata kunci 'mandatory' menunjukkan keharusan."
+            },
+            {
+                "question": "13. A student from Class 12 wishes to join Announcement 1. Based on the text, can they participate?",
+                "options": [
+                    "Yes, because it is open to all students.",
+                    "Yes, if they register before December 10th.",
+                    "No, because the competition is explicitly for Classes 10 and 11.",
+                    "No, because the team must consist of 3 members.",
+                    "The text does not provide this information."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Pengumuman tersebut ditujukan secara spesifik kepada 'All Students of Class 10 and 11', tidak mencakup Kelas 12."
+            },
+            {
+                "question": "14. What is the implied purpose of holding the Digital Leadership workshop (Announcement 2)?",
+                "options": [
+                    "To fulfill a school requirement.",
+                    "To give all students a digital certificate.",
+                    "To help students improve their leadership abilities in a digital context.",
+                    "To replace a regular class on Friday.",
+                    "To recruit new members for the Student Council."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Teks menyatakan 'The workshop aims to equip students with essential skills for managing online projects and teams'—yaitu meningkatkan kemampuan kepemimpinan digital."
+            },
+            {
+                "question": "15. What is the likely consequence if a student wants to join the workshop (Announcement 2) but registers late?",
+                "options": [
+                    "They will have to pay a fine.",
+                    "They might not get a spot because seats are limited.",
+                    "They will not receive a digital certificate.",
+                    "They must join the Student Council first.",
+                    "They will be given priority."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Teks menyebutkan 'seats are limited'. Konsekuensi logis dari keterlambatan pendaftaran saat kursi terbatas adalah kemungkinan tidak mendapatkan tempat."
+            },
+            {
+                "question": "16. Based on Announcement 3, which action is not mandatory for all student athletes?",
+                "options": [
+                    "Participating in Sports Day.",
+                    "Registering for a sport.",
+                    "Bringing their own sports equipment.",
+                    "Playing Futsal.",
+                    "Cooperating with teammates."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Hanya peserta Badminton yang harus membawa raket ('must bring their own rackets'). Peserta Futsal dan Basket tidak perlu karena disediakan sekolah, sehingga membawa peralatan sendiri tidak wajib bagi *semua* atlet."
+            },
+            {
+                "question": "17. According to Announcement 3, what equipment is provided by the school?",
+                "options": [
+                    "Badminton rackets and futsal balls.",
+                    "Basketballs and badminton rackets.",
+                    "All necessary equipment for all sports.",
+                    "Only shuttlecocks for badminton.",
+                    "Balls for futsal and basketball."
+                ],
+                "correctAnswer": 4,
+                "explanation": "Teks menyatakan: 'Futsal and basketballs will be provided by the school.' Racket Badminton tidak disediakan ('must bring their own rackets')."
+            },
+            {
+                "question": "18. If a student wants to play badminton but does not have a racket, what is the implied outcome?",
+                "options": [
+                    "The school will provide one for them.",
+                    "They will be moved to the futsal team.",
+                    "They will not be able to play in the badminton competition.",
+                    "They can borrow one from the basketball team.",
+                    "They must buy one at the event."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Jika peserta 'must bring their own rackets' dan dia tidak memilikinya, implikasinya adalah dia tidak dapat berpartisipasi dalam Badminton."
+            }
+        ]
+    },
+    {
+        "passageTitle": "Text 4: Advertisement 'Kopilokal' (Questions 19-25)",
+        "passageText": "(Image of an advertisement for a coffee shop)\nKOPILOKAL\nYour Daily Dose of Local Goodness\n\nAre you looking for the perfect spot?\nWe serve 100% premium Arabica coffee, sourced directly from local farmers.\nEnjoy our signature \"Kopi Susu Senja\" in our cozy workspace area, complete with free high-speed Wi-Fi and ample power outlets.\n\nWe believe in sustainability. All our packaging, from cups to straws, is 100% compostable.\n\nPromo: Show your student ID to get a 20% discount on all beverages, every Wednesday!",
+        "questions": [
+            {
+                "question": "19. What is the function of the slogan \"Your Daily Dose of Local Goodness\"?",
+                "options": [
+                    "To specify the cafe's opening hours.",
+                    "To highlight the cafe's commitment to using local products.",
+                    "To list the main ingredients in their coffee.",
+                    "To state the price of their coffee.",
+                    "To guarantee the coffee is good for health."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Frasa 'Local Goodness' mengaitkan produk dengan sumber lokal, yang didukung oleh pernyataan 'sourced directly from local farmers'."
+            },
+            {
+                "question": "20. Who is the primary target audience for this advertisement?",
+                "options": [
+                    "International tourists and coffee exporters.",
+                    "Elderly people looking for a quiet place.",
+                    "Students and remote workers.",
+                    "Local coffee farmers.",
+                    "Families with small children."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Teks menyoroti 'cozy workspace area, complete with free high-speed Wi-Fi and ample power outlets', dan diskon 20% untuk 'student ID'. Ini menargetkan pelajar dan pekerja yang butuh tempat kerja/belajar."
+            },
+            {
+                "question": "21. What is implied by the \"cozy workspace area\" feature?",
+                "options": [
+                    "The cafe is very large and noisy.",
+                    "The cafe is designed to be comfortable for people who need to study or work.",
+                    "The cafe only serves people who are working.",
+                    "The cafe charges an extra fee for Wi-Fi.",
+                    "The cafe has meeting rooms for rent."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Menawarkan 'workspace area' yang 'cozy' (nyaman) dengan Wi-Fi dan stop kontak berarti kafe tersebut dirancang untuk mendukung aktivitas belajar atau kerja."
+            },
+            {
+                "question": "22. What information in the text suggests \"Kopilokal\" is an eco-friendly business?",
+                "options": [
+                    "They use 100% premium Arabica coffee.",
+                    "They have free high-speed Wi-Fi.",
+                    "They offer a 20% discount for students.",
+                    "They use 100% compostable packaging.",
+                    "They source coffee from local farmers."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Istilah 'compostable packaging' (kemasan yang dapat diurai) dan 'sustainability' jelas menunjukkan komitmen terhadap lingkungan."
+            },
+            {
+                "question": "23. What is the most likely strategic impact of mentioning \"sustainability\" in the ad?",
+                "options": [
+                    "To justify their high prices.",
+                    "To attract environmentally-conscious customers.",
+                    "To announce a new recycling program.",
+                    "To criticize other coffee shops.",
+                    "To meet a minimum legal requirement."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Di pasar modern, menonjolkan aspek keberlanjutan adalah strategi persuasif untuk menarik pelanggan yang peduli lingkungan ('environmentally-conscious customers')."
+            },
+            {
+                "question": "24. What is the specific condition to get the 20% discount?",
+                "options": [
+                    "One must be a student and buy coffee on a Wednesday.",
+                    "One must buy \"Kopi Susu Senja\".",
+                    "One must be a local farmer.",
+                    "One must buy coffee on any day of the week.",
+                    "One must show their ID card on any day."
+                ],
+                "correctAnswer": 0,
+                "explanation": "Promo: 'Show your student ID to get a 20% discount on all beverages, every Wednesday!'. Diperlukan ID pelajar (student) dan pembelian pada hari Rabu (Wednesday)."
+            },
+            {
+                "question": "25. What is the main purpose of this advertisement?",
+                "options": [
+                    "To inform farmers how to sell their coffee beans.",
+                    "To persuade the target audience to visit and buy coffee at Kopilokal.",
+                    "To describe the process of making compostable cups.",
+                    "To announce the opening of a new Kopilokal branch.",
+                    "To compare local Arabica with imported coffee."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Tujuan utama iklan adalah persuasi untuk membeli produk atau layanan."
+            }
+        ]
+    },
+    {
+        "passageTitle": "Text 5: Poster 3R (Questions 26-30)",
+        "passageText": "(Description of a Poster)\n\nThe poster is titled \"Be the Solution to Pollution!\" It features three large, green arrows forming a circle. Inside each arrow is a word: REDUCE, REUSE, RECYCLE.\n\nBelow REDUCE: An image of a person refusing a plastic bag. Text reads: \"Buy less, choose products with minimal packaging.\"\n\nBelow REUSE: An image of a glass jar being used as a pencil holder. Text reads: \"Find new ways to use old items.\"\n\nBelow RECYCLE: An image of plastic bottles being turned into a t-shirt. Text reads: \"Turn waste into new products.\"\n\nAt the bottom, a slogan reads: \"Your actions matter. Protect our Earth.\"",
+        "questions": [
+            {
+                "question": "26. What is the main message the poster intends to deliver?",
+                "options": [
+                    "Pollution is an unsolvable problem.",
+                    "Recycling is the only way to save the Earth.",
+                    "Individual actions in managing waste are important for the environment.",
+                    "People should only buy products made from recycled materials.",
+                    "Reusing items is more important than reducing consumption."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Judulnya adalah 'Be the Solution to Pollution!' dan slogannya adalah 'Your actions matter', menekankan pentingnya tindakan individu (Reduce, Reuse, Recycle) dalam mengatasi masalah lingkungan."
+            },
+            {
+                "question": "27. Which of the following statements is correct according to the poster's message?",
+                "options": [
+                    "\"Reduce\" means buying products in bulk.",
+                    "\"Reuse\" means throwing away old items.",
+                    "\"Recycle\" involves creating new items from waste.",
+                    "Only large corporations can solve pollution.",
+                    "Plastic bags are good for the environment."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Di bawah RECYCLE, teks berbunyi: 'Turn waste into new products' (Mengubah sampah menjadi produk baru), yang sesuai dengan definisinya."
+            },
+            {
+                "question": "28. Which of the following actions is an example of REUSE as classified by the poster?",
+                "options": [
+                    "Buying a t-shirt made from plastic bottles.",
+                    "Using a cloth bag for shopping instead of a plastic one.",
+                    "Donating old clothes to charity.",
+                    "Using an old tire as a garden planter.",
+                    "Putting plastic bottles in the recycling bin."
+                ],
+                "correctAnswer": 3,
+                "explanation": "REUSE adalah 'Find new ways to use old items'. Mengubah ban bekas (old item) menjadi pot bunga (new use) adalah contoh Reuse. (Pilihan A adalah Recycle, B adalah Reduce/Reuse, E adalah Recycle)."
+            },
+            {
+                "question": "29. Why does the poster show a plastic bottle being turned into a t-shirt under \"RECYCLE\"?",
+                "options": [
+                    "To show that recycling is a difficult and expensive process.",
+                    "To illustrate that waste can be transformed into a valuable new item.",
+                    "To promote a specific brand of t-shirt.",
+                    "To warn people about the dangers of plastic bottles.",
+                    "To suggest that t-shirts are the only product of recycling."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Contoh tersebut menunjukkan bahwa proses daur ulang (Recycle) mengubah sampah (plastic bottle) menjadi sesuatu yang bernilai (t-shirt)."
+            },
+            {
+                "question": "30. In the context of the poster, the word \"REDUCE\" primarily means...",
+                "options": [
+                    "To lower the price of goods.",
+                    "To decrease the amount of waste one generates.",
+                    "To break down waste materials.",
+                    "To find a new purpose for an item.",
+                    "To buy items in smaller packages."
+                ]
+            }
+        ]
+    },
+    {
+        "passageTitle": "Text 6: Bandung Lautan Api (Questions 31-35)",
+        "passageText": "The \"Bandung Lautan Api\" (Bandung Sea of Fire) was a deliberate act of arson that occurred in Bandung, Indonesia, on March 24, 1946. This event was a key episode in the Indonesian National Revolution.\n\nThe \"scorched earth\" tactic was executed by Indonesian republican fighters. This was not an act of blind destruction. It was a strategic decision following an ultimatum from the British forces (representing the Allies) to clear the southern part of the city of all Indonesian armed units. Rather than surrender the city and allow the Allies and the returning Dutch NICA forces to use its buildings and infrastructure, the Indonesian command, under Colonel Abdul Haris Nasution, decided to evacuate the civilian population and burn the city down. This defiant act was intended to show that Indonesia would rather destroy its own assets than let them fall into enemy hands.",
+        "questions": [
+            {
+                "question": "31. What was the main reason Indonesian fighters implemented the \"scorched earth\" tactic in Bandung?",
+                "options": [
+                    "To protest the Japanese surrender.",
+                    "To prevent the Allies and NICA forces from using the city's resources.",
+                    "To clear the land for new development.",
+                    "To accidentally destroy the city during a battle.",
+                    "To force the civilian population to fight."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Teks menyatakan tujuannya adalah: 'Rather than surrender the city and allow the Allies and the returning Dutch NICA forces to use its buildings and infrastructure, the Indonesian command... decided to... burn the city down'."
+            },
+            {
+                "question": "32. The text states the decision was made by Colonel A.H. Nasution. This implies that the event was...",
+                "options": [
+                    "A spontaneous riot by angry civilians.",
+                    "A strategic, organized military operation.",
+                    "A mistake caused by a misunderstanding.",
+                    "An act of surrender to the British forces.",
+                    "A plan designed by the Dutch NICA forces."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Keputusan yang dibuat oleh seorang komandan militer ('Colonel Abdul Haris Nasution') menunjukkan bahwa tindakan tersebut adalah operasi militer yang terorganisir dan strategis ('strategic decision')."
+            },
+            {
+                "question": "33. The action of burning Bandung can be classified as...",
+                "options": [
+                    "A desperate act of surrender.",
+                    "A demonstration of nationalistic defiance and strategy.",
+                    "A regional conflict unrelated to national independence.",
+                    "An attempt to gain international sympathy.",
+                    "A collaboration with the British forces."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Teks menyebutnya 'defiant act' (tindakan pembangkangan) dan dilakukan 'rather than surrender', menunjukkan perlawanan strategis ('strategy') yang didasari nasionalisme."
+            },
+            {
+                "question": "34. What is the meaning of the \"scorched earth\" tactic in this historical context?",
+                "options": [
+                    "A traditional ceremony involving fire.",
+                    "A military strategy of destroying one's own resources to deny them to the enemy.",
+                    "A natural disaster caused by a volcanic eruption.",
+                    "A farming technique used to clear land.",
+                    "A code name for a secret negotiation."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Taktik ini adalah penghancuran aset ('burn the city down') oleh pihak sendiri untuk mencegah penggunaannya oleh musuh ('deny them to the enemy')."
+            },
+            {
+                "question": "35. What event immediately led to the decision to burn Bandung?",
+                "options": [
+                    "The Japanese surrender.",
+                    "The arrival of Dutch NICA forces.",
+                    "The British ultimatum for Indonesian forces to leave the city.",
+                    "The evacuation of the civilian population.",
+                    "The declaration of Indonesian independence."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Teks menyebutkan 'This was a strategic decision following an ultimatum from the British forces... to clear the southern part of the city'."
+            }
+        ]
+    },
+    {
+        "passageTitle": "Text 7: Proklamasi (Questions 36-40)",
+        "passageText": "The Proclamation of Indonesian Independence was read at 10:00 AM on Friday, August 17, 1945. The declaration marked the start of the diplomatic and armed resistance of the Indonesian National Revolution, fighting against the forces of the Netherlands.\n\nThis pivotal moment was preceded by a series of tense events. Following the Japanese surrender to the Allies, a power vacuum existed. The golongan muda (youth group) grew impatient with the golongan tua (older group), led by Soekarno and Hatta, whom they felt were being too cautious. The youth group \"kidnapped\" Soekarno and Hatta and took them to Rengasdengklok to convince them to declare independence immediately.\n\nThe text of the proclamation itself was drafted just hours before it was read, at the house of Admiral Tadashi Maeda. The proclamation was simple, yet powerful: \"We, the people of Indonesia, hereby declare the independence of Indonesia.\" This act was a unilateral declaration of sovereignty, establishing a new nation.",
+        "questions": [
+            {
+                "question": "36. What was the primary role of the golongan muda (youth group) in the events leading to the proclamation?",
+                "options": [
+                    "They drafted the final text of the proclamation.",
+                    "They negotiated the Japanese surrender with the Allies.",
+                    "They formally read the proclamation to the public.",
+                    "They provided the house for the drafting of the text.",
+                    "They pressured the older leaders to declare independence without delay."
+                ],
+                "correctAnswer": 4,
+                "explanation": "Golongan muda 'grew impatient' dan mengambil Soekarno-Hatta ke Rengasdengklok 'to convince them to declare independence immediately', yaitu memberikan tekanan."
+            },
+            {
+                "question": "37. The text states the proclamation was a \"unilateral declaration of sovereignty\". What is the best meaning of \"sovereignty\"?",
+                "options": [
+                    "The act of surrendering to a foreign power.",
+                    "The state of being a colony.",
+                    "The authority of a state to govern itself; complete independence.",
+                    "A temporary government established during wartime.",
+                    "A peaceful negotiation for freedom."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Sovereignty (kedaulatan) berarti kekuasaan tertinggi negara untuk mengatur diri sendiri secara independen."
+            },
+            {
+                "question": "38. According to the text, which of the following events happened before the proclamation was read on August 17th?",
+                "options": [
+                    "The start of the armed resistance against the Netherlands.",
+                    "The reading of the text at 10:00 AM.",
+                    "The establishment of the Indonesian government.",
+                    "The \"kidnapping\" of Soekarno and Hatta to Rengasdengklok.",
+                    "The recognition of independence by the Netherlands."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Urutan: Jepang menyerah -> Vakum Kekuasaan -> Golongan Muda 'kidnapped' (Rengasdengklok) -> Proklamasi dibaca. Jadi penculikan terjadi sebelum pembacaan."
+            },
+            {
+                "question": "39. What was the most significant immediate impact of the proclamation?",
+                "options": [
+                    "It immediately ended all fighting in Indonesia.",
+                    "It established Indonesia as a new, independent nation, triggering a revolutionary war.",
+                    "It made Admiral Maeda the leader of Indonesia.",
+                    "It caused the Japanese to retake control of Indonesia.",
+                    "It was immediately recognized by the Netherlands and the Allies."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Proklamasi 'marked the start of the diplomatic and armed resistance' (memicu perang revolusi) yang bertujuan menegakkan status 'a new nation'."
+            },
+            {
+                "question": "40. What is the main function of the first paragraph of this text?",
+                "options": [
+                    "To describe the drafting process of the proclamation.",
+                    "To provide the orientation (what, when, and its significance) of the event.",
+                    "To explain the role of the golongan muda.",
+                    "To give the re-orientation or conclusion of the revolution.",
+                    "To analyze the text of the proclamation itself."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Paragraf pertama memberikan pengenalan dasar: 'The Proclamation... was read...' (What & When), dan 'marked the start of the... Revolution' (Significance/Why)."
+            }
+        ]
+    }
+]

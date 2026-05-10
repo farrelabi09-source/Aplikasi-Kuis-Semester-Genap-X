@@ -1,0 +1,478 @@
+[
+    {
+        "passageTitle": "BAGIAN I: Identifikasi Fauna Lokal (Burung Khas Kalimantan)",
+        "passageText": "Petunjuk: Pilihlah satu jawaban yang paling tepat (A, B, C, atau D) untuk setiap pertanyaan.",
+        "questions": [
+            {
+                "question": "1. Perhatikan gambar burung khas Kalimantan di bawah ini. <br><br> <img src='data:image/jpeg;base64,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' alt='Enggang Badak' class='w-full rounded-lg mx-auto max-w-sm'> <br><br> Ciri morfologi utama yang paling menonjol dari spesies burung pada gambar tersebut adalah...",
+                "options": [
+                    "Ukuran tubuh kecil dengan warna bulu metalik.",
+                    "Kaki berselaput untuk berenang.",
+                    "Paruh besar dengan struktur tambahan di atasnya (balung/casque).",
+                    "Ekor yang sangat panjang melebihi panjang tubuhnya."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Gambar tersebut adalah Burung Enggang (Rangkong) Badak. Ciri khas utama semua jenis Enggang adalah paruh yang besar dan adanya balung (casque) di atas paruh tersebut."
+            },
+            {
+                "question": "2. Perhatikan gambar berikut. <br><br> <img src='https://image.idntimes.com/post/20240430/polyplectron-schleiermacheri-04-a082c699d0324c4e89178fed218ea446-2bdbd8a6f723dde292071ef7fd2dc002.jpg?tr=w-1200,f-webp,q-75&width=1200&format=webp&quality=75' class='w-full rounded-lg mx-auto max-w-sm'> <br><br> Burung endemik Kalimantan pada gambar, yang terkenal dengan bulu ekor bermotif \"mata\" dan terancam punah, adalah...",
+                "options": [
+                    "Murai Batu Borneo",
+                    "Enggang Gading",
+                    "Kuau Kerdil Kalimantan (Polyplectron schleiermacheri)",
+                    "Raja Udang Hutan"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Gambar tersebut adalah Kuau Kerdil Kalimantan, yang memiliki ciri khas bulu ekor jantan dengan ocelli (bintik mata) berwarna biru-hijau metalik."
+            },
+            {
+                "question": "3. Dalam sebuah data penelitian, tertulis: \"Spesies Buceros rhinoceros teramati bersarang di lubang pohon Ulin (Eusideroxylon zwageri) pada ketinggian 25 meter. Selama pengeraman, betina tidak pernah keluar sarang.\" Data ini menjelaskan aspek...",
+                "options": [
+                    "Morfologi dan persebaran.",
+                    "Perilaku (behavior) dan habitat.",
+                    "Klasifikasi dan taksonomi.",
+                    "Pemanfaatan dan ekonomi."
+                ],
+                "correctAnswer": 1,
+                "explanation": "\"Bersarang di lubang pohon\" dan \"betina tidak pernah keluar\" adalah deskripsi perilaku dan habitat (tempat hidup/sarang) burung tersebut."
+            },
+            {
+                "question": "4. Tingkat endemisme fauna yang tinggi di Kalimantan berarti...",
+                "options": [
+                    "Sebagian besar fauna di Kalimantan juga dapat ditemukan di pulau lain.",
+                    "Spesies fauna di Kalimantan memiliki tingkat reproduksi yang sangat tinggi.",
+                    "Kalimantan memiliki banyak spesies unik yang tidak ditemukan di tempat lain.",
+                    "Fauna di Kalimantan sangat mudah beradaptasi dengan perubahan lingkungan."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Endemik/Endemisme adalah istilah untuk spesies yang hanya ditemukan secara alami di satu wilayah geografis tertentu dan tidak ada di tempat lain."
+            },
+            {
+                "question": "5. Perhatikan ilustrasi sarang burung berikut. <br><br> <img src='https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/103/2024/05/26/IMG_20240526_115326-2701631696.jpg' class='w-full rounded-lg mx-auto max-w-sm'> <br><br> Ilustrasi tersebut menunjukkan perilaku reproduksi unik dari Burung Enggang, yaitu...",
+                "options": [
+                    "Enggang jantan dan betina bergantian membangun sarang dari ranting.",
+                    "Induk betina menyegel diri di dalam lubang pohon selama mengerami telur.",
+                    "Sarang dibuat di atas tanah untuk kamuflase.",
+                    "Burung jantan akan meninggalkan betina setelah telur menetas."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Ini adalah perilaku khas Enggang. Betina akan masuk ke lubang pohon, lalu lubang itu ditutup (disegel) dengan lumpur/kotoran, menyisakan celah kecil bagi jantan untuk memberi makan."
+            },
+            {
+                "question": "6. Data morfologi yang umum digunakan untuk mengidentifikasi spesies burung di lapangan adalah...",
+                "options": [
+                    "Bentuk paruh, pola warna bulu, dan suara kicauan.",
+                    "Jenis makanan, jumlah telur, dan lokasi persebaran.",
+                    "Nama ilmiah dan nama lokal.",
+                    "Status konservasi dan nilai ekonominya."
+                ],
+                "correctAnswer": 0,
+                "explanation": "Morfologi adalah ciri fisik. Bentuk paruh (menunjukkan jenis pakan), pola bulu (kamuflase/identitas), dan suara (perilaku) adalah data utama untuk identifikasi."
+            },
+            {
+                "question": "7. Persebaran utama burung-burung besar seperti Enggang Gading di Kalimantan berada di...",
+                "options": [
+                    "Kawasan pesisir dan hutan mangrove.",
+                    "Hutan primer dataran rendah dengan pohon-pohon besar.",
+                    "Area perkebunan kelapa sawit yang terbuka.",
+                    "Padang rumput dan sabana."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Enggang membutuhkan pohon besar dan tua di hutan primer (hutan utuh) untuk bersarang dan mencari makan (buah-buahan)."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN II: Regulasi dan Kebijakan Perlindungan",
+        "passageText": "Soal-soal ini menguji pemahaman Anda tentang hukum dan status konservasi satwa liar.",
+        "questions": [
+            {
+                "question": "8. Di Indonesia, payung hukum utama yang mengatur tentang Konservasi Sumber Daya Alam Hayati dan Ekosistemnya, termasuk perlindungan satwa, adalah...",
+                "options": [
+                    "UU Nomor 5 Tahun 1990",
+                    "UU Nomor 41 Tahun 1999",
+                    "Peraturan Pemerintah Nomor 7 Tahun 1999",
+                    "UU Nomor 23 Tahun 2014"
+                ],
+                "correctAnswer": 0,
+                "explanation": "UU No. 5 Tahun 1990 adalah dasar hukum utama untuk semua kegiatan konservasi di Indonesia. PP 7/1999 (C) adalah peraturan pelaksananya yang berisi daftar satwa dilindungi (sekarang diganti P.106)."
+            },
+            {
+                "question": "9. Perhatikan logo lembaga internasional berikut. <br><br> <img src='https://cdn.brandfetch.io/idESmtGOXK/w/355/h/355/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B' alt='Logo IUCN Red List' class='w-1/2 rounded-lg mx-auto bg-white p-2'> <br><br> Lembaga yang mengeluarkan logo \"Red List\" (Daftar Merah) seperti pada gambar dan berperan menilai status konservasi spesies secara global adalah...",
+                "options": [
+                    "CITES",
+                    "WWF",
+                    "UNESCO",
+                    "IUCN"
+                ],
+                "correctAnswer": 3,
+                "explanation": "IUCN (International Union for Conservation of Nature) adalah lembaga yang menyusun dan menerbitkan IUCN Red List, yang menjadi standar global untuk status keterancaman spesies."
+            },
+            {
+                "question": "10. Burung Enggang Gading (Rhinoplax vigil) saat ini memiliki status konservasi Critically Endangered (CR) menurut IUCN. Makna dari status tersebut adalah...",
+                "options": [
+                    "Spesies tersebut sudah punah di alam liar.",
+                    "Spesies tersebut menghadapi risiko kepunahan yang sangat ekstrem di alam liar.",
+                    "Spesies tersebut populasinya aman, namun perlu diawasi.",
+                    "Data mengenai spesies tersebut tidak mencukupi untuk dinilai."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Critically Endangered (CR) atau Kritis/Sangat Terancam Punah adalah satu langkah sebelum punah di alam liar (EW - Extinct in the Wild)."
+            },
+            {
+                "question": "11. CITES (Convention on International Trade in Endangered Species) adalah lembaga yang mengatur perdagangan satwa liar. Jika seekor burung masuk dalam Apendiks I CITES, maka...",
+                "options": [
+                    "Boleh diperdagangkan secara bebas.",
+                    "Perdagangan komersial internasional dilarang total.",
+                    "Perdagangan diizinkan dengan kuota terbatas.",
+                    "Hanya boleh diperdagangkan di dalam negeri."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Apendiks I adalah tingkat perlindungan tertinggi CITES. Ini berlaku untuk spesies yang paling terancam, di mana perdagangan komersial internasional dilarang keras (kecuali untuk tujuan non-komersial seperti penelitian)."
+            },
+            {
+                "question": "12. Tujuan utama penetapan status \"Dilindungi\" oleh Pemerintah Indonesia terhadap suatu spesies adalah...",
+                "options": [
+                    "Agar harganya di pasar gelap menjadi mahal.",
+                    "Untuk mencegah eksploitasi berlebih dan menjaga kelestariannya.",
+                    "Agar dapat diekspor secara legal ke luar negeri.",
+                    "Untuk membatasi penelitian ilmiah terhadap spesies tersebut."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Tujuan utama regulasi adalah untuk konservasi (perlindungan, pelestarian, pemanfaatan berkelanjutan) guna mencegah kepunahan akibat eksploitasi."
+            },
+            {
+                "question": "13. Status konservasi Vulnerable (VU) atau Rentan berarti...",
+                "options": [
+                    "Spesies tersebut sudah pasti akan punah dalam 10 tahun.",
+                    "Spesies tersebut menghadapi risiko kepunahan yang tinggi di alam liar.",
+                    "Spesies tersebut memiliki populasi yang sangat banyak.",
+                    "Spesies tersebut hanya hidup di satu lokasi saja."
+                ],
+                "correctAnswer": 1,
+                "explanation": "VU (Vulnerable/Rentan) adalah kategori di bawah Endangered (EN). Ini berarti spesies tersebut berisiko tinggi untuk punah, meskipun belum seekstrem EN atau CR."
+            },
+            {
+                "question": "14. Dasar hukum di Indonesia yang berisi daftar jenis tumbuhan dan satwa yang dilindungi adalah...",
+                "options": [
+                    "UU Nomor 5 Tahun 1990",
+                    "Peraturan Menteri LHK No. P.106 Tahun 2018",
+                    "Kitab Undang-Undang Hukum Pidana (KUHP)",
+                    "Konvensi CITES"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Peraturan Menteri LHK P.106/2018 (yang menggantikan PP 7/1999) adalah peraturan terbaru yang memuat daftar spesies flora dan fauna yang dilindungi secara hukum di Indonesia."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN III: Peran Ekologi dan Pemanfaatan",
+        "passageText": "Memahami peran fauna di alam dan bagaimana pemanfaatannya secara berkelanjutan.",
+        "questions": [
+            {
+                "question": "15. Burung Enggang sering dijuluki sebagai \"Petani Hutan\" (Farmer of the Forest). Julukan ini merujuk pada peran ekologisnya sebagai...",
+                "options": [
+                    "Pengontrol hama serangga.",
+                    "Predator puncak di rantai makanan.",
+                    "Penyebar biji (seed dispersal) yang efektif.",
+                    "Penyerbuk bunga (polinator) utama."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Enggang memakan buah-buahan, terbang jauh, lalu mengeluarkan bijinya di tempat lain. Ini membantu regenerasi hutan dengan menyebarkan biji pohon ke seluruh penjuru hutan."
+            },
+            {
+                "question": "16. Bentuk pemanfaatan fauna lokal yang tidak sesuai dengan prinsip konservasi adalah...",
+                "options": [
+                    "Ekowisata pengamatan burung (birdwatching).",
+                    "Penelitian perilaku satwa di habitat aslinya.",
+                    "Perburuan Enggang Gading untuk diambil balungnya.",
+                    "Penangkaran legal untuk tujuan pengembalian ke alam."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Mengambil bagian tubuh satwa (balung) dari alam liar, apalagi yang berstatus dilindungi, adalah pemanfaatan yang eksploitatif, ilegal, dan tidak berkelanjutan."
+            },
+            {
+                "question": "17. Manfaat ekonomi yang dapat diperoleh dari keberadaan burung endemik Kalimantan secara berkelanjutan adalah melalui...",
+                "options": [
+                    "Penjualan dagingnya untuk konsumsi.",
+                    "Perdagangan satwa hidup hasil tangkapan alam.",
+                    "Pengembangan ekowisata dan jasa pemandu lokal.",
+                    "Pengambilan telur untuk diperjualbelikan."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Ekowisata adalah pemanfaatan jasa lingkungan (non-konsumtif) yang memberikan nilai ekonomi kepada masyarakat lokal tanpa merusak populasi satwa di alam."
+            },
+            {
+                "question": "18. Jika burung-burung pemakan serangga di suatu ekosistem hutan berkurang drastis, dampak ekologis yang paling mungkin terjadi adalah...",
+                "options": [
+                    "Peningkatan populasi pohon buah-buahan.",
+                    "Ledakan populasi (outbreak) hama serangga.",
+                    "Penurunan populasi predator besar (kucing hutan).",
+                    "Peningkatan kesuburan tanah."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Burung pemakan serangga berperan sebagai agen pengendali hayati. Jika mereka hilang, populasi serangga (yang seringkali menjadi hama) akan meningkat pesat."
+            },
+            {
+                "question": "19. Dalam rantai makanan, burung Raja Udang (Kingfisher) yang memangsa ikan kecil di sungai berperan sebagai...",
+                "options": [
+                    "Produsen",
+                    "Konsumen primer",
+                    "Konsumen sekunder / tersier",
+                    "Dekomposer"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Jika ikan kecil memakan plankton (konsumen primer), maka Raja Udang yang memakan ikan kecil adalah konsumen sekunder. Jika ikan kecil memakan serangga air (konsumen sekunder), Raja Udang menjadi konsumen tersier."
+            },
+            {
+                "question": "20. Pernyataan yang tepat mengenai pemanfaatan satwa adalah...",
+                "options": [
+                    "Semua pemanfaatan satwa liar untuk budaya harus dihentikan.",
+                    "Pemanfaatan ekonomi adalah satu-satunya tujuan konservasi.",
+                    "Pemanfaatan harus dilakukan secara bijak dan berkelanjutan (lestari).",
+                    "Satwa yang dilindungi tidak boleh dimanfaatkan sama sekali."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Prinsip konservasi modern mengacu pada 3P: Perlindungan, Pengawetan, dan Pemanfaatan Lestari. Pemanfaatan boleh dilakukan selama tidak mengancam kelestarian populasi."
+            },
+            {
+                "question": "21. Penggunaan bulu Enggang dalam jumlah terbatas untuk upacara adat oleh masyarakat Dayak merupakan contoh pemanfaatan secara...",
+                "options": [
+                    "Ekonomi",
+                    "Ekologi",
+                    "Budaya",
+                    "Ilmiah"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Pemanfaatan tersebut terkait dengan ritual, simbol, dan adat istiadat, yang merupakan bagian dari nilai budaya."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN IV: Upaya Pelestarian dan Konservasi",
+        "passageText": "Mengidentifikasi berbagai metode pelestarian fauna, baik di dalam (in-situ) maupun di luar (ex-situ) habitat aslinya.",
+        "questions": [
+            {
+                "question": "22. Penetapan kawasan Taman Nasional, Cagar Alam, dan Suaka Margasatwa adalah contoh upaya konservasi...",
+                "options": [
+                    "In-situ",
+                    "Ex-situ",
+                    "Restorasi",
+                    "Reintroduksi"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Konservasi In-situ (di tempat) adalah pelestarian spesies di dalam habitat alaminya, seperti di Taman Nasional."
+            },
+            {
+                "question": "23. Kebun Binatang, Pusat Rehabilitasi Satwa, dan Taman Safari adalah contoh upaya konservasi...",
+                "options": [
+                    "In-situ",
+                    "Ex-situ",
+                    "Lanskap",
+                    "Genetik"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Konservasi Ex-situ (di luar tempat) adalah pelestarian spesies di luar habitat alaminya, seperti di kebun binatang atau pusat penangkaran."
+            },
+            {
+                "question": "24. Perhatikan gambar kawasan konservasi berikut. <br><br> <img src='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxQTEhUUExMWFhUXGSAbGBgYGR4gHRseICEfHR8YHx4hHyggHxolGyAaITEhJSotLi4uHx8zODMtNygtLisBCgoKDg0OGxAQGy0mICUvNy0tLS0vLS0vLS0tLS8tLS0vLS0tLS0tLS0vLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAL8BBwMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAEBQMGAAECB//EAEYQAAIBAgQEBAMFBgMHAwQDAAECEQMhAAQSMQVBUWEGEyJxMoGRFEKhscEHI1LR4fBigvEVM0NyksLSY6KyFiRzoxc0VP/EABkBAAMBAQEAAAAAAAAAAAAAAAECAwQABf/EAC8RAAICAgECBQMDBAMBAAAAAAABAhEDIRIxQQQTIlFxYYGRMqHwI0JSwVOx0RT/2gAMAwEAAhEDEQA/ANVSrSG0gg+k7agN/f3wq4kUIhOXICBG5M8zIH0547ZhpLNut5iTFhztGFubzAN9On1cz6mBG55+3vjy0/SHG43RrhFMu4UEDqDz7f1wUmWKMSRpItpsI+Qt/T3xHwykClRgSHpkDsZ6HrzwDxCuQyiTZNN/mI/TCiS9UtjmnX0uLyWB9IMHluTbv8sFUazknSo0LIlREGDJPPfmZxX8qmtgzH4VEnueneMWGjUVqJX1FtWkEyBA3OnYAzY79eyt9gw09HOXOgAsB91QNwJgX/zfng6lSmZ3wsqVSsi12EsRIsdUxEclv3HTDahmDGokG07Dl0AG+OSXUGX1IFzqu0qha0fCJNoJkzYcjIxFVpZd1hnos4JB0FV+UhtOse2rviauuoANcfeBmL3uBymLwYjCjjanRZEa5hgq6h1VgD8Xy254EfYREmZUSKYq61j0uwhgP4W0yCRe4md8dZpVp02fUzCNIhYFlgk7G1hcWm+M4JlG0ygY1NQ6SOxPSJHtifjObYK6sxCg/DbsLD5E/LAk/VxRRtUrOc0p80vpHpiRsC0AH29Vz74a8IrClTWsQHrM7FRyAHp1ntOqB1Awo4MNdJGZZ9RaAI9I2X53FvpfDannadQStzAIERb+EjkQLW5YVzcm4r7iuPHZzxGsNTMRqkgksYN+w5XFgOWGqtUFOmCoTV8JBjUOZiTAj/XC/IcO1HzGEbFYG5W/4bzy98G8TzjVNbrBdPSsn4QwIVedx8RPL5Y7JH00vsLB27K5nGq1qz+SQB8OpT6inyvEc1HPpvYuB8ONONSNEelSOlpM2+f8wChctliKhpFldRqKjcWUaSLKJBI698XzKlaOXZncaWE6trk39PIiwjrPMklo6X0RSTs3niaVAlGEASxix6qD/ET/AC5HBuTzTVcsaiSHKkwCLmCIn6n3AxWH4qrlbKaSSAhB6C5IaNV72tIv1JynE1oK6RCH7rT6QxIZSRyG2BGai7l0BVxKvkMk1VqhqhgCSxpMBqcAgeYjSDpB+Fj6iYhgcNyTSVaQq60dS6OQCWBMMtQbE7gyBMnYk4e56jTrZc6VgiTpSBMLARdhAOnfpyxVGoFCbXJ1EyT6utzIJWJH88TnlpOgqIP9mSkQqmR+puQO3LHWUYBe8mT/AH2xzmwGaBP8z0GJMlkzUOlYJEHSxC6vkSJ9hjK4S+7KRlrYbRzAKFdMWOliwjnN2Hp9xMfhiv5OKTE0oaAJgBqgI9ROqZkgmII/KH+Z4cTKaShgTq2Qc4BHxW+XyGB6fh6pTc6aRCmCDr1aSptMkAzv6RsRjXheqTBJspfi11cPWFRgzVApplNJEqWLfFzgddxtgweHDUp0dGlCiFqpm0Wm82JIjfmI3wz47ksrlqeXr5ovUzDsSPLF/SYDG4Hx6RJvANyYwvz3Fta6KZ8sBSz+qSY9MaVO0kwZ69Yx6ivhyXQnSvYEeGBERpAXVGsxEEA+oWkTqjqANpx1m2q09TUT+5qGQA0yQCNURzkxI+VsAUcsXPl1CNIBqBjIDxbSBIBBtflF+cXnI54ikaYpqtQR5dRgfUo9O5vqUTEWuCOom21vqLS7HnWWdlJ9J9RsY+pgggz72vg7K8UqrIpVhDEyukEHlsykzG3PaIwPS82Cqgkh5dp6Ag+wJJvN/ljWV9MuVJLm40g25aY2PWY27YeVCFm8O0fMrKHqp61LEOIWTJmVuDHWxJO+oYzAPhQsK5IhwaeoctyPcxc36k4zGLO4xnTHSdDrLMpWJ332/DCTNEhyu83hRYQYOprszb72wZwWoSkGfnyHL9cazuVYMRfSbgAGJ5knaZJtiidNpjRSs0iMikkmIBA5Ewb37CMK2QuyAEEn8JJ3nD7jKCABzjtfTH6YH4HkrNVkekwN+klvYWHucC+rB1DTRFKmIFxAtf1GYPcwMD0QS2otJ1XF5gC56DHNfiTAsBfVpKyRaRsBA52m+C+FojVlEAy0vvB5x/8AIfM8owiWykegKtbQ8ldQ5RuCeU/PY25YdUKcACLn1QNoO34jHdbKg1SaaQJAvsBe/v74JqjTUZS0mI+kAfh74KpoVrQLVeN9ud8BCqC4BHqiwNrczf6Y6rOCuq532/w/rJGBqYKNv+9JEzEAWEc4IFgDBj3wlJkkq6ls4LSIBLAAXgLtfn37YrvG6RqZlrSoILXAgWAAPWb/AC7YsJzAVd4xXatg71G0s7NpM7W+I9h6d+uM2OT5NoZO3sJrVfUi0RJp0wnqMAaQNRJ5Em9t5+eCeH1A9f005hRLKQNROwjlMRI74pVXNulCmFszAgz965kXMFYCjucWzg9ZaY9agoYKBrkSCD2sf5jfF541GKkuqC3ydMZcc4l5FLy6Y1VXEMRYBf4V6INyd2Mb4oeZzLsFUMfiLkbFYuCS0Hbr/DPTFtzdU6ybSeY9yAR2icK+IUghLhtLAQGgTv1Nj7dh7Gkcqbpo5R4lj8G0i5bULoAxdmEENOrUDDCInXHqne2IfEXGxUpfuxqWmYAj4pMF5PUkXiBJwBwDKNRyjpJavmn82p6gankiy7/ExEudrT1GCOM5IeWArelFMc5DQSSZ3kKRbmeURPI4Rl17/k7qb4XmAj3AiNyLDntYd79sT+J66MgakwqKQZ79RyJ7YTuAEgje0W9U/dPMT7bA9MT11UUVhl+IMfnIiAJgemLfyw2RWvgEH2LFwHPApSEEA2I6ahHPmbW7TzsNxZ1psUiwN4JMXkXJ5Xn5+2B8pnKdJFDVV1mopY+rYG0+neZ298dcXn7yqAQSNpPQkbx3O+M2SNj20he9LXIAMgT9f6ReeeO6NN/+JII6895jv88RcNpei95NhP42PSOXLHWTraD6RA3uxI5XgxPP6Y6SVUuwVp0WPgufCald9CqQFLSUm5KgfxRMQDMERGLNmGX7MXOos3qgAzsBAEEmBA25Tin5V00yfSbAkEgjVJIHax5wJ7YeVc/NMLssHVFpEflzxaGTjpo50eZ+Msk1bM0kT4qc+lzsrQxYmIEC+JshwzyVNUMtRGQIA4IvuSDMjlBIt1IOB+J8RLCqsHVV3M2CkkkR3MD2nrg/yIoCqGEGmAANN4kFTEze4sIMxvjdmbhiUEPKNKyt1clEGAqiDIIJiRAHMRcb3BON1cr6DUBbQLMN7AWv1JkRz7AHEoomrV0L1/s4sGazPkIKKKSSCLFQYO59RmOsC+IRlLRmK7l6D1VZ9LEMdIJHpIBEiJB2O3f54P4dkV368uQmLD3/ACOC+GP5eXKRcEnsTEGQOttjvicCASNu3bCZJN2uiO+Dmmi0216ZZlCyOgFh7YzEdXNNqKiAfafbYHljMS8lS2yiTBeFoqaiRa0Qdz6o6dZJ98FZhvUFY3RrjodjHLfCmmzN6Qbzt+s9IGDuI12J1OBrOljHMixI9yJPc40T/UHHTVEPGKmqFU+qbflHvv8A2cdMhWkukwpXfnMQQRqG99oix74Gy7tJq0zdCTO8zv2IAH44J4jVQgaVjXcATYkSdUfxNsPcdBjkrYvTQqWo7Idcb2gDlaJF5i+HHDCAFYNIIiee0T7jCkrB7TO9vf25X6fPDiivoCdpPLmNv9MGb7FYdGO/9ryoVQBsWi9/w7QBHLC7N5o6rSJ5ncATPTvgUUoJmZa0CbA8z+nzxHnPhJYFTIEHYwR/2zscJwuhX0DxmbDSbbATa/P+uIlpDzQB1mDIa3z+XeAcCIJA6f6YsOV4dpfUxgwJnf3NrdgbxGJyiopsz8nI7q14Mk7RsO/KefyxX8zlKtcMKau52ELYf5zAk3957Yb8RzABA9BlgL3/ALOIH4+8eWoVFQyoAMyTckSBJB6HAh7hXQC/2NmBQKVKbKPSAJ1ASR67GzKSDtAHacE8WzGiUt1sfhmG0yJttPMXwdkuI1HfzC5Gm5AjYkkwINvQDMco3OItWXzdQ6/3dXZb+l7WVjbYizWscO3aQwNwfiUjSxtYEiOZ3H/u5/Q7G1tE3XzAAD8G3UyGBXc9/rhBSG4FhYx96LmPc++JvtXIgkTsDuNyBfcwN7YWfvEa+gw4nl2eqlakzI4IY65aky2INgNJECIMWi0YZqTpGoyWF+ki0jsQQflhC3FRSYpqLMhBBIgNSeWUgFgOYO8+ogfDh69YMlNgrKCzCGBG4Bm/K2/OcT8RGfBWFPQqz+YiC59IBF/xn+nIY6ytUVKVRgwBAGoAXQAixA5m5JHYYmbLKwGoTew9jv8AXB6UqQVtSIyhTAuZMcmDCST+eHjNOOxY9Sv0uLGnVKwp9KQ6gkwR6muPSQWDTt6cOq5p1H8kZgGq6qwBmPWbeqIBMsbm0d8IeOUfMYAA0qgIhrxpjpMleQYGRfrGCOHcNfVZ0EEm6k3tzOosxMm5iBGNSjB41J/H3NG+OkOeMmrTMISpIiqBuCALmBtuD7e+Acm7OyqVL6vvML7gkSP+4nDXOuECMwJIgBh6SYBkzMgACLzyGNZfxYrXCj4gLsAQLbjp/TAh4R5FfT7CxhT2ydoLwGHpie45QeWmI+WM4hmtKaRuVieltz+mBlzlIHVEE7xf2tuTbl0GAOK8SBWFWVYBriTNpv2v9cdHwjUvV0Ohgblbeiu1qLEGf6D+7Y3xOoVpqqiFIBieo6TYzPvgipXiABZjHsOfLbnjmnRDtJFgfhuTIsB7d+xxbO1asp4l+lIY8Iy2iizFgrNcSs/hI5f2cD0kUkt5kkT8S6eq20mdyDE7YJ+0AMFqFJiACurT0JaIWPrgjJ5RGBCinUqETA1oIPOZgc945Ywyk+hlSsFougA1SvK1xfsf54yiKpbYkrEEbaT96ext13wa/CtaBw2kpJK3IaIurGDG1wD72wHlUYXYKNUwoJNvintcTbf64a7QyjugLPllLmpqQtfUpsLiwO+4I3xmL7meHoUQ6YOkACZB2Oxspt/do3hra6COVlDorQoky+mT8RN2HLSguflA64g4zUEnSNhudz029jtir084+ottfeefT2GPSvDPh2jm6TNWqOACI0wZteSb/wCuKx8NJyW7Y0JIpvDeIsEZQNzN+cyLe8RGCNainTaCCHZWbp6QQPbeQeRkXAxeOLeA8rSydbMUa1RzSUsBIiehGmY54orZkEVfTAOkmJgERqIB5TJ99jGLTx8HsV2ayqan3gbx35/l+eHCgI3Im8WmesdYE4UZVhTSYm+8yeoB/H5W5YJoQQzTLaCx9trdN7A8pxml1stDSCMwA1ix1ESLAfMxtYNHfAOoFPLqEmDFNv0/5Z+k9Jw9JBVDHxAAQBO9x87fQYr2drwZY2kfXkfYY7HbWg5Hoa8PUEhRuL/Qb/3ucPUZgzEgwDZ5sbCQom0SCTzLb2xW8pUCoQJDsRJJHIqdMcxvPsOmHXDyxoklTqi8LeYG/ee2JZV6dEONJguo1K1MGWBZjBvyIGFlTKM9dgLAsbsYXmQZPIkW7YeGk9NA6UXerpOkBGMEnTJtFhJj2wmzPCs/WJjLVQCxaNJAvA2JgAKABh8WKbWkztJbHmVOWVABWLVWBWVmw6DrI952EXJrvEKdIMEpeYX1fGzKBBuq6QDFtyW+Qw14X4OzQOpqTWvEr79/xww4j4JzFViVpxqb1EsBYTyHv72visPDzWqf4Daa6FXylb4gAdc7dDfe4kj9O0426MQHgFYIOxDciDy268p6jFq4Z4AzSsWYUlnox2NiPh2i2EtfhqtoCPpd1kJEB2DFbGRt/DvAt0ws8MovaAtkDZqq6oy1SrDSrBREbkRpEssageQN9ow1yOVqmlSBFV6mqWZwZaWdZNz/AAm5PLGcN4aAVLjTQSWqMbFpJhSf+UJ/ZwTnfEr1dQoStOd7am1aiWjcDVePr0wjXpqRRRXcyvlyNQc7bgG83sTfp33xpILKFChEU7G0i+8XIjqL7XwDxHNMVRQZLgyT2G56mOuJcg6gU1IMyBYbyY+RuuM7vpH+fUMasl4+YCnTvIBY7D0kx1vHbDHw/UUamAvb9Rq+gwp47m1Zkps0BdaSLj06YPcah+WOuGVFWmw1SF3Fx1g/PHo+GdY1f82bMcbiBcV8RU3rstWyAQIO4Jgke0DfFdy/DcvVeoE1sAJ1FgJE8pidj12xLxvhIdtYMLOnVyBGxJ6GYnaR3xFkciyMq6XOm3oYrqWfhMHY/wB749CMvSjLONza6DHhZphDRUuXVioVtwZjT9RvjTV7c+dt45x9cHcL4C6ZxqrppAUuRMxIABHaLT3PTG/9mAS8gszR3WIHK0wxO+wOIeInxpsriahFvtZGmVYIC5EMNSLcsYvJgQOcSRNrXwxHDqaoCXMm5AJBE2uQdItG/XlhhU4q8Dy3dQovBkLptGnpEXEEWscEcL8SVTrDVBUTSGUEAtBsbxuGsdwRe2PMnNz9TdGecuTtldzGVNSt6QghYgETvvCjaZ5xthnQNSnRXygfV/vKmk2kciN5EieRtYxhjmqtIUxVUJqJGrRIi40uQSf3R57fhZJlM7++BkhKkr6vhiCPULKyEwb7SOhwu0rBHTJ1zTQVVjBtBMzPvaNjb9RgvJUgBJ5SB7bj6mZ62wPVqKKl10IYB0rqZeYJAjSCZJBjvyw4Zl9YVpEdOYj3idx7YZKkdkevkdLU0qsRAAFxP9/0xmE3FeN+V6AG1RMiJHe4MTcbdfnrHJtE1CR4zRy5ItFo37wNvxx7jwPLJl0WnRRgWAJLEEEwYIsIsLj2x4xw2muqSCbHrHfHtGWr6GQuHKeUmhlRryt5gEEyd8ex4dJtnP0nIqMaT02X0VVKPy3MYyn4Hya/cc8vjbYcu+5xPnKoai6U0qltJ0fu33023WPi64X5LKcTag4qsy1talL0x6I9Qtbfri8oRX6lZzly2Mk8G5O4NAkGJBZuVx97BK+HMqpkZdb2M3/M4rFfgnFz/wAeB3qRHzUEdMTJ4U4gwLPmmMpA01XgEcyIHQbdTvifKKWsf7IL+S1/7GowAtFI5ekWxJT4dRX/AINP/pH8sVZfCGYakVOZKljILOxi8Cb/AJ47yf7PSCTVzAaLadP9dsdDJL/jr7oVotlSpRp7mmvuQMRPxzKKPVmMuBv/ALxf54Rce8EU8yVJrMNKBIVR82vNzC/TAlP9mtAiDXrNb/Dbe3w22+WHlPJeo/udRZH8TZQNp+0UtQ3AMkc+U8sC53xnlKRUPWI1GFim5/7cDZfwblU9as7GIZiRPKdh2H0OJavg7JNaompwZA1sInsDaRP0wvLM30VfcbiZkfGWXreaaTVW8pdT+gi21piTgSp41phS3l5gr1hYNwB6tcc5vyBw5yPh/K0mfy6EeYArEktqHQyTbcRiSpwOipMUqQ1fENE6h3OxFzbBfmuqaOUV3EfCvGy1qy01o1LkDUzCL+04TZPLKKaVWA0UhUN4F/M5T7Yu9LI00MqlND2Cj9MeecdEiogUsodtKmSNz073GM3ilJRXJ27Gxq2KuL8S84r6iAPgRPnDEweQ6R3xBw6uS5VlYEXYsxJPQRG3SIwjzGXqkzDoSbBpAO2x2sfy+WLBlagp5TWywag0j6E+0Tf6487JaW+4dndKtNPWSC0mBeVBiTt2G3XEuQ4jTpDzGvUiKS6ZOo7uwvIQHVYXMcicbyFCaQsZIgjmANQtF+YP+b2gGtnQqhvSDp0jUuorBiAIKDoxgzBUbMcJjhaYLpmLqLtDCU9SkrYjRqiCBG3S2Bc/WrUtbBGCizaliJ2Bn5f2cSmoftKuWOmoaYmCJFla0CLECI57Ysf2qhWzNQOC07KYueYj3Hv3ti+Jy5cexpwzlbigHw5mgFGx1X037iDe9p3wcvCcuHLQydArsosd4UwOsDCzj1FcuwakulGsyfdvcRexMG3bA+Y4iyozmwW5WfoBPX8Zxpi5J0jXJQauRZaxVV/drBbcyTqO0szGWNuZx3wGFV3KgrB06ri8SY998I+HZapWVXNqbAENtY+/OLbWwVn+KAAJRExAhRMC3K84Erv1BXFx10BfEVEkk0gNVmISIUk9YneTuIIvyGFmYzApSPQGYyb9riBJM27XEHFk+zPTylVmI1FVPp3Kj1MLHYAbi/qNsU2o1MKHZVvsXeBPOSAYF97/AMsnpm9Hl5UuWhjw/NamX16aRYU3bud4nc6SJA2XmJEy6R5qgIQLxvYbEX+8IvEdjzCLOZpwVQIFCSAjJGkC5N5vIM9x7YecOyLFxLOxYEHoTKz+Jkf0wJxrYI7ZNXo1tMUlR6YsVEFSOcwIBJJtM9epaZXMN5ISYKgd27KLWiR6pmBMc8bqqAuhiSBuFExBJm+55x1B3iMSUKBp1lXzFVH9LBgbsI1MsAmNLIwvFyOWEty0h9dSHNUAU9IYlb+kkNJ3a5k6pPW3O2MxDn66IwZKyECQwMws7hrykuCwJsQwFtsbxVRmulCOu5SKAULbcC9uu/5gfXHrx8WZXL0aCV6jK5oo0BGaxAE2U88eR72G5me9tsep5bwzRzVDL1a1PU3kU1B1EenSLQD1J73x6XhXJcmuuictyCW8d5JSQTVJBj/dNv2kYmyHjWg1OrVQVGRGUNKqDLbAS0b9ccUPCWTpwooKNzeT+ZwdkuCUEXy1ooqNcrHpOkiJHPGpLK36qEeRJ0hPV/aXQ1EChWI7lAPfc4W5n9o6VCVShUH/AC1QIA+9ZTti2nhNBJilSBi37sfyxw/lITaksRewB/TC+Vl7yX4A86i7SK/wrx+9bUi0IhdzUmfou++O38X5ogRllI1QCA7bRBtBgz+eHx4lQV9JrUQIkDWs9Iib44oceyxBPn0iAYLAg87bE4VY5p3LJ+yC8r6JCfivG+IIVFCgrKaYdv3bkhmmV+MXBi0SMcZbjPFWBD0gpsRpVQDJuPUZmCfph1U8Q5em6rUrQzKWgK2wm49JkWOA854syoYRVeCLQjb8uQ3kb47JGN7yV90LznxtR2BvU4mwA+EwQ5IpwbxsB0/EnA2eyXFKjnRmNKmba4I3j4RM4Lr+NcsoBIqtb+AX26sOWOV8X0mmEqTG0iQOtyf1jE28K65H+Q88n+JvgXBM4hdsxmS4amFWKjtpYKo1XAFyC3v74zN+GKrgL9pAuW2J35XYbfrgvhnHfM1AUmGksRqcfdGoCy2DC/zwgq+MazPKZQap5sxjlFgBtjp//O0m237dQLzXvQ04T4QFOormvJUgxp3jlvin+JKRGZrAz6qjwCgK7kgRefp064s2U8RZ2ow00IEiZpPdbTEtZgLwd9t7Gv8AiYf/AHlQa4PmMSQeZgghdQ1GIlQZIGIZlj4Lgu/+jSrToWZXhwbUw2DCdB9MhpntMLY/xY64jnFZxSUFkoyWO8g9vkI7e2CuI0hQptqYCxKgD4pFrWPw6R6to2viucIzWkup+MpPxc9SsJi/LnvjI48t+wbLhlmGpRyMOR3GmRaBJG/zwA9ZabuGDCxWEiyixNhvA3ERAUEeoiSnVc6GuSRb2jnJ32vJve++IM4sMwjUCBrN9AjZrgMdl6TfqDicVTYGSsyeYgICi0Lt7gcjYi3vvjnib6cw5GxaQdv9L4ynkWqaWgqgkS2wAsL8zIPMzjXG7BdPqg2FzM40QxPqimCbjO30M8S8QBpUyy2e3sRtf3n64q7VqhAdDOkXmCD8jaelrHFwqVqflU6VZTrYzpeVAC78uY2F8E8L4JR0FkMvqN2FlF4UDaY3/sY0xi0uRozZIt8UV7hT5iq0VqjKCABqM/L9Og/J6tFKJPlVCzkwdQEe43H44JPCR5iCo33gCI33uTNtuw7YX5xvLDsQTHI7c7FoPOO+J5JdySnUa7HPFuIvppJqLS2nYBZJIZQBOrYdPxwJwHKnMM0HYlWQWkEHoYMEGRBJFueOuF5ctRYyZUTSCyplxGkAkXBWdRE7xvhyR5CCKhlqgA9IED/e3j4gVFjuCWB5AZNR+STVqxK1DzX1mSYZSQihZOqJvvG03IHvixCqEQhSPMaBvf2vzN/phY9PyvN/hNVWWN4IcgD5NAFuWDeFZsJL1FJ9V9xygdxYi0z6bcsI1yq+gqTqyRsxop65Ci4IIBIqC+28WJPQwb74jVnVlWpFgzKJnTa4veJLRP48lnGs15jpDSCdUKCQseraTy09hJxvP8VFFpenIKwtyJ3vvNo+luVn4UqQjZ0lFajlKYuNwiSRzME3IMglH2MMDaMZhbwri5S5RU0sSuioUMlVB/eNuYAmZNz1xvFeAyce4qzVUqdd5NiYgahuR3I5xvO2L43Cs/Wy2UbK1jTpiggYeYyiY3sDNoGPPM7WNlFrR/X/AEx6VlfGq5PJ5Om9It5lIaYYCwgc8bMNU7F72Tf/AErnnSPtJBPM1an6Ynyvgmv5FelUzIdqujSx1enS0nciCdrRyxw3jw6NQyjbbeYB8vhMn25Y5yf7QKlajmai5ZVNBVIGssX1EiLKNom04tjeO9N2Cgah+yx9QZ8zfrov9S1sH0P2Yqshswb7kIB9eXUbYSL+0PPNdcnE2kJUaO+wwwo+LOIuqFctBIk/uH6+9jHI4T+l7B4sKT9m1JmJNeuCT93Tz3AJBIwev7P8qFKE1mUkNdgCCOhAGE2a4xxpygpUTBALHy1EE8vUeW/zjliOkvHqgadQOowf3AGm0dxz/kMFLH2g/wAHNOy2v4Oyr+XrRyaaBKZLHYbar3vzOJU8H5K00dRCx6iT0nntiuZjhfFCmXPmw3lEVv3mmXkQRAgiNW3bAR8HcTdiWzIAbYedU2sQYAtzv0w065fpv66CvkuNXwzlQR/9tSttKgx9Rgtcnl0WBSpL7AD59MURv2d5l3Ltm1A5j1t+ZA3/AFw6peDCEZDVX1D+E+nnIE9ZIHfAcpLpD90Br6lgbMUBbXTHS6yfxxAeM5cCftFMjswP5T0OFfCvBaZdtQrEkSSNMapXTfn0+mBst4GoIsa6xF9yB3O0W7d8UU8vHUQJLuMqviXKLc1xtMwSIJgXiN7Y858U5fzM7mJYBepW6yvT7y7kA3sw6YudbwxTNSS7EAQPSpUwZDREFtzMbsTzxXfFDJSrValVmAGw+85IU2j4VkXO1rXBxDxLyeX613/9GpXor+cofaSV9aqFMBiDEgidMbhlLECesmMZwXw3RosGfXUaDIkBSDEG3IieZ5Yc8GztAUorOD5iFtCiWBm9Kw5i/wA8K/EfGaef0aU8sBSQNMk3IvpJ2ge2MWKSupL0jtaGWXSjZGIRJn4gPkZ7QI6YKK5NSScxTvE6qiEEARBG0Yo/DV0B00+n1PrIkWA9O+5jESUhUF0A5Wxthjwv9KJu+56pXFNqQY1AKQAYEEBYix1dIOF2VzuWpuHWvTJG0upjC4V6goeQQmgJo2MwLdYnEZ4NSBiHJETBA5T/AA4v5a9gc37hnGMxlMwVNWqpK3UhyI9iDIx1wirk8sD5NRACby5M/MmfbAVLhFM/DTqH2YfomO24IoIBo1pbYTc+w8u+O4LpQeb9xk/E8qW1eYk/8x/niOrncmw9bqT1DNP1F5HXAQ4Mtv3NXt6t7kQP3fUH6HEw8PiWBoVRpEnfbr/u7CxuemB5UfZHc2ZQ4hkaRUowXRdY8wwSZn3m874kbjeSqMAXDOzWlXPqMi1rD1H+xgHO8Jpo5Q02kby0fgVnC9+FKKqOg0nSGE3g6mH6DHPFH/FfgHL6lrzyUKHrcBZMAjXM78vbA2TzWSJ0ogk9KbR+IjANerVqALUOsTIsBG/Qd8FZEIjSrQ4JKgXMjYx2t+GMuXNhxScXHfwhlbRGMrR8wljSRJlIMze6FQvpNrgk7fUY13P7oIjiQXVyCFYGzBhYNta8dYMY19mYNqAPqky1zqgqpAFgJMTuZ9sL8oqrQalmKieQG101Vb6iQhCncKVOxtue+MkaltCShQmriqLBgGk6vR3MCwYwB2HznGYzM1aOt1M6VML5tQho9gY7WA2xmL19BkgbOKVJhhoYSrW2P3Z5lTII7d8ey+FMvSfIZZmVGK0wFYgTF5i21seKHLLAqagDqaVGy9RfltbHpfC/Cy5zKZOoKioFRgyhQZ9R6sIIjvjRhdJ99FJU6L3TrUFB1GkLRfSPz9sbqcay5BIr0YUSxDqdIjc3sPeN8U+l+z2kqlTXb6D70DrcW5/pibJ+CKFNK6ebUIrqVf4RA/wwLH3nBj4qN00d5M2Nv/q3JJJGbomZ2cG+JKHjjIRH2lbC4APKJ+7v/PFZ/wD49yI51WB5l9z8lAwflPA2RU2psx/5m2jpOOfid0qH8l1sPH7RciGRFqMS5AX929zJi8CN+eBeJftOylCQ6VzvA0ATBiRO4kxI74lTwjklOoZdCymQSWJneRfE9Xw9k3MtlKTG92pgmfczgee73X8YvkizN/tFopSy1XyapGY1FPgBGkwdXqMfLCuj+2BakqmWMCPiqC/4GeXyxd24dQVUAo0gqWUaVhQbkLa1+mOBXpqRakLxuoP4dow+XLJPXSgQxp9Sr8M/aBXq6SmUAksNyfhIH8I3HX8r4KzPinOljooEoOfluZjpsN9heQeUGLDV4nREzUpCTA9QubTad77e2Bm4/l/VNVTpMGATEcrA+rtviMss+XXXwhlCPViLgvGuJ1aqCtSFOmS2o+XcLB03JN5gYMzH2xvUG2tphBIkGxvBAkb36C0l0PEuWar5KVC1SJChGEgxzIjntiHOeKcvTkszALGo6bd+d+QgXw7lJ0nLu+/UXjG9Cnyc+xP7wqv3ZYT84F8KPFGXf7RpIB1IIYnUZKxJm9n0b9sOn8bUtZUUqtl1gmAGWCdSnVeIgjeSMJvE+Y15nWAQDTU78omfoY+QxLPSxum3td/kD01R5tTqlnYsNzF+Ubf1xzSOnlJn2I7RzxaG4RTYMVUMXG9SroEzMyyxO/8AZxX+I8MNKp6hp1KTGpWGxN2UxM274nGpDNNjLhFQQzM9r6gROq1h3IJF5BA5jmbw+l+Z/PCOrl2Q0wTHoVzyu0+kzz29wRizZFfzP541+Gj1J5CyNTtgnMKJPsPyGNMmLBkuMimqBtbaPUotp9SIBv0HmcvvfTVJ0SQq4TxE0Nej74g294I73OJavFGZtRpLMk/f+8ArD4uagDtyw1qcYy7KlPRUARlIYBdULqIBvFifxPznpeJaYafLY6iCwMQCNAt7BJHfCv4Dr3FuX43UVYVBygaCdhAIJboAPl1JOAznKrOzhPWwAOlWOzK03JvKr27Yb5nj6FkdVcFVcQSYBZdIAvYA9I+uNPx2bjUGIbWQYBJQqIjkCdUdhjqfsd9yvZqm9Ry7UzJiAFMQAFAA6bDAeay8VFBBBFO87/G++LoniZQiqUJhApM3FoJB7iPmBit8YripXDhdIamIBMn43G+Cr9gOuxV/FGe8haRhYZwratgvMwLyLGRcRhXX4rNExIK6Wv8AEdQRjJsLNcfLphl454e1WkhQA6NTGSBYAcz/AHtin0c0VkFW1EoVYG/3AABETAUzjDngnkbKxT4ljRW+zqaYICKAGJAk3mBqkrIkEc+QnAtdkZPL1IukDTHp1c5IM/gDcnoMWTgKK50ViNUCxMyRveTJ64h4/wCGaaglQBcQbdo/Edj9cY45VypiMrq02Rop1dIH3VKlRNybVZv+ZOMwXlMpaCACi6SdROokzq2kRBEdI741ijmrOti3J5caGptDaSSLfMjqAd7REYvHCeK5ihk8nTytJXWotQHUGJTSWI2I9JMiT2xQ88TLmmI0gNblHWP/AE4/HHpfhHxHRpZGitavTRyWEc/iJAjeYI5c8a8PfZVdhVl/EXFKqz9nCmDJ8hyOcfe9tuuD+EZzilRaxqUyrCmfK/dqsvy3Jgb74fVPFOWRZauAAQJ0Pudh8PvgnhfHqNZqiU3Z2RVZvQQAGEgjUBNumKwwQvr/ANBlKR5+tLjrkgkqOk0R7xAxKeA8ca4zOmeRqD6elMWs+OsqI/3pBmLDl/mwK37QKOsL5VYlvhjSdQHMaWM8/aDjksK/uD/UfYWcP8H8T0nzs3J6+bU7W2HT8TjOK/s5zNZv/wC7oU3I9bSSSeotfbDfP+O0RC5y5sJILrIvF7Rv3wJQ8f6081cqBTE+otMkRbYbSPrjrwXyt/udxyewWngYLlqNE1hrpBx5oW5DzqFyYm3PlgPh3gBKT02Fd2FOdKwoXUSSWi97/gMNOIeJXSgtby0MiWUSdI5Emfxjn2xWMn+0GvUa3k9kVW1bHqRI2H+tjN4E9rYsY5Ow3zfDMsGAqGsxRneJWJLaib8tUR0ttjuhw6hKiK7eogaqp0t1sogwO3PpfFMzPjPMio6nQvqa3lJJEzJlZIJhum2Bj4tzJYHzmKlbQiLBBUDZRPUibdrYRywL+06Sn3ZeOHVMsr66eXIYKfU1RmINrEH/ABCJ6++Cq+VpulNjlKbSTJKagu3qiJJkwYvY3xWvDPHK1XOU0arUZDTI+IiSIbURa+6/6YD8YZh/MqoalVACoXTUfSvpVmsGg2ncfLng+diUE1HuKotluyIYNC5OmgNmPlxAEWkxsAB8h2wv8a0prQFMGmo1KJVbtyWL7fLFFydYfCoJAMnUQSL6pg3mQIN4t0xc+AI2kQAaZEESLHk2+4M9N8Zs3iHkhwjEaMd9Sv1Mu9MlmWnpEwyggwNyQbi0H9cG8MalXV6jICyoWCz6mCsqkhhcNBNuRjecRcX4PmiCEypIJRyfMWxEyILWN4McvbBfAeA16TtppEBkqKDrQi4IUn1THppm3UztjP5MqtjHfirJmgQy1WZGOj1gMpgkGmYEqxBEMZFm2jC/Irv7nFgpZDNutdalOzsWQSvpMki+qIAZx88C5Xw5mVuaRFyfiXr743eFTiqYmTdFiVcY1D1CYjSn/wAVwxThNSJ0291/njv7FW5XA9vl+GNXInxMZsvuKZnUpggEQDcb7EE/RcaV6POl7wAOXWbe0d8YmTrHabf4h/PEv2CvHOP+cfzwujqA875LLCIVMb6R1nr3I9gMTfaqUf7kAiIgLy68uZ5cl3xMuRr8mPtr/riVeH143P8A1n+eDaOoVcVzFN40U9ETNgJ72+mFhpBnT/8AF/3vi0vwuvG//wCz+uBV8P1dZdmUyIu085jnjuSBxZQfHgK0kVRJqalj30/Ofb52kijsQgGpy6g8iGEwJUdpmGH4749s4v4MOZARqoWJmBJgiIO1vbfbCXNfsppn1fbH1D/0xE2vA/TGXLFyk6Lx1GihI0lRqvAIAJlT9PnY4tPA+O65y9YwxEBiLE8rH73bnywY/wCzY/dzygj/ANEjvMyfwxlf9mlZxatSZup1gz1+DfGR+Hl7EqdlW4nSai5Zgbbn+IHp846fz3i057IvRCZfPaGZgdFRSTGnkSQLkfW/MYzE7a1JCuzzejl6jtJqMhYXUSJABJB5RbY74iz+VJqeg/DHw9QPzP5YnrMqkMrMsMbEzuPkdtvnjdKnqpsysWMiw3km9o3+v0mNKZsWtBlalNMAMXVRqcneSdM/OGHsNzi4fswZ2OYLNqiktMdtJa1uzDFNrZnRlSp+J23mTCm36+04cfs64gUp50Kx1eU7qIBHpWAffVyxXA/X/PYXJtCnh2edgacpqU2V/heLQOjEdOfLlj07w7w+lSpB3Ec5bcFolR72B9vY48t4PlC+ZQBSwDQTyWJIbbkRNzvi4+JOJmnTWDbVMcgFKn9RftjPk60jRF6ti3juY+0K+lIMhpK7ghhpEc5Ez0nCajm1pLRpsfTLA/5lpSPlAODuBZ0uCoPq8wIoJAXUdVp6x0P54mfgiPTc1aiqAsgAAGLEkG9yEj5nDpUqElvZbXen9nphwClT0m4MEk9e/wCmPNOI8HNF5LXZiELekwwBBJOzC6mTEg3xe84gp5KgCAVGrUDv8BJAuJvb6dMKfs4zlSgzn00wVqBhDEW0tHWLfIczhsjqd9q/0dCNw+pTaGeRxUSoPu6VqTcHuOYnnyjpg3IcNNQr6WSncsx52vG20C84NyHC6TV6jmmAPXUVTMQOo2tIt9ZxlDMqyVi8MEpltBkkm4EkbAEdRuRGOe3SFrWxn4dzSLWougJUVGprJvBkCe8erYTy54zxqzNWrB2gBgQCTBEACOU7k+2+IvCT01SiXaK1SqWUWjSrhAPcnzjOO+M5APmKkw6lmlSNoPvHW5jE5uoV9SYryOUDKbyDElQB8h9eZxYsnnYqLSSqbqTBX1AgWBBn02BDAxy9k+YpVqdQsiEjfTJIGnbaGEEARHqiCDOE1RKq3UszxBZW0gMxBZbRNiNox2LTsPlui8cO4jmGLB6pI0m2lbNIHT3x1T4xm0stW3dUP5jrimcN4hU9bNUcGR6p1WAmNPP1FZ7AYcZ7iUgKE0PV1Op1n0rMCfchjFtK95I0PL2FUBq/H88P+LY/4Ev/AO3AmZ8VZ8CPPMdNCf8AjhJlK9XTDuxIMX5YZ5KlrnWSffDp6uxaLf8As74/mKjVPOrFgFBUELYzvtjXi3xBm1zOmnXKIUB0hVPMyZKnCnLr5P8Au2ZLcjE++BOJ54hHdyXbQVDEiU5hxqMHTchfvG3PHOdI5Rtha8czn/8AoY+6pP8A8cc1fEuetGacdRpT/wAcAGs2ZouaCaKlNCpWWB1QZgzBMSw1RBgTbFOocSqErDsZJgEtFifzMC9hfE/MY7hRfx4izpMiu3voT/xxzU8TZ/lmX/6V/wDHFE+0sjonmEmZJLGDygTy3/12eU1ZtEmYpglJ3BsCSCL2Inn7icc8jRyhfQav4q4hEjNVP+lf/HAdLxhny6qc3VgnlpG/suB/DSBiof1TTm4npiw/ZKfJQPYYrYhdvFGullqzU61UONOlg5sNSj6xOPPf9uZo75uuf87R+eGD5h1mWdwfSQXPO33jGAc3xWHdXRQJWZYTZdjEyL9OU4nkyNdBoxVbO6fF8xt9orf9bfzx0+azPlu32zMSCv8Ax6gm+wvOKx5NI2FVYNixlR9In63xNlOG6SXV/MJEWMAx3OJedaCoN9iw8SZszTAqMbAaSzFj3uZPzMT3xvAmYznl+qQBsTO/QCL9b4zGbjPsLLDvRTc9mxVquRShWgqv8Jjtyix7ATtgjhuY8o6ANZc3i4Aj/UT3OK9UrTaffvh54dcGqoW5JDM0REGyr7ntyxs4aKctnXiKsAwUW07dLW+k98NvA3xZscvslT8Y/rgDj+SU1Ty235TI+kgntgjw3qpNmVMA/ZmBM25XnmN8NjaTFkiy8Jo01rkpMBBrJNi7SdusCLYA8WyVogSJV9ri5WPxi3Y4VcM42aQSl/FJJP8AEdIn2gH6nBdXiLuqpoDU2WNSmKiEz6wZsJI5bE4g4vlZdS9IqRjSRVJhlqI56hpJJI6wdr7Y54bxvRTqaBFgSukABeYEbkNewEb4E4qaSj0M+piCyuoEEBlNwb3gmwFxGFOTrhW5QZBB5g7jF1Ek5HsfGKitlRAloZ1B5nRdeokTfCL1BlqUgItaYBBALBuszEg/0HHE/wBzROq1OoCb8m9F/rg/MVhAUE37CdIMSAeUwPlyxnzSpLQym4iutW8svJ+NGZZ/xMGKT/hFj7DCilWX7PV9X7yo+kC3wqGaSOQLMBPbDTiTak0aahBiWja1iYWLbETP4Yr4yp8wUrgmNJ0yDJJLapFo5xsMUxtNBnvaHHCan7/LraKdGmw7ydRM+7nDzj3EA9WojNEMbg3gbbCw7774qlcCnWTS2oaUUbgwHWDB2BAGDOMVilTzYAKvF5gixNx3IPz74WcLSJtbHzGui0iis4aYIVmiLaTF1svz+eJ8zlFr07qaVZdTaWW3IEkj1BtNgSJ98byr0q+Wp16T1EO1VZLFSLahPYEhefpFpkScN4+wdadSuA2mSW9Sarrplp3Em3bEal+DSmktizh3AmADOF8sGfiBNr7jadyd49r648S2qFg6wGNvVOoi+4QGOok32uRR4s1ViqPTU800BYYRzGkXJEHexxxXrKX9bLrUE/CCBtIkkwZIsd7W2wPVe0B8WtAvC6oI0Vg5rQCxA3mw572Ak8/fFg4RlKc+rUvuCSfkJOK4H8usAUWSRqck6gJm6wALzfBfH82goVCKo1aTpAa88ojGqOR9KM84qy4U8pQa4qEj/lb+WKj4o4lkzSemlfW5020sARIPxRHLbF0y9YBQLCceF1AdZm9/7jHc+VqhXAsWQ4uwQ6VOurU0xp9JhQFNokyRaRvecJ/tOmoVUzTT0i1jpgau83PscWPg/iXLIFD5RJWytAJvuZtDGNxPPfFnofY3pM4ymX8lE1EgCTC6oJCwW/y/MSMLaj2LceXc8po0TUYxN5Zj/Dfc9tsG5biBpv6iZ0hDJmFH3feJ37Y9HzOSyNJda0VFDzQtVkckKxB0sSGEKCQLgwSCINwjr8L4erNqMDVChXF/SrQXvckmCWvBAM4flfYHGu4fwbOUqT0pUz5SiAdiwUkHuMXPKZmnVEqlUiYuoH0k487q8Ry3mJGlB21zy3LE4uvBs5pVZNuXtjvNcUI4JvQh494myzK9OgHFVWAlgALG99U4VcR4alauKreSy1ADeoUY6R6pY2BB7E7bYqWeq/vswAY1VHM/5jHyw74C4egiV01qZMGZMtK7EGSS1xfYc8PLexVocZnJ5ekNTrQFMXBFeo9+U6aUT88Ic5xik5K0KKmTvrqX+TRGLfk829OmETy1VU9J1eq8iBrVxpMiZ5ntgmlmqARDVy+XrVAF1uUphhPMuFVtw3M/jhKQ/wACjg6otFtahwSBpEEFgd/V/CJv3OMwblzSCuy5an5eqFpozWMmWEkzsu55mMZiPC9leaPNG4WQd8H8I4YwcEPHePcT+OC6+XOrc4O4dlmBDTN8PzYvBA2dyzKQGqFoi8DvifI5JqnmBWMeW3yEXA5x+GCeJZJ2uAb+388MPDOQIFd2kRTK8rz8/wC+uOhcmGVJFZoeG2LhvMJPffb+uCctwA01k1GEiLf3vh7w4S8dBg/iGWXQszhHkldDqCKhnMmYnUW2EGI99uwwto8D1SfSAOWLSEUiJO+MyuXWDBN/754ZSYGrID4fBohCRdpm/YxgyhwvQVZajAQAQSTP8rYsVWgBRSCfn7YWvMjbE8rfQCimhNm+G6nLF5EMCvWVKx+OBkp0vLFPyiQogk1HkzM2EADe3c9ThozG4MXnbAdJQFbcfTHR6UGkugtr8MVnXSDsI+oH1wXn+GwSsG7GbnmF6/8AKMM8lTQ6CR22H64L4wgFQ9PYYMpvjYrSTOMhwilSy+lS37y7SdjbaIFoH0wFlfC6FhLPHyn/AEw1BOlemJqZ/XE1OW9lOKaQgo8GCGWYkAEAGIExyH645q8JTSbiD7f4Zv3j88MKxud/qR+uI8yPTz+p/njuUruwOERDU4KC3oMA2+uCM3wFhTPquBhhlW298M1uCN8XjKRKUVYLlshW0w7FjyJb9JxTG4OwY6mH4fzx65Q+HFbz9A3tYnov+uBcjkkVbhvhrWZL26ad/wD3Yc1cqoomlokaQvTYbjnY33w04TTOkiPxwD9kPPfCuUiiSQAy6KYpLpQArJi50gRuI5deeOsvlREKAAZOmAY27fPBFTh7TIHvcYk8lgRPTrjuUjqQFxHgSM9ML6YF4/v5/PDXhPCqoUg1NQm0k4IyqEMCdo5wfpGHmVQRu3yP9cP6qEaVnluY4T+8qDVJk/niw8I4QAlPXdgLTyAIIj6D6DFmzeTW7Qg7wSfnb9cD5hdtiRzH9cdOUkdGKIBlaYYNFwDEarbch7DEyVl0wW3ABkfzG+BGUi/q+TRjdCoxABJj3vifP3Go6p0AUIgH1Tt3ifpjMT0rDbGYj5jDZ//Z' alt='Taman Nasional' class='w-full rounded-lg mx-auto max-w-sm'> <br><br> Kawasan seperti Taman Nasional Tanjung Puting di Kalimantan Tengah merupakan benteng terakhir bagi satwa endemik seperti Orangutan dan Enggang. Ini adalah contoh penerapan konservasi...",
+                "options": [
+                    "In-situ",
+                    "Ex-situ",
+                    "Fragmentasi",
+                    "Introduksi"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Taman Nasional adalah habitat alami tempat spesies dilindungi (In-situ)."
+            },
+            {
+                "question": "25. Perhatikan gambar fasilitas konservasi berikut. <br><br> <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEANldy_sik9ubeIgzfS4ZvDSGPHYheCVOSQ&s' alt='Pusat Rehabilitasi' class='w-full rounded-lg mx-auto max-w-sm'> <br><br> Fasilitas seperti pusat rehabilitasi satwa (misalnya untuk Orangutan atau Enggang) sebelum dilepasliarkan, tergolong sebagai upaya konservasi...",
+                "options": [
+                    "In-situ",
+                    "Ex-situ",
+                    "Mitigasi",
+                    "Suksesi"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Pusat rehabilitasi adalah fasilitas buatan manusia di luar habitat alami (Ex-situ) yang bertujuan memulihkan satwa sebelum dikembalikan ke alam (reintroduksi)."
+            },
+            {
+                "question": "26. Ancaman terbesar dan paling utama yang menyebabkan penurunan drastis populasi burung endemik Kalimantan adalah...",
+                "options": [
+                    "Persaingan dengan spesies pendatang (invasif).",
+                    "Penyakit dan wabah alami.",
+                    "Perburuan liar dan hilangnya habitat (deforestasi).",
+                    "Perubahan iklim dan pemanasan global."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Dua faktor utama (twin threats) adalah hilangnya rumah mereka (deforestasi/fragmentasi habitat) dan perburuan ilegal untuk perdagangan."
+            },
+            {
+                "question": "27. Solusi yang paling tepat untuk mengatasi ancaman berupa fragmentasi habitat (habitat yang terpecah-pecah) akibat pembangunan jalan adalah...",
+                "options": [
+                    "Membangun koridor satwa (wildlife corridor).",
+                    "Melakukan penangkaran ex-situ.",
+                    "Memberantas hama serangga di hutan.",
+                    "Memberi makan satwa secara langsung."
+                ],
+                "correctAnswer": 0,
+                "explanation": "Koridor satwa (bisa berupa jembatan kanopi atau terowongan) berfungsi menghubungkan kembali petak-petak habitat yang terpisah, sehingga satwa bisa bergerak bebas."
+            },
+            {
+                "question": "28. Upaya mengembalikan spesies hasil penangkaran (Ex-situ) ke habitat alaminya (In-situ) setelah melalui proses adaptasi disebut...",
+                "options": [
+                    "Restorasi",
+                    "Introduksi",
+                    "Reintroduksi",
+                    "Domestikasi"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Reintroduksi (memperkenalkan kembali) adalah proses pelepasan satwa ke habitat alaminya di mana ia pernah hidup."
+            },
+            {
+                "question": "29. Tindakan konservasi yang berfokus pada pemulihan ekosistem yang telah rusak (misal: bekas tambang atau bekas tebangan) agar kembali berfungsi sebagai habitat adalah...",
+                "options": [
+                    "Restorasi ekosistem",
+                    "Koleksi genetik",
+                    "Konservasi Ex-situ",
+                    "Penegakan hukum"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Restorasi adalah upaya memulihkan kembali suatu kawasan yang rusak agar fungsinya (termasuk sebagai habitat) dapat kembali."
+            },
+            {
+                "question": "30. Pernyataan yang bukan** merupakan tindakan konservasi adalah...",
+                "options": [
+                    "Patroli pengamanan hutan oleh Polisi Hutan.",
+                    "Sosialisasi kepada masyarakat agar tidak berburu.",
+                    "Penanaman kembali di lahan terdegradasi.",
+                    "Pembukaan lahan hutan untuk permukiman baru."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Pembukaan lahan hutan (deforestasi) untuk permukiman adalah penyebab hilangnya habitat, yang merupakan kebalikan dari tindakan konservasi."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN V: Pengetahuan Budaya dan Kearifan Lokal",
+        "passageText": "Memahami hubungan antara fauna dan budaya lokal, khususnya Suku Dayak.",
+        "questions": [
+            {
+                "question": "31. Dalam pandangan kosmos Suku Dayak, Burung Enggang (Rangkong) sering dianggap sebagai simbol...",
+                "options": [
+                    "Kesialan dan pertanda buruk.",
+                    "\"Dunia Bawah\" atau alam kematian.",
+                    "\"Dunia Atas\", lambang kebesaran, kepemimpinan, dan kesetiaan.",
+                    "Kesuburan tanah dan pertanian."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Enggang dianggap sebagai \"Panglima Burung\" atau utusan dari \"Alam Atas\" (alam para dewa), sehingga menjadi simbol kebesaran, kepemimpinan, dan kesetiaan (karena sifatnya yang monogami)."
+            },
+            {
+                "question": "32. Perhatikan gambar seni ukir berikut. <br><br> <img src='data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUTExMWFhUXFxcYFxcYFhcXFxUXGBUYGBcXFxcYHiggGBolHRcXIjEhJSkrLi4uGB8zODMtNygtLisBCgoKDg0OGhAQGi0mICUtLS0tLS0tLS0tLS0tLS0tLS0tLi8tLS0tKy0tLS0tKysrLS0rLSstLS0tMCstLS0tLf/AABEIALYBFgMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAFBgIDBAABB//EADsQAAIBAgQEAwUHAwMFAQAAAAECEQADBAUSIRMxQVEiYXEGMoGRoRQjQlKxwdGC4fBykqIHFTNDYvH/xAAZAQADAQEBAAAAAAAAAAAAAAABAgQDAAX/xAAvEQACAgEDAgQFBAIDAAAAAAAAAQIRAxIhMRNBBCJRgTJhcaHwscHR4UKRFCMk/9oADAMBAAIRAxEAPwDVlOCZHOhR2kbEinHA4e+QN/hqodlFjfl1p2wKQB/FZ6R0wfawF7/DWpcFd/w0VFcWpqFsFnB3e/8AyNZr2AvdHj+o0WfEClnPc6km2h2/Ee/l6UsqSOsok7h7hb+oxVFy2D+Jx6O4/eh+IxgRGdjCqpY+iiT+lbEasN+Q2YcMMWGKm6WAOxLHcdDRuzgsR1f/AJmsyGCDR7CXdq3irQrZhGAv/m/5GonLr/5/+Ro2rVMVppFsAnLr/wCb/mah/wBuxHcf72pjAr3TXaRbFr/tuI7j/ef4qD5bf7/8z/FM7LULmw3o6TtQl4rLcR+eP62/itVjAqAAfFtuWJJJ+NEMTd1Hy6VTcuqmmfxMFHqQT+gNYS3ewbBOMygs4a22noRqIHqPOtVnJb35l+bfxW9lohgrs7dRRhvsztQMGT3fzL9f4q5cnf8AMPr/ABR0LUtNa6DtQE/7Q/5x8jUhlLfmHyNGIrw12g7UCDlJ/OPl/eqmyg/n+n96NGq2pdKDqFzE5R/9n5ChC5UouaiSY5AxE96ace8ChRFZ5KWyGTZGztW3DMmqXHxHSgWbZmthrAYqBdu8Pcgf+t2H/JVHxrX9oqemtzRMcLOETp+taPsy0uZRmn4CfT+KOLiKojTR1stbCr2+tZ7mDXsfrWlb9SLTR0o5SAeJwK/4TXUSvW66hpGsX8ltgRTCMaq9R8TNJq3D3qwXD3rYxsaXzUd6zXc0oGrGs2b3tNpu52+f9qD2AaM4z7bQh3PMg8h5edK+JzIIwQeK424WYgdWY/hUd6DY/MmRXZGtjQYh+bkcwNxH71hu3RaF93Ym9dUbaSNCQCVnlMEbelSzk+S3B4bVvL8/oYMcPtFgDUSt17aQspqBuAOdt40hoE8udF7uO4WoElxbAZx+MWyPeHRogyO0dea3leZ2gMMrOoNviXCJE+FSqiO54kj0q7J8yRrl67dcLrVlEyREgdPwiIn0pOpsl6jx8J5ptrZff8Q44a8rqHQhlYSCOooxl17oa+fezZv2CcKoRipLMXLKqggbLtLTzkd6asDieIDIhlYowBkSI5GNwQQfjW2OZN4nB05Ona7fQbENWrVapEDsKsFWUR2TFSFRFSAogs8ahWZYqTpHLqe/lV2dHwqO5pTx+bvbQ3Us67SmGbWAYBgsqwZE9ZHKsMs62NMWKWR1E14rHKjLbG9xgSFnko5u5/Co71hzK2brYRuIwDX5XRAEDD3mDEEGTt123oAjFLeLu3biG9fClFDeLhTsAOgg/JZotluZW2TB6nUFDcJBImFsOqmPMMKljk89fIuzeD0Y1KO+9fb8QTvZqLZPEI0htDOOSMd11jopBG42BonbuFSCP/2kbA4tL32wXHROMCq62AGqIX5H9K3ezuNxCAYXhC41oeNjc0hQT4U906iB9IoY8t7j5vA6Y+XlVf0rn2ex9Hw14MAQa0Us5LiBcZGG25BB5qRIKnzBpmNXQlqR5kk4umRqJqdQNOCyJNZsTfC8zWjTQ/OV8K+v7Uk3SsZbgvFXdTT06UCxObarrWbZgWxqvXOegfkXu5+lYcwzttBuJiLauCfuCoLQD7rfiDR8P1rBaRcLau6+IWxCgyQIUtq0gmd2JJJiYHzqCcmerg8J3lzwl+v2CONZHtWb+keK9a57kBm4emT08VZMZfZbrWrUB1XWo/C4/EjDp5ERHpQFPaG2uGa0xnRetMNMGNF5WIO/UJI9TWO97S2xjGuTyGykwdxAHrBB60upuKNIeF05Zenb5vsOOV5st9BcXbeCOqsOlNWXZ0GAVj4uXrXy02wmi6hdLVxibnDfUdQ1QAR+E8+/SKPZHjtZkEsqsNLEQW7jcCY5TWkJNGGfAlco8fofSBiq77ZFYSdqqY1SRhT7fXUHY11cEyhasUV5FSFOZEkoT7RXfdX1NFxSv7R3NTsAemkeRIpMsqjYYq3Qt4WzxrzYiFW2sgQo1XY/Ex7SNqUfae3fe6zMSZMKA2xnfSFmfhTPjPs5tiZYFxaVA5EaDoYqoMAjc6j2HLaoYrJQA722HEgwAQSdtgWiR061G5uDUj04SjNuL2XCFV0uLbMDcW1TafCPxGivszl2KS4jJqVQJkt4O/hg8jW3JcJdYsbuqwv4muCCSSByPTnudtxRlctw9lVl44joFNu5pVvGJDMjeEQZO3XnJoa5u4pIpzTxRanFt0tuQv7XYVgVxGlXQaeIkb9dww3jePLbzpwyiwgFtbahUMEACNjvS4MAg4mHV3I4IGh3a4FDawGDMSekR/8AIpryVAGQDkB+gitsfx0eXmy6sEV6X/oYDUlqoNUlNXkBcKkKqDVJWrgGDO2934/tXzc4JcRjGW0gFlH+9LMxRnkFxbSdIbmJA6k9q+gZ5chh5L+9JtnBELwlvNb0oz3QmgMxdtUl2U6QdNwSIPyqLNvNRLvC5OlCUu/C/n+BH/6gX8U+IfSGS2AYKgRsNPiYRGw5nccqCZfxBattBlFuRvvvJWO3P6U7jIvtKW3W6zIRIa57snxAFdQ1RsJg8qFXuMMRw9Dl5hW0DTondtURABPpyqTqSrTJKz2PDzxfE5VtVfn0Fr2cGKDW9GtgxbmsoAeZJMgyZBB86+l+1eHf7vFC3K6V4oVmW4AOZDqRtBHy7VgsZDoLXTe0rBLPanQGI3YoCRI6mANqM5bZi3ZJv3Ht3lMJc4bTqtzCsqyNgzaST1HSnuUrk1SJpZ44pQindfXj83Gb2cS2OFwhCEal8wwJkk7kmZk00k0o+ytnhrZt/kUL8lprmr8O8bPIzfG/qek14a6aiTWrM6OND859wf6v2NbCaxZwfux/qH6Gkn8IyPneKwzYvGOAdFqyQrMoAa4xAJE/5EedBP8AqHl9y+4KOulYUqWCiJMjVymT9KacdbtJAckC7fB97SNRUmGYdIWPMkDrQD7DhLl69atJbGnT41gWwBzBJDankmT168q816nHVF9z11m86jWyjX8s+f4XLHAuEf8AjO0jcSD0PUCedZsXlTG4WcgK42YgkAwOencH1p+zvIGKL9nbW8+6TCnaNKmBHMHl0oZg8pNtT9oU8SeSSwTYbGCNXI8u9KvEN+a16FX/AEPGoK/Xgnkq2OD9muXlYsNSgsAZjcr1+B86K5FdddVlzqNsgq35kadJ+hHwoemOs27oVlAtaINwoYLT4desErHi3nmaIZQ6squggQUXnuqsQpE7wYkeRorZJtkmSbeqLXzR9EsNKg+QrmqrLmm2vpV7VeuDzyvTXV6a9oHWZRUlqIqa04h6TtSdjW1Et5k00Zjc022Plt8aUMczaYT3zyESDHOdxtv3G8Vjn3VGmL4kLAwloXl1Bxd952RTc4j7bFVBAA37QCO9MFu4Napw2AmS54YB7AKrFo9RQbM8PqQAK3HaF1MGBHfSVMACek/GguJw2LsMoZjGkqCWUsdW/OZiQBM9qmaWSNd/mXdJqSuWx9Ft4jVdf7q4ykbOoRgDy90tq8/dIofmPAd1TUDJh0Fko8QY3u8gSInbr8F5cux/CLuzL4izFSAWGwG67kbD/aKZsPhF0o9viG9A3PGuKd+ouztz5EHnBrtMIqqt/uKsU35lLb85C/s1lPA4iqsIXBWYLxpAOpubbzEkmKcMpXxE9h+p/tQLKbjMssRMwQAw0kdPFv1B3jpTDlnInzj6f3qnBHe3yQ5n5tPobw1TDVSDUgasJy9WqYNUK1TDUTgPnTS5HkP5r577U5cLjXHd7lpRbVZTVpumWIF78LICYgxGo77095i/3jfD9BShmuIFxzacoiSSbgaTIOwXojd5nrtFefn2lqRZ4WLlaX1OyR7SWlHEW8UGk8BLl0z2hCQsHz3jpRhsQBhQYadWooFl/TQN9XlSLfOLF0rhXd7FtQuja4rbGNgvkNhtynsc6Y/HlVt8Niy6Q66CdKgjST3n1MifhhPDGauCXz9yrpztuct+fz/Y2ZkmGYEg2rZfkLoey5O0go4BaT5jpWHIcsCvZuo73FIaUOoWrLFCS9kHbn4OpOokRvWDLziLlx7WMvMtthKibaKqyYEOpnoN+3WmHKL+h+Cmhk1bXJgtO52/G3PcH4DlTNRTqB3SyqNzd9xtycRcX4/pTETS7lh+8X4/pR4tV2FVGjzJ7uyRNRLV4TUSa1YDiayZofu/iP3rRNZsx/8AGfUfrSS4ChQz/AcZOHzRmGtZjUnVQem8fCeVK2X2cPaxDhBcQQFW0iG8pIJ1sCAYUSnUbzIpxzZ2AGg+MkgLpLA8pMAiI7zG9LWNwi8NnuI/HIjUytE9I0EKOnX5157qLp8HpYYSnC1KnwbcRiSr214ZVQfedrYZv9NtZJ+kUMx2LPGOgIVcb6na23QSulSOfUxzG+9LuIyLGJZDLdgSHl7kadjA1MZH9z8RWEyq9fYjigAqV0M8N3kL2nf4elL046tSe3oN06i4t7hvM8RbN1JtljO2t1e2Qdp0qTuCwjwyaNZXhNCwOUkqN4UHkonpz26TFBMly8Wla01vWVJ0kBBHnqkGd+80byy3cQ6bhYkjwyQRAIkSNyeXOg2pOlwGWLRF7jnkjTaHkSK3mhOQN4SPOixq2L2IGRNdXGuohMoqQqCmpA04gOzy54Qvc/pS6mIm81uPdRWB76mYED00j5ii2dXZeOwpGzexbu3S2o6twCupLilSBpB1AQ0NM9ATMCsJNatxoxb4NWcPeLsI0W15PMHl72qdo32G+1Z7WBw7Bna6RPMgNA6b9X5Dcd6GYu8LYXSA2rVDl+KCFiVIYe8NQPUcudZMJmNxr9w6vciDJ1Bj/wDc8gZHblWHT5Z6MISpLi9vcasNZdEHB8agLsJa2WB3bSCecHkPjTpl9yLQe6BbOmWBiFHM/wA0hYC5xELFShLEKyXFshn5PoGpSzSdzIUmOtaFy9LmoXMReZYmLl66OG2soECg7uHU85jYQZmuxQUXbJ8+qtI/ZVf4ltbmnTr8UEEGCfCWB3BiNulMWB2QetA8LsoEyQAOvOPPejtjZQPKrcfJAy+akDVQNTBrcWiwGpTVYNe6q4AAxrzcb1NC8NikbDrcQHTo1KBuY5wO56VrxN3dj6ntSELGJtEqmLe2CQ7JotXAxulz9yAkjdH8IB/N3qOdO7N8al2NWHxdy6SV1WUbVIBImFGmXG43JJiD3q85MqLbdcSC0zKtpLifEUcbvy6c6E4/MCjqr67jAB/vVgLJMMqjwOOg2gETBPLFZzZmN0MocKxTSTq1+8Cd/dOxgrESO1RwxOmeooSlVVvx3uhmwOZOLyLdVrjMdIaIK+IgHSAJEcyBHOmbHX0QIr76riKo7tOoH4aSfhSTg8bca0Llq/etKNQP3eu2kE/iZTrA2BbYbGYO9a8pw9830u3sQ1022KGeEtvxoGOhAsyAV8cyYYbCtcEVFb8kedtul2H7Kz96Pj+lHppdyo/eD0NH5q3HwRsmTUSajqrwmtDj0ms+O/8AG3w/WrS1UYxvA1JLgIu5lixa4ZKyrXAhb8mpWhvIatK/1Vlz97i25tJrYkAzvAIPijr028689pLS3LJR2hWKhpLAEE+6SvIEwD5E0oLhApMX75An7sX34ahXjXqdxpQ7AAsTMgauks9LjRviUlJM7F4UHbEErOnSDLMsCW0INwT5Cd6xY3CYZNwW93fUsqB1LMBCMNjv5V5mWMa2+hFKjSDJYMzIZBNu6v4SQZ6zzpbwmYOLl0BhKnSsbDTJBn8w2AMz73pU8cWzPSjGTrer4/sbMnS+txRsbR96SDEDnPOTA2ijOIxkXrdpYJYOzdSqqNie0sQKTLKpdRWuW7YLFlDF9DPB3CgIQigmB4h+9bsmw1i1cUqArBgFlZuMSCHDGSRBDiOQ0U8IqK3Js0ZWfQsjbxEdxRw0t5S8XBTGDVGN+UlZxrq8r2m3AYlNTmqgarxlyEY9h9elaMUAYy9LM3mfkKT/ALMqPed748VwESupS7KyumkblNLqOexHPajucueEwVihOwYbaQPEWnpABpWsadIuopuaiVDy22kgFmggyWJgbAACAKnbpNmkItukV4jDl7jBDqFsDwhdMAyfChMlZ5tuT8Ky5NlNwC4zRuQS3JRGokljA3mYHb5E0xFuVa5DeJtxuwgxsZkAyeZ9a2XcTacs4UQI06hJ1E/hBJHWZA32qfqNI9FSkqbXHHuSyazba3aDXbQ1EtbS7buBkLeJhs66lkEwZHnRbLsqJxXEN0FbN1l0tANx3UO7nzLOSByGgDbc0MMXFuK4aER24mo6Ay/mUnQ0/wCkVt9lLZ4tt7VxuC6M2jZxqAQsoc+IAPcbwkndTVGF2myHxDk3uPqb0bU0Dwxlh60ZBqjGiRl01INVIavQa1AaFNRdtqgDUb58LHyP6VzdI5IXXOxMTz22k+W9ImXZReUXVuFPBqQjiFAEuqmkK+lgGQIABEFbp5E0251dZbFwppLaTpDCVLHYAjrJMR50jXbROtsRcJjSXVACnFYnSoD6pgLJZ5O6gARFRv4W2b4k9Soqv2G42kaSthFEW2NwW1ZmfxNAlmbUeQA22FD8rwN37wFPExUgDeY1co6eLme1HrLrJuGQV0Q6nSwDcp0gBh5FY3O1bse9lyER2IKywUskkfiYgAnr1iTuKlWaos9XqSuLadxuvf1Mfs/h2dLFxeGxtyto8bRtqJ03ECGYJPIgkbHvW32eyy6uKLMA1q2vBEbeNFCm4VPKQIEcgy+ZoXbt27mi1Ohv/VpRdKkg6ZgagI2lWFa/Zy9eF634la3clmLybi3ArygYHSxlWGogHSu/St8TtNkPiJSb3PouUH7z4Gj4NLmUH7z4H9qPhqqxvykbLCa8LVXNeE09nEiapxPuN6Gpk1ViD4W9D+lK+Ai3nFniWLluQNalZY7DVtJ9JmKT8FlhS3dW7ctxbYWnLyFdRF1TqUgq6vdcTvO801Z7cYYe6yHS4WVMBtxuPCef96SbWDGthddna2j3LqrA34hVURAIQSrMTuxlTNTv4WaY29Soz5nhS18IrK5FuVCAqq2w3upqPiaWJO5Jpew+VXRfuGPf1bAHVu2rcHkAQJJ77U2cRbsBlDKZhW8QDKB3WesTM1lv4+wbMEsW6qWkkbSpOqSOnxO1SrK90eopSem1xuv7B+WqqC4txwBbaYa3xLcwCWVgefIEA8xyohZwK/akuLfkImtSSIdrjvxiY5HcbDlI7VlvXNBIUCBpGhZUeKTtpK9fX0qi7hQHC2mNm7cQPbGrxGQwZDPOIkMd/Ed60xS1E3iNT8zPoeCaHHrTMDSjgbkhG7hT8xTVbOwrbGSstrqjNdWgLMQrBnN2Ejua2hqB51e8QHYUJukKlbFnPcXFxF5qqXLrDo2mFQHsJJP9NDcmyy6A5SSr7sxIEtJ1aVHujVyBE/OrM2uOl43Ut8SLcPO4tAElWjkfxbTNTy8Obauqo2olgbjjVMljAg6d5O0c/Wp29rrkqjB9mjbYy83mIvW1UpyZCNRXaJKxBG+1WZfg7kMLdi2qmRr8DO/mSTKjp9aFt7ShLrIELKx0tcnZTMbCNx3NMVq2xAHgIiQGg89pj57+VZKbUra5saUGo1Yve0Fi4w03ZTQoNtRst3SZKMC5B2C9Nz0NMuQMBisQiALbtpaGkAAa2BZjA6xp5UtJmdxLt5ltNiEEAjci2FYkQ2k7Alttz8qZfZnB8JWfUGa8eISDKiVGlUJ3KgAATW6ail9jPJB7ruNmB3ai6mg+WcyfSigNVQ4JGXBqkpqpasU09nUWrVOYPFtvSp6qx5rci2fUfrSyewUhS9psYbeHLLGovaUT0LXVXV6iZHmBSdbsmzirhtb2mcqbXiPFddWq65KvA1SvSSKY/a221yxC/gZLh5SRbOqBO07ddqCZdm1u5e1YfUAVbUAJu3SSHJPPSBHPmdTREyYnJV9ivFjk+FvybHwymEfDONX/ALFDrpg+EPsBECOvSpYrKreHcSl28SNguoKvcvwVmNuxmtOKzTQha6ty2qGZeSTuRAMkk8tvP0qWAz1MSxu2dRgadJEMDtzHx86ncqd06VI0cZpOLfNgnMHdFC21Fh2bw3dLfdiCADqtzpjbeNzXvsuq2WwyKsG4b3FBLH720ukuNR5ncT1B5Vd7SY65btrOrQWXWjmdYUhiATETEHmN+VUZLcS/ft3bGoWbIcENt47nMLvPaZ77da3g4qNrgSUJVv3PouUH7z4H9RR4NS3k7eP4fuKPg1Zj+Eja3LZrtVVlq4mnOJzVd07H0P6V4TUWNBhSFfPLxXD3mWNS23YSJEhSRt6ikTGYeXt3bTFGNhblwqCXvtd5W+e5Ohuf1p5zFNdtk/OrL6SI/ekV8alpRh3X7+3CC8YKKoMqV0mQ0AQsAz161HqVlGOLr6hm6l1wXOGFzb3WRWnYfmddJ25weflWIZJbdGfQ1uJm2WPh8jB+gMUTs426VDrbu3J/GTAMg/h1BQPKO1Csx9pLVgtacPL77CRbBndv86VPN3UYp9yhQnG3L5EbCXj4kwwtATpAVOXdityWP9I50JwWD04ibgOu4GUqw3tmGNt0JYsFMHkdiRTJaZnRdIDLBiGI5+hE+vnS7iMwazeuK9t73URvcSFiQQJ0xAk78udPCeu6W7F0Nd9kNHs7izcw1p2MsUGo+Y2P1FOmCuSgpD9mLXDsW11BpGqQZHiOoweo3O9OmWNKCtsck26J5xo3zXlRmva2sQwaqV82xHiJ7sB8zApgxFyFJ8jSN7SXSttXHS4pPwmPrFJm4o0wR1TSIYzGBVuqLdws5I90hHIVR752AI2kHp3oNmeYtr+8BRWMSrL8JA3ii+a4+cKLlvqY35jmP1pDt2XdwHU92Jncc5/asox1c8Irxpw3rdug0r2wSWJCjedpmZ5UVy3FXCQeGzJvGso23odxPnSri0JthgCZc8vTb9q3ez4u8ZdKkEwukk+InqZoSx+W09yvJl1T0VtQ85fmtvQ40XUZ2GpRbMKzwukPp0naD2jlRrAaR92ggWwqx2EbD5RQnMs4TDqLfvXAB4RsJjmT2+tbPZ6w62tVz37jF27iYAHlsBRdyas854tGNzffj5jZlnL40SUUPy33R/nOt01YuCOi0NUgap1V7NcAtLUPzlvAB3b+a1lqG50+yjzP6f3pZvyhQr5oEdGV2AAZNU7jZ1YKw7HYHyNCc0zKwLzXEIdxbCg2yx06WOrU1szMkCOy1c2MVcXdtXY0voZdQ8MhFEGduY+lC/bfFnDiLSadUEsAAOxI8+VQ+ZJxXdnpdLzxb4qzFex/GBDXI0GdDKQwO+8EyZ7mq8Ni+DNwXApMAiJJ5wI68zS5g7zXLrOWY6UJk8/IH5/SvMdeKPbbUR4AZHTcgkee1P0N9Nln/Ih0b0rn29B4t5jaui2LvMXF0m4zhBp8RDBzCggR1O4HWjqNbN17yOplEB08iPEysSNjzgdqU/ZDGtiDw7ql1k7kc1/+qN5xibasLFlVD3HUMEAECR70df2pXq0uLIni1ZVp4asdckPi/p/cUeBpeyc+M+n70dDVbi2jR50uS0tXaqr1V5qpwFhaozUC1eFqDChZxVwCJ7x8SYoJiLmHt2b9l71tdbPOswQ1wa+p8REyD5AdK3e0qtwbmn3lIcf0MG/Y1my3FWcQhOlSxALKQNQI5eo5Qai+GdlvTcsOpdmAMbnKhVNpHRNOoDQ50jlMTCx5CguKZW8YcOWiSPIRv58hXntLmtwXNMuiCQY2bV50EwTEpcaTsV+pM/pSwxycdbPQw5IY5qFflB+3juHptq5faQipMRtPORRfL80spc1MBZLIoJZCockmIPRh1npHakTE3Tbuk6mAIBkbGCNvhNOHsZjWuwHWSATqPTsT50XBwqS3Rhm05NSqmv2DuWOgVdDagXeD0J1MWA8pBjyFNuUPtFImIx6tibNu3BhyWI5TpIjz5macsoubmuxbSsmzwcVG/QNE11QmuqknAebXISO5ilDMWZw/3gt202bwhixG/I9P1pizi94gKENgbbNrKyee5MTynTyms5vc0wyUXbBuX3OLb4bXCCss2nqjT4WMRO529Kpy20FS9fj3FbSPMLsP871ZgsPw796223FVih6HcmPXf6Vr4EWbNrkXuID8G4jj5IRWdXJFeXJojJRfNffkzZzghbSyoHuqq+ugrW2zbXDFW1nUy6uHHvNp3lonSI5d60ZpYDujMQLduWck7f6fX+axW8I2Lv8AFZStpY0g7FwDI27E7/Sh/k2PCSeJJulTv9keYLD3bwN9blvUrMYZAYI6apgCORA5R2plwGINy2rEQSNx2PI/CRWI5RaksARq94KzKreoBiiNiJCiOY2/atIok8RljNUvb5DHhdgK0g1lsHargapJS3VXTVeqvZrrATmhWdNuo8jRImg+bvLgeX7mkyPyhS3EvO0N/wC94Km0gbxs+kuBPIflnl3+NWYux9qtIYQaUOuQeIhEHwjsYOx7+UVtu5PqAQ3G4UzwwABzmC3PTPShWU2jbxN+053dToJ6iTEH0P0NSs9fHNOPle8d1zwY8FgENnFXCo2RyP8AUFMcucaZ+NSz7K7aNahBEAxz3gg8/hRMWimAvAiGIuA+p8NXZ9hzcNpQN9R+AgSaFPp33F63/pa/x+3r+pmwGG+xq7FUPh8JWdbkmYj8K8uXasmU2uEwvtZ8DD3w4bTPN9PON9+1e4xTiMaFSdNsBWI6AEkifp8PKiVrKWVeGLp4U+4VkgTOkNPL4U6OnkUVcnvJb88ew05O3iPpRwNS/k2zH0o4DVOPg8lrctLV5qqua6aezqLJqLGo6qixpWcLua4kWg7EEwYAHNiTAUepIpSFp8PcF9rAQFhAD6o1c1A7xP8AgpszWyHLqeRPPqD0I86E3sqa4ym7eLBfdULp35STO5qWRf4bJGCal355MObZdxWa8Ft6B4tQnU0LurLymevSKE4XK0bDYg6RstwrG3i8RB27QK3ZDKXL2HumGcbE9SAdx6gz8K35PYi1dRhvqYEeq/3pN9SKssnDE43xVP5MCZ3lyI1p1UaSBHWJEESfUGtmAsfZlL+AqU8JA8bMdwDPQDt2mp4gcTBWm66LZ+MAfvWH2gUk4e0v/kA6cxMD9j8q7iTQMU+rjjF+/sdlCNbPGFoMpEEq0ssHxEL+o57U6ZTdBII5EAj0pdTKyuoW7hVW95SNQk8ypmQTRnLgFKgcgAB6CjHkl8ROM3a/EMwNdVStXVSSi3m+CD7sJ7VjtmR59aN4tZFBQIeDyP6ikmjluT4IbmJEz6HuOxofiMDOJthWdUVHdgG21EhVjqsgvyjlRgV4F3J6wBPpMfqayjLcZrYiMMm3hBjcTvv336+fOtINVg0LzjNuHFu34rrch0XzP8U6Vil2ZZiQRatb3W+SD8x/YUUyDIFtEOx1Odyx5knrWT2YyfhjW+7tuSec01WxWqikAvWpCoA16KawE5r2ahNdNE4nNAM8wLuSysRAHI9u9HNVUXBtQasK2F7DXtYnqNmHY15i8GlyNQ3UyrDZlPcEcqzZgODd1/hOzenQ/Ct4NTSVMdNp2gN7R27i2WKODqNsEMJmXVZBWI6dxz5VrOHYg6rm5ABKjSI32WSSJnnz5cq04i0HXSeUqfirBh9RUSaKewrbTsrw2GS2ulFCj/NyeZNYczxpJ4No+M82H4Aev+rtVmbZjwl23dtlXz7nyFWey2WRLvuxMknqa0hEDbe7DXs7gXtAl2LE9zv9KNlo+n61RbFWTWopZqryagTXk1xxYTUTXhavCa4IAzfL7hYvbczMx0MdDWfC4gOJ5GYI6qRzBpieljO7DWn41sT+dfzDv6ispR9BkyWMwSXY1Dce6wMMp8iKi1m4ACrgsBHiGzdpK8j5x8Ksw2IV1DKZB/z51aTWI+ptUxd9njcayurSoRnUKJMlWZfEdtgekdBvW6xglRi/vOebHn6DsPIVfZw4tggcizN/uYsfqa9rpO2cpNKiu/dCgseQqjJhdnVcbmZAAiB286pvtxLgUe6vPzP9qPZdaHanitgBa0dhXtRWupxTG4kUJxdvbbmKINigKE4vFrvvQlbHjSLrb6gDUjS7fzB0kIR8RNYTnGIkAMvnt9dqRY3YZBnOs44XgTe4fks9T/Fe+zWTmeJc3Y7yeZNYMlwILa23JMknmTTlhrqjatUqEdBOwsCtANYFxQqa4od6IDeDXuqsQxQ7159rHeiA36q7VWD7Yveu+2r3rjjcWqsmszYod6j9pHeiAy5vYDLQTKcTBNpum6+a9vhR+9eBFKecjSwZTBUyKScbGixgc1gx+NW0hdvgOpPQCl3Ee1t1duGDseXfpWdbz4lla4NIAEKDsO/xpFFrkLRvyqw1+5xH5nl2Udh5U+4KzpAFBMntqooymIHetkIzaGqWqsgxA717xhXHGlmrwNVHFFdxBXHGgtXk1RxRXcSus4sZqy4q2GBBqZuiq3uUoRPvMcJdJ/8AUx3H5T+YfvRxXBAI3B3FRzXDi4pBpXweZNhSbbgtb6RzX08qScL3QyYyvQ/MsVoWB7zbD9zWFfam08aQ077RuI71XZJu3NbbDoOw/mkUfUIRyuxApkwiwKE4QDai1tq0OZqBrqpF0V1cA0k1Egdq6upLNaK+An5R8hU1tL0AHwFdXUUBosW2OwqWkdq6uprFo90jsKiAO1e11dZ1HsDtXu3YfKurq6wUeC2Ow+Vei2Ow+QryuoiktA7D5CvNA7D5CurqNnUeNYU9B8hVNzA2zzRT6gV1dRAzM+TWDztJ/tH8VK3lNkcrSD+kV1dSnIsTBWxyUd+9W/Z1/KPkK6upjkeCwv5R8qlwV/KPlXtdXHJHnBXsK7hL+X9a6uoWdR5w17fr/NeG0vb6murqJyI8Fe31NRbDr2PzNdXUGGim5gkPf50Pxfs5aucy3zrq6uORgT2LsqZDsPlW6z7Pov4mPy/ivK6gwo028tQHm3z/ALVpOFXu3zH8V1dQOR59mHdvmP4rq6upWGj/2Q==' alt='Ukiran Dayak' class='w-full rounded-lg mx-auto max-w-sm'> <br><br> Penggunaan motif fauna seperti pada gambar dalam seni ukir dan pakaian adat Suku Dayak menunjukkan...",
+                "options": [
+                    "Bahwa burung tersebut adalah hama yang harus dibasmi.",
+                    "Kedudukan tinggi dan makna simbolik burung tersebut dalam budaya.",
+                    "Burung tersebut adalah hewan peliharaan yang umum.",
+                    "Larangan total untuk menyentuh burung tersebut."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Penggunaan motif dalam seni (ukiran, tarian, pakaian) adalah bentuk penghormatan dan pengakuan atas status simbolik Enggang yang tinggi dalam budaya Dayak."
+            },
+            {
+                "question": "33. Salah satu bentuk kearifan lokal masyarakat adat di Kalimantan dalam menjaga kelestarian satwa adalah...",
+                "options": [
+                    "Melakukan perburuan massal untuk dijual.",
+                    "Menetapkan \"hutan larangan\" atau \"hutan adat\" yang tidak boleh dirusak.",
+                    "Mengganti semua hutan alami menjadi lahan pertanian.",
+                    "Menganggap semua satwa sebagai hama."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Kearifan lokal seringkali berupa zonasi (pembagian wilayah) adat, di mana ada area tertentu yang dilindungi dan tidak boleh dieksploitasi untuk menjaga keseimbangan alam."
+            },
+            {
+                "question": "34. Makna simbolik Burung Enggang yang setia (hanya memiliki satu pasangan seumur hidup) sering dikaitkan dengan nilai...",
+                "options": [
+                    "Kepahlawanan dan perang.",
+                    "Kesetiaan dalam rumah tangga.",
+                    "Kekayaan dan kemakmuran.",
+                    "Kecerdasan dan ilmu pengetahuan."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Perilaku Enggang yang monogami (setia pada satu pasangan) dan jantan yang setia merawat betina saat mengeram, dijadikan simbol kesetiaan dalam pernikahan."
+            },
+            {
+                "question": "35. Hubungan antara burung lokal (selain Enggang) dengan budaya suku di Kalimantan adalah...",
+                "options": [
+                    "Semua burung dianggap suci dan tidak boleh diburu.",
+                    "Suara burung tertentu (misal: Burung Hantu atau burung penanda) dijadikan pertanda (omen) untuk mengambil keputusan.",
+                    "Burung hanya dianggap sebagai sumber protein (makanan).",
+                    "Tidak ada hubungan sama sekali antara burung dan budaya."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Dalam banyak kearifan lokal, suara atau kemunculan burung tertentu digunakan sebagai \"bahasa alam\" atau pertanda untuk memulai bercocok tanam, bepergian, atau pertanda bahaya."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN VI: Klasifikasi dan Nama Ilmiah",
+        "passageText": "Memahami dasar-dasar taksonomi dan penamaan ilmiah.",
+        "questions": [
+            {
+                "question": "36. Sesuai aturan Binomial Nomenclature, penulisan nama ilmiah yang tepat untuk Enggang Gading adalah...",
+                "options": [
+                    "Rhinoplax Vigil",
+                    "Rhinoplax vigil",
+                    "rhinoplax Vigil",
+                    "Rhinoplax Vigil"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Aturan penulisan nama ilmiah: Kata pertama (Genus) diawali huruf besar, kata kedua (spesies) diawali huruf kecil, dan keduanya dicetak miring atau digarisbawahi."
+            },
+            {
+                "question": "37. Burung Buceros rhinoceros (Enggang Badak) dan Buceros bicornis (Enggang Papan) memiliki nama depan \"Buceros\". Ini menunjukkan bahwa kedua spesies tersebut berada dalam satu tingkatan taksonomi yang sama, yaitu...",
+                "options": [
+                    "Genus (Marga)",
+                    "Famili (Suku)",
+                    "Ordo (Bangsa)",
+                    "Spesies (Jenis)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Kata pertama dalam nama ilmiah menunjukkan Genus (Marga)."
+            },
+            {
+                "question": "38. Burung-madu (Sunbird) dikelompokkan sebagai burung pemakan nektar. Ciri morfologi (klasifikasi berdasarkan sifat) yang paling mungkin dimilikinya adalah...",
+                "options": [
+                    "Paruh besar dan tebal untuk memecah biji.",
+                    "Paruh ramping, panjang, dan melengkung untuk menghisap madu.",
+                    "Kaki besar dengan cakar tajam untuk mencengkeram mangsa.",
+                    "Sayap lebar untuk terbang tinggi dan melayang."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Bentuk paruh beradaptasi dengan jenis makanan. Paruh panjang dan ramping adalah adaptasi untuk menjangkau nektar di dasar bunga."
+            },
+            {
+                "question": "39. Urutan tingkatan taksonomi (klasifikasi) dari yang paling umum (tertinggi) hingga paling spesifik (terendah) adalah...",
+                "options": [
+                    "Spesies - Genus - Famili - Ordo - Kelas",
+                    "Kelas - Ordo - Famili - Genus - Spesies",
+                    "Genus - Spesies - Famili - Ordo - Kelas",
+                    "Ordo - Famili - Kelas - Genus - Spesies"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Urutan standar (dari umum ke spesifik) adalah: Kingdom - Filum - Kelas - Ordo - Famili - Genus - Spesies."
+            },
+            {
+                "question": "40. Penentuan nama ilmiah seekor burung didasarkan pada...",
+                "options": [
+                    "Kesepakatan internasional dalam sistem taksonomi.",
+                    "Nama lokal yang paling populer di daerah tersebut.",
+                    "Suara kicauan yang paling khas dari burung tersebut.",
+                    "Nilai ekonomi burung tersebut dalam perdagangan."
+                ],
+                "correctAnswer": 0,
+                "explanation": "Nama ilmiah (Binomial Nomenclature oleh Linnaeus) adalah sistem universal yang diatur oleh kode etik internasional (ICZN untuk hewan) agar tidak terjadi kerancuan nama antar negara."
+            }
+        ]
+    }
+]

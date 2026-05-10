@@ -1,0 +1,524 @@
+[
+  {
+    "passageTitle": "BAGIAN 1: Keanekaragaman Hayati",
+    "passageText": "Pemahaman mengenai tingkat keanekaragaman gen, spesies, ekosistem, serta upaya pelestariannya.",
+    "questions": [
+      {
+        "question": "1. Perhatikan kelompok tumbuhan berikut:\n1. Mangga golek, mangga manalagi, mangga gadung\n2. Padi, jagung, alang-alang\n3. Kelapa, aren, pinang\n4. Bawang merah, bawang putih, bawang bombay\n\nKelompok tumbuhan yang menunjukkan keanekaragaman tingkat gen adalah...",
+        "options": [
+          "1 dan 2",
+          "1 saja",
+          "2 dan 3",
+          "3 dan 4",
+          "1 dan 4"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tingkat gen adalah variasi dalam satu spesies. Mangga (Mangifera indica) memiliki varietas golek, manalagi, dll. Poin 2, 3, dan 4 adalah keanekaragaman tingkat spesies."
+      },
+      {
+        "question": "2. Di suatu ekosistem sawah terdapat tanaman padi, belalang, katak, ular, dan burung elang. Jika populasi ular diburu secara liar hingga punah, dampak langsung yang terjadi adalah...",
+        "options": [
+          "Populasi belalang menurun drastis",
+          "Populasi katak meningkat pesat",
+          "Populasi padi meningkat",
+          "Populasi elang meningkat",
+          "Ekosistem menjadi lebih stabil"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ular adalah predator katak. Jika ular punah, tidak ada yang memakan katak, sehingga populasi katak akan meledak (meningkat pesat)."
+      },
+      {
+        "question": "3. Pemerintah menetapkan Taman Nasional Ujung Kulon sebagai tempat perlindungan Badak Jawa. Upaya pelestarian ini disebut...",
+        "options": [
+          "Ex situ",
+          "In situ",
+          "Budidaya",
+          "Domestikasi",
+          "Kultur jaringan"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pelestarian in situ dilakukan di habitat asli hewan tersebut. Ujung Kulon adalah habitat asli Badak Jawa."
+      },
+      {
+        "question": "4. Garis Wallace memisahkan persebaran fauna Indonesia bagian...",
+        "options": [
+          "Barat dan Tengah",
+          "Tengah dan Timur",
+          "Barat dan Timur",
+          "Asiatis dan Australis",
+          "Peralihan dan Australis"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Garis Wallace memisahkan fauna tipe Asiatis (Barat) dengan tipe Peralihan (Tengah). Garis Weber memisahkan Tengah dengan Timur."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 2: Klasifikasi Makhluk Hidup",
+    "passageText": "Prinsip dasar klasifikasi, tata nama binomial nomenklatur, dan sistem taksonomi.",
+    "questions": [
+      {
+        "question": "5. Nama ilmiah lada adalah Piper nigrum, sedangkan sirih adalah Piper betle. Hal ini menunjukkan bahwa lada dan sirih...",
+        "options": [
+          "Spesies sama, Genus beda",
+          "Genus sama, Famili beda",
+          "Genus sama, Spesies beda",
+          "Spesies sama, Famili sama",
+          "Famili beda, Ordo sama"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kata pertama (Piper) menunjukkan nama Genus. Karena kata pertamanya sama, mereka satu genus tapi beda spesies."
+      },
+      {
+        "question": "6. Urutan takson tumbuhan dari kelompok terbesar ke terkecil adalah...",
+        "options": [
+          "Kingdom - Filum - Bangsa - Kelas - Suku - Marga - Jenis",
+          "Kingdom - Divisi - Kelas - Bangsa - Suku - Marga - Jenis",
+          "Kingdom - Divisi - Bangsa - Kelas - Suku - Marga - Jenis",
+          "Kingdom - Kelas - Divisi - Bangsa - Suku - Marga - Jenis",
+          "Kingdom - Divisi - Kelas - Suku - Bangsa - Marga - Jenis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Urutan yang benar untuk tumbuhan: Kingdom -> Divisi -> Kelas -> Ordo (Bangsa) -> Famili (Suku) -> Genus (Marga) -> Spesies (Jenis)."
+      },
+      {
+        "question": "7. Sistem klasifikasi yang menggunakan hubungan kekerabatan evolusi (nenek moyang) sebagai dasar pengelompokan disebut sistem...",
+        "options": [
+          "Artifisial",
+          "Alami",
+          "Morfologi",
+          "Fisiologi",
+          "Filogenetik"
+        ],
+        "correctAnswer": 4,
+        "explanation": "Sistem filogenetik mendasarkan klasifikasi pada jauh dekatnya hubungan kekerabatan antar organisme (sejarah evolusi)."
+      },
+      {
+        "question": "8. Kunci determinasi digunakan untuk...",
+        "options": [
+          "Mengetahui evolusi makhluk hidup",
+          "Menemukan makhluk hidup baru",
+          "Menentukan nama atau kelompok makhluk hidup",
+          "Mengubah nama makhluk hidup",
+          "Mengawinkan makhluk hidup"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kunci determinasi adalah alat bantu yang memuat ciri-ciri organisme yang disajikan berlawanan untuk mengidentifikasi/menentukan nama kelompok makhluk hidup."
+      },
+      {
+        "question": "9. Ciri utama yang membedakan Monera dan Protista adalah...",
+        "options": [
+          "Uniseluler vs Multiseluler",
+          "Autotrof vs Heterotrof",
+          "Prokariotik vs Eukariotik",
+          "Bergerak vs Tidak bergerak",
+          "Parasit vs Bebas"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Monera bersifat Prokariotik (tanpa membran inti), sedangkan Protista bersifat Eukariotik (punya membran inti)."
+      },
+      {
+        "question": "10. Manakah penulisan nama ilmiah yang BENAR untuk tanaman jagung?",
+        "options": [
+          "Zea Mays",
+          "Zea mays",
+          "zea mays",
+          "Zea Mays",
+          "Zea mays"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Huruf pertama Genus kapital (Zea), huruf pertama spesies kecil (mays)."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 3: Virus",
+    "passageText": "Karakteristik virus, daur hidup (litik & lisogenik), serta peranannya dalam kehidupan.",
+    "questions": [
+      {
+        "question": "11. Mengapa virus sering disebut sebagai 'organisme peralihan'?",
+        "options": [
+          "Karena virus dapat menyebabkan penyakit",
+          "Karena virus memiliki DNA dan RNA",
+          "Karena virus dapat dikristalkan dan hanya hidup di sel inang",
+          "Karena virus berukuran sangat kecil",
+          "Karena virus dapat membelah diri di udara bebas"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sifat benda mati virus adalah dapat dikristalkan. Sifat makhluk hidupnya adalah dapat bereproduksi (hanya di dalam sel inang)."
+      },
+      {
+        "question": "12. Pada daur litik, fase di mana virus menyuntikkan materi genetiknya ke dalam sel inang disebut fase...",
+        "options": [
+          "Adsorpsi",
+          "Penetrasi",
+          "Sintesis",
+          "Perakitan",
+          "Lisis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Urutan daur litik: Adsorpsi (menempel), Penetrasi/Injeksi (masuknya materi genetik), Sintesis (pembentukan bagian virus), Perakitan, Lisis (pecah)."
+      },
+      {
+        "question": "13. HIV adalah virus yang sangat berbahaya karena menyerang...",
+        "options": [
+          "Sel darah merah",
+          "Hati",
+          "Sistem saraf pusat",
+          "Sistem kekebalan tubuh (Limfosit T)",
+          "Paru-paru"
+        ],
+        "correctAnswer": 3,
+        "explanation": "HIV (Human Immunodeficiency Virus) menyerang sel darah putih jenis Limfosit T CD4, sehingga sistem imun melemah."
+      },
+      {
+        "question": "14. Perbedaan utama antara daur litik dan lisogenik adalah...",
+        "options": [
+          "Daur litik tidak menghancurkan sel inang, lisogenik menghancurkan",
+          "Daur lisogenik materi genetik virus menyatu dengan DNA inang",
+          "Daur litik terjadi pada virus RNA, lisogenik pada virus DNA",
+          "Daur lisogenik waktunya lebih singkat daripada litik",
+          "Daur litik membentuk profag"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pada daur lisogenik, DNA virus menyisip ke DNA bakteri membentuk profag dan sel inang tidak langsung pecah. Pada litik, sel inang hancur (lisis)."
+      },
+      {
+        "question": "15. Bagian tubuh virus yang berfungsi membungkus materi genetik adalah...",
+        "options": [
+          "Kapsid",
+          "Membran sel",
+          "Sitoplasma",
+          "Ribosom",
+          "Ekor"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Kapsid adalah selubung protein yang melindungi asam nukleat virus."
+      },
+      {
+        "question": "16. Penyakit demam berdarah disebabkan oleh...",
+        "options": [
+          "Bakteri Salmonella",
+          "Virus Dengue",
+          "Nyamuk Aedes aegypti",
+          "Protozoa Plasmodium",
+          "Cacing tambang"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Penyebabnya adalah Virus Dengue. Nyamuk Aedes aegypti hanya sebagai vektor (perantara)."
+      },
+      {
+        "question": "17. Salah satu manfaat virus bagi manusia dalam bidang kedokteran adalah...",
+        "options": [
+          "Sebagai agen penyebab penyakit",
+          "Pembuatan vaksin (lemahkan virus)",
+          "Membusukkan sampah organik",
+          "Menyuburkan tanah",
+          "Indikator polusi air"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Virus yang telah dilemahkan atau dimatikan digunakan sebagai vaksin untuk memicu kekebalan tubuh."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 4: Monera (Bakteri)",
+    "passageText": "Struktur sel prokariotik, cara hidup bakteri, reproduksi, dan peranannya.",
+    "questions": [
+      {
+        "question": "18. Struktur yang dimiliki oleh bakteri yang berfungsi sebagai alat gerak adalah...",
+        "options": [
+          "Pili",
+          "Flagela",
+          "Silia",
+          "Kapsul",
+          "Ribosom"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Flagela adalah bulu cambuk yang berfungsi untuk pergerakan bakteri."
+      },
+      {
+        "question": "19. Bakteri Rhizobium leguminosarum memiliki peran penting dalam pertanian karena...",
+        "options": [
+          "Mengikat nitrogen bebas dari udara",
+          "Menguraikan sisa-sisa tanaman",
+          "Menghasilkan pestisida alami",
+          "Membantu penyerapan air",
+          "Membunuh hama tanaman"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Rhizobium bersimbiosis dengan akar tanaman kacang-kacangan dan berfungsi memfiksasi (mengikat) Nitrogen bebas (N2) dari udara menjadi nitrat yang menyuburkan tanah."
+      },
+      {
+        "question": "20. Proses pemindahan materi genetik bakteri dengan perantara virus (bakteriofag) disebut...",
+        "options": [
+          "Konjugasi",
+          "Transformasi",
+          "Transduksi",
+          "Transkripsi",
+          "Replikasi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Transduksi adalah rekombinasi genetik bakteri yang dibantu oleh virus. Konjugasi (kontak langsung), Transformasi (ambil DNA dari lingkungan)."
+      },
+      {
+        "question": "21. Dinding sel bakteri tersusun atas senyawa...",
+        "options": [
+          "Selulosa",
+          "Kitin",
+          "Lignin",
+          "Peptidoglikan",
+          "Lipoprotein"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Ciri khas Eubacteria adalah dinding sel yang mengandung peptidoglikan (gabungan protein dan gula)."
+      },
+      {
+        "question": "22. Bakteri yang dapat membuat makanannya sendiri dengan bantuan energi cahaya matahari disebut...",
+        "options": [
+          "Fotoautotrof",
+          "Kemoautotrof",
+          "Heterotrof",
+          "Saprofit",
+          "Parasit"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Foto (cahaya), Autotrof (membuat makan sendiri). Contoh: Cyanobacteria."
+      },
+      {
+        "question": "23. Persamaan antara bakteri dan Cyanobacteria (alga biru) adalah...",
+        "options": [
+          "Keduanya berklorofil",
+          "Keduanya prokariotik",
+          "Keduanya eukariotik",
+          "Keduanya multiseluler",
+          "Keduanya tidak berdinding sel"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Keduanya masuk dalam Kingdom Monera karena sama-sama Prokariotik."
+      },
+      {
+        "question": "24. E. coli adalah bakteri yang hidup di usus besar manusia. Hubungan ini bersifat...",
+        "options": [
+          "Parasitisme",
+          "Komensalisme",
+          "Mutualisme",
+          "Amensalisme",
+          "Predasi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Mutualisme. Bakteri dapat tempat tinggal dan makanan, manusia mendapat bantuan pembusukan makanan dan vitamin K."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 5: Fungi (Jamur)",
+    "passageText": "Ciri-ciri jamur, klasifikasi (Zygomycota, Ascomycota, Basidiomycota, Deuteromycota), dan simbiosis.",
+    "questions": [
+      {
+        "question": "25. Jamur tidak dikelompokkan ke dalam Kingdom Plantae karena...",
+        "options": [
+          "Tidak memiliki dinding sel",
+          "Tidak memiliki klorofil (heterotrof)",
+          "Memiliki akar, batang, daun sejati",
+          "Berkembang biak dengan spora",
+          "Hidup di tempat lembab"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Perbedaan mendasar jamur dan tumbuhan adalah jamur tidak memiliki klorofil sehingga tidak bisa fotosintesis (bersifat heterotrof)."
+      },
+      {
+        "question": "26. Pada tempe, benang-benang halus berwarna putih yang menyatukan kedelai disebut...",
+        "options": [
+          "Spora",
+          "Hifa",
+          "Rizoid",
+          "Stolon",
+          "Sporangium"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tubuh jamur tersusun atas deretan sel yang membentuk benang disebut hifa. Kumpulan hifa disebut miselium."
+      },
+      {
+        "question": "27. Jamur Saccharomyces cerevisiae dimanfaatkan manusia untuk pembuatan...",
+        "options": [
+          "Tempe",
+          "Oncom",
+          "Roti dan Tapai",
+          "Kecap",
+          "Keju"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Saccharomyces (khamir/ragi) melakukan fermentasi alkohol yang menghasilkan CO2 (mengembangkan roti) dan alkohol (pada tapai)."
+      },
+      {
+        "question": "28. Jamur yang reproduksi seksualnya belum diketahui dikelompokkan dalam divisi...",
+        "options": [
+          "Zygomycota",
+          "Ascomycota",
+          "Basidiomycota",
+          "Deuteromycota",
+          "Oomycota"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Deuteromycota sering disebut 'Fungi Imperfecti' atau jamur tidak sempurna karena fase reproduksi seksualnya belum diketahui."
+      },
+      {
+        "question": "29. Hubungan simbiosis antara jamur dengan akar tanaman tingkat tinggi disebut...",
+        "options": [
+          "Lichenes",
+          "Mikoriza",
+          "Parasitisme",
+          "Komensalisme",
+          "Kompetisi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mikoriza adalah simbiosis mutualisme antara jamur (biasanya Zygomycota/Basidiomycota) dengan akar tanaman."
+      },
+      {
+        "question": "30. Bagian jamur Volvariella volvacea (jamur merang) yang dimakan manusia adalah tubuh buahnya yang disebut...",
+        "options": [
+          "Miselium",
+          "Basidiokarp",
+          "Zygospora",
+          "Askokarp",
+          "Haustorium"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Jamur merang termasuk Basidiomycota, tubuh buahnya disebut Basidiokarp."
+      },
+      {
+        "question": "31. Dalam klasifikasi 5 Kingdom oleh Whittaker, jamur dipisahkan dari Plantae karena...",
+        "options": [
+          "Jamur bergerak aktif",
+          "Jamur tidak berklorofil",
+          "Jamur uniseluler",
+          "Jamur hidup di air",
+          "Jamur bersifat prokariotik"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Alasan utama pemisahan adalah cara memperoleh nutrisi. Plantae autotrof (fotosintesis), Fungi heterotrof (absorpsi)."
+      },
+      {
+        "question": "32. Kelompok jamur yang sering menyebabkan penyakit kulit (panu, kadas) pada manusia umumnya berasal dari divisi...",
+        "options": [
+          "Deuteromycota",
+          "Basidiomycota",
+          "Zygomycota",
+          "Myxomycota",
+          "Ascomycota"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Banyak jamur kulit (Dermatofita) fase seksualnya belum jelas, jadi masuk Deuteromycota (Fungi Imperfecti)."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 6: Plantae (Tumbuhan)",
+    "passageText": "Dunia tumbuhan meliputi Bryophyta (lumut), Pteridophyta (paku), dan Spermatophyta (tumbuhan berbiji).",
+    "questions": [
+      {
+        "question": "33. Tumbuhan lumut (Bryophyta) disebut sebagai tumbuhan peralihan karena...",
+        "options": [
+          "Belum memiliki akar, batang, dan daun sejati, namun berklorofil",
+          "Sudah memiliki pembuluh angkut",
+          "Hidup di air dan darat",
+          "Tidak memiliki spora",
+          "Memiliki biji namun terbuka"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Lumut bertalus (belum bisa dibedakan akar, batang, daun sejati) tetapi sudah beradaptasi di darat dan fotosintesis."
+      },
+      {
+        "question": "34. Ciri khas tumbuhan Paku (Pteridophyta) yang membedakannya dengan lumut adalah...",
+        "options": [
+          "Mengalami metagenesis",
+          "Memiliki klorofil",
+          "Memiliki pembuluh angkut (Xilem dan Floem)",
+          "Berkembang biak dengan spora",
+          "Hidup di tempat lembab"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Paku adalah Tracheophyta (tumbuhan berpembuluh), sedangkan lumut adalah Atracheophyta (tidak berpembuluh)."
+      },
+      {
+        "question": "35. Berikut ini yang termasuk ciri tumbuhan berbiji terbuka (Gymnospermae) adalah...",
+        "options": [
+          "Biji terbungkus daging buah",
+          "Alat reproduksi berupa bunga",
+          "Pembuahan ganda",
+          "Bakal biji berada di strobilus",
+          "Akar serabut saja"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Gymnospermae tidak memiliki bunga sejati, melainkan strobilus (runjung), dan bijinya tidak tertutup daging buah."
+      },
+      {
+        "question": "36. Metagenesis pada tumbuhan paku, fase yang dominan (yang sering kita lihat sebagai tanaman paku) adalah fase...",
+        "options": [
+          "Gametofit",
+          "Sporofit",
+          "Protalium",
+          "Protonema",
+          "Spora"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pada paku, fase dominan adalah Sporofit (tumbuhan paku itu sendiri). Pada lumut, fase dominan adalah Gametofit."
+      },
+      {
+        "question": "37. Tumbuhan monokotil dan dikotil dibedakan berdasarkan, KECUALI...",
+        "options": [
+          "Jumlah keping biji",
+          "Tipe tulang daun",
+          "Ada tidaknya kambium",
+          "Jumlah bagian bunga",
+          "Ada tidaknya klorofil"
+        ],
+        "correctAnswer": 4,
+        "explanation": "Baik monokotil maupun dikotil sama-sama tumbuhan hijau yang memiliki klorofil. Perbedaan terletak pada biji, akar, batang, daun, dan bunga."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 7: Mikroorganisme & Bioteknologi",
+    "passageText": "Pemanfaatan mikroorganisme dalam bioteknologi serta peranannya dalam lingkungan.",
+    "questions": [
+      {
+        "question": "38. Tindakan berikut yang memanfaatkan mikroorganisme dalam prinsip bioteknologi konvensional adalah...",
+        "options": [
+          "Pembuatan insulin dengan E. coli",
+          "Pembuatan tempe dengan Rhizopus oryzae",
+          "Kloning domba Dolly",
+          "Tanaman transgenik",
+          "Bayi tabung"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pembuatan tempe adalah bioteknologi konvensional (fermentasi sederhana). Opsi A, C, D adalah bioteknologi modern."
+      },
+      {
+        "question": "39. Peran bakteri pengurai (dekomposer) dalam ekosistem adalah...",
+        "options": [
+          "Menghasilkan oksigen",
+          "Mengubah zat organik menjadi anorganik",
+          "Memakan hewan kecil",
+          "Menyediakan energi bagi konsumen I",
+          "Mengurangi populasi herbivora"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dekomposer mengurai sisa makhluk hidup (organik) menjadi zat hara (anorganik) yang bisa digunakan kembali oleh tumbuhan."
+      },
+      {
+        "question": "40. \"Padi - Tikus - Ular - Elang\". Peran bakteri dalam rantai makanan tersebut adalah...",
+        "options": [
+          "Konsumen puncak",
+          "Produsen",
+          "Pengurai sisa organisme mati", 
+          "Predator",
+          "Kompetitor"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jika elang atau organisme lain mati, bakteri akan mengurainya (dekomposer)."
+      }
+    ]
+  }
+]

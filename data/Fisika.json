@@ -1,0 +1,398 @@
+[
+    {
+        "passageTitle": "BAGIAN I: Besaran, Satuan, dan Pengukuran",
+        "passageText": "Pahami konsep besaran pokok, turunan, dimensi, dan penggunaan alat ukur.",
+        "questions": [
+            {
+                "question": "1. Di antara kelompok besaran berikut, yang seluruhnya merupakan besaran pokok adalah...",
+                "options": [
+                    "Panjang, massa, kecepatan, suhu",
+                    "Massa, waktu, kuat arus, gaya",
+                    "Waktu, panjang, massa, jumlah zat",
+                    "Suhu, intensitas cahaya, volume, waktu",
+                    "Kecepatan, percepatan, gaya, energi"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Terdapat 7 besaran pokok: Panjang (m), Massa (kg), Waktu (s), Suhu (K), Kuat Arus (A), Intensitas Cahaya (cd), dan Jumlah Zat (mol). Pilihan C berisi 4 dari 7 besaran pokok tersebut."
+            },
+            {
+                "question": "2. Dimensi dari besaran \"Gaya\" adalah...",
+                "options": [
+                    "\\([M] [L] [T]^{-1}\\)",
+                    "\\([M] [L] [T]^{-2}\\)",
+                    "\\([M] [L]^2 [T]^{-2}\\)",
+                    "\\([M] [L]^{-1} [T]^{-2}\\)",
+                    "\\([M] [L]^2 [T]^{-1}\\)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Rumus Gaya (F) = massa (m) × percepatan (a). Dimensi massa = \\([M]\\). Dimensi percepatan = \\([L] [T]^{-2}\\). Maka, dimensi gaya = \\([M] [L] [T]^{-2}\\)."
+            },
+            {
+                "question": "3. Sebuah jangka sorong digunakan mengukur diameter koin. Skala utama menunjukkan 2,3 cm. Skala nonius yang segaris lurus dengan skala utama adalah angka 5. Hasil pengukuran diameter koin tersebut adalah...",
+                "options": [
+                    "2,30 cm",
+                    "2,35 cm",
+                    "2,80 cm",
+                    "2,305 cm",
+                    "2,53 cm"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Hasil = Skala Utama + (Skala Nonius × Ketelitian) = 2,3 cm + (5 × 0,01 cm) = 2,3 cm + 0,05 cm = 2,35 cm."
+            },
+            {
+                "question": "4. Hasil pengukuran tebal pelat logam menggunakan mikrometer sekrup adalah 5,75 mm. Skala utama yang terlihat adalah 5,5 mm. Angka yang ditunjukkan pada skala nonius yang segaris adalah...",
+                "options": [
+                    "5",
+                    "15",
+                    "25",
+                    "50",
+                    "75"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Skala Nonius (SN) = Hasil - Skala Utama = 5,75 mm - 5,5 mm = 0,25 mm. Angka nonius = SN / Ketelitian = 0,25 mm / 0,01 mm = 25."
+            },
+            {
+                "question": "5. Seorang siswa mengukur panjang sebidang tanah (10,5 m) dan lebarnya (5,0 m). Menurut aturan angka penting, luas tanah tersebut adalah...",
+                "options": [
+                    "\\(52,5 \\text{ m}^2\\)",
+                    "\\(52,50 \\text{ m}^2\\)",
+                    "\\(53 \\text{ m}^2\\)",
+                    "\\(52 \\text{ m}^2\\)",
+                    "\\(50 \\text{ m}^2\\)"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Perkalian angka penting mengikuti jumlah AP terkecil. 10,5 m (3 AP) × 5,0 m (2 AP) = 52,5 m². Hasil harus dibulatkan menjadi 2 AP, yaitu 53 m²."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN II: Vektor",
+        "passageText": "Pahami cara menjumlahkan dan menguraikan vektor.",
+        "questions": [
+            {
+                "question": "6. Dua buah vektor gaya \\(F_1 = 6\\) N dan \\(F_2 = 8\\) N saling tegak lurus (\\(90^\\circ\\)). Besar resultan kedua vektor adalah...",
+                "options": [
+                    "2 N",
+                    "10 N",
+                    "14 N",
+                    "48 N",
+                    "100 N"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Gunakan Pythagoras: \\(R = \\sqrt{F_1^2 + F_2^2} = \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10\\) N."
+            },
+            {
+                "question": "7. Dua buah vektor \\(A=3\\) satuan dan \\(B=5\\) satuan mengapit sudut \\(60^\\circ\\). Besar resultan (A+B) kedua vektor adalah...",
+                "options": [
+                    "\\(\\sqrt{19}\\) satuan",
+                    "7 satuan",
+                    "8 satuan",
+                    "\\(\\sqrt{40}\\) satuan",
+                    "15 satuan"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Gunakan aturan kosinus: \\(R = \\sqrt{A^2 + B^2 + 2 A B \\cos \\theta} = \\sqrt{3^2 + 5^2 + 2(3)(5) \\cos 60^\\circ} = \\sqrt{9 + 25 + 30(0,5)} = \\sqrt{49} = 7\\) satuan."
+            },
+            {
+                "question": "8. Sebuah vektor gaya 20 N membentuk sudut \\(30^\\circ\\) terhadap sumbu X positif. Besar komponen vektor pada sumbu Y (\\(F_y\\)) adalah...",
+                "options": [
+                    "10 N",
+                    "\\(10\\sqrt{2}\\) N",
+                    "\\(10\\sqrt{3}\\) N",
+                    "20 N",
+                    "\\(20\\sqrt{3}\\) N"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Komponen Y (depan sudut) menggunakan sinus: \\(F_y = F \\sin \\theta = 20 \\sin 30^\\circ = 20 \\times (0,5) = 10\\) N."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN III: Gerak Lurus (GLB, GLBB, Gerak Vertikal)",
+        "passageText": "Pahami rumus-rumus GLB, GLBB, dan gerak vertikal.",
+        "questions": [
+            {
+                "question": "9. Benda dikatakan bergerak lurus berubah beraturan (GLBB) jika...",
+                "options": [
+                    "Kecepatannya konstan",
+                    "Percepatannya konstan dan tidak nol",
+                    "Percepatannya nol",
+                    "Arah geraknya selalu berubah",
+                    "Jarak tempuhnya sebanding dengan waktu"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Ciri utama GLBB adalah memiliki percepatan (a) yang konstan (tetap) dan nilainya tidak nol. Jika percepatan nol (C) atau kecepatan konstan (A), itu adalah GLB."
+            },
+            {
+                "question": "10. Sebuah mobil balap bergerak dari keadaan diam dengan percepatan tetap \\(2 \\text{ m/s}^2\\). Jarak yang ditempuh mobil setelah bergerak selama 5 detik adalah...",
+                "options": [
+                    "5 m",
+                    "10 m",
+                    "20 m",
+                    "25 m",
+                    "50 m"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Gunakan rumus GLBB: \\(s = v_0 t + \\frac{1}{2} a t^2\\). Karena dari diam, \\(v_0 = 0\\). Maka \\(s = 0 + \\frac{1}{2} (2) (5^2) = 1 \\times 25 = 25\\) m."
+            },
+            {
+                "question": "11. Sebuah motor direm dari kecepatan \\(20 \\text{ m/s}\\) menjadi \\(10 \\text{ m/s}\\) dalam jarak 75 m. Perlambatan yang dialami motor tersebut adalah...",
+                "options": [
+                    "\\(-1 \\text{ m/s}^2\\)",
+                    "\\(-2 \\text{ m/s}^2\\)",
+                    "\\(-4 \\text{ m/s}^2\\)",
+                    "\\(-5 \\text{ m/s}^2\\)",
+                    "\\(-10 \\text{ m/s}^2\\)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Gunakan rumus GLBB \\(v_t^2 = v_0^2 + 2 a s\\). \\(10^2 = 20^2 + 2(a)(75)\\). \\(100 = 400 + 150a\\). \\(-300 = 150a\\). \\(a = -2 \\text{ m/s}^2\\)."
+            },
+            {
+                "question": "12. Pada grafik kecepatan (v) terhadap waktu (t), jarak yang ditempuh benda adalah luas daerah di bawah grafik. Jika grafik berbentuk trapesium dengan sisi sejajar 6s & 10s dan tinggi 8 m/s, jarak tempuhnya...",
+                "options": [
+                    "80 m",
+                    "72 m",
+                    "64 m",
+                    "56 m",
+                    "40 m"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Jarak (Luas) = \\(\\frac{1}{2} \\times (\\text{jumlah sisi sejajar}) \\times \\text{tinggi} = \\frac{1}{2} \\times (6 + 10) \\times 8 = \\frac{1}{2} \\times 16 \\times 8 = 64\\) m."
+            },
+            {
+                "question": "13. Sebuah batu dijatuhkan dari puncak gedung (gerak jatuh bebas). Jika \\(g = 10 \\text{ m/s}^2\\), kecepatan batu setelah jatuh selama 2 detik adalah...",
+                "options": [
+                    "\\(5 \\text{ m/s}\\)",
+                    "\\(10 \\text{ m/s}\\)",
+                    "\\(20 \\text{ m/s}\\)",
+                    "\\(40 \\text{ m/s}\\)",
+                    "\\(100 \\text{ m/s}\\)"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Gerak jatuh bebas berarti \\(v_0 = 0\\). Rumus: \\(v_t = v_0 + g t = 0 + (10)(2) = 20\\) m/s."
+            },
+            {
+                "question": "14. Bola dilempar vertikal ke atas dengan kecepatan awal \\(30 \\text{ m/s}\\) (\\(g = 10 \\text{ m/s}^2\\)). Waktu yang dibutuhkan bola untuk mencapai titik tertinggi adalah...",
+                "options": [
+                    "1 s",
+                    "2 s",
+                    "3 s",
+                    "4 s",
+                    "30 s"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Di titik tertinggi, \\(v_t = 0\\). Rumus: \\(v_t = v_0 - g t\\) (minus karena melawan gravitasi). \\(0 = 30 - (10) t \\implies 10t = 30 \\implies t = 3\\) s."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN IV: Gerak Parabola",
+        "passageText": "Pahami penguraian vektor kecepatan pada gerak parabola.",
+        "questions": [
+            {
+                "question": "15. Pada gerak parabola, saat peluru mencapai titik tertinggi, pernyataan yang benar adalah...",
+                "options": [
+                    "Kecepatan total peluru adalah nol",
+                    "Komponen kecepatan horizontal (\\(v_x\\)) adalah nol",
+                    "Komponen kecepatan vertikal (\\(v_y\\)) adalah nol",
+                    "Percepatan peluru adalah nol",
+                    "\\(v_x\\) dan \\(v_y\\) keduanya maksimum"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Di titik tertinggi, peluru berhenti sesaat bergerak ke atas (\\(v_y = 0\\)). Namun, kecepatan sumbu X (\\(v_x\\)) selalu konstan dan tidak nol."
+            },
+            {
+                "question": "16. Sebuah bola ditendang dengan kecepatan awal 50 m/s dan sudut elevasi \\(37^\\circ\\). (\\(\\sin 37^\\circ = 0,6\\); \\(\\cos 37^\\circ = 0,8\\)). Besar komponen kecepatan awal pada sumbu X (\\(v_{0x}\\)) adalah...",
+                "options": [
+                    "10 m/s",
+                    "20 m/s",
+                    "30 m/s",
+                    "40 m/s",
+                    "50 m/s"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Komponen X (samping) pakai kosinus: \\(v_{0x} = v_0 \\cos \\theta = 50 \\times \\cos 37^\\circ = 50 \\times (0,8) = 40\\) m/s."
+            },
+            {
+                "question": "17. Dari soal nomor 16, ketinggian maksimum (\\(h_{\\text{maks}}\\)) yang dicapai bola adalah... (\\(g = 10 \\text{ m/s}^2\\))",
+                "options": [
+                    "25 m",
+                    "30 m",
+                    "45 m",
+                    "80 m",
+                    "125 m"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Ketinggian maks bergantung \\(v_{0y}\\). \\(v_{0y} = v_0 \\sin 37^\\circ = 50 \\times (0,6) = 30\\) m/s. Rumus \\(h_{\\text{maks}} = \\frac{v_{0y}^2}{2g} = \\frac{30^2}{2 \\times 10} = \\frac{900}{20} = 45\\) m."
+            },
+            {
+                "question": "18. Dari soal nomor 16, jarak tembak terjauh (\\(X_{\\text{maks}}\\)) yang dicapai bola adalah... (\\(g = 10 \\text{ m/s}^2\\))",
+                "options": [
+                    "100 m",
+                    "120 m",
+                    "200 m",
+                    "240 m",
+                    "250 m"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Waktu ke puncak \\(t_{\\text{puncak}} = v_{0y} / g = 30 / 10 = 3\\) s. Waktu total \\(t_{\\text{total}} = 2 \\times t_{\\text{puncak}} = 6\\) s. Jarak terjauh \\(X_{\\text{maks}} = v_{0x} \\times t_{\\text{total}} = 40 \\text{ m/s} \\times 6 \\text{ s} = 240\\) m."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN V: Gerak Melingkar",
+        "passageText": "Pahami hubungan kecepatan linear, kecepatan sudut, dan gaya sentripetal.",
+        "questions": [
+            {
+                "question": "19. Sebuah kipas angin berputar dengan kecepatan 120 rpm (rotasi per menit). Kecepatan sudut kipas tersebut dalam rad/s adalah...",
+                "options": [
+                    "2 rad/s",
+                    "\\(2\\pi\\) rad/s",
+                    "4 rad/s",
+                    "\\(4\\pi\\) rad/s",
+                    "\\(120\\pi\\) rad/s"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Frekuensi (f) = 120 putaran/60 detik = 2 Hz. Kecepatan sudut (\\(\\omega\\)) = \\(2 \\pi f = 2 \\pi (2) = 4\\pi\\) rad/s."
+            },
+            {
+                "question": "20. Benda bergerak melingkar beraturan dengan jari-jari 2 meter dan kecepatan sudut 10 rad/s. Kecepatan linear benda tersebut adalah...",
+                "options": [
+                    "\\(5 \\text{ m/s}\\)",
+                    "\\(10 \\text{ m/s}\\)",
+                    "\\(20 \\text{ m/s}\\)",
+                    "\\(40 \\text{ m/s}\\)",
+                    "\\(100 \\text{ m/s}\\)"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Hubungan kecepatan linear (v) dan kecepatan sudut (\\(\\omega\\)) adalah: \\(v = \\omega \times R = 10 \\text{ rad/s} \\times 2 \\text{ m} = 20\\) m/s."
+            },
+            {
+                "question": "21. Sebuah mobil bermassa 800 kg menikung di jalan dengan jari-jari tikungan 20 m. Jika kecepatan mobil 10 m/s, gaya sentripetal yang diperlukan mobil agar tidak tergelincir adalah...",
+                "options": [
+                    "400 N",
+                    "1.600 N",
+                    "4.000 N",
+                    "8.000 N",
+                    "16.000 N"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Rumus gaya sentripetal (\\(F_s\\)) adalah: \\(F_s = \\frac{m v^2}{R} = \\frac{800 \\times 10^2}{20} = \\frac{80.000}{20} = 4.000\\) N."
+            },
+            {
+                "question": "22. Roda A dan Roda B sepusat (satu poros). Jika jari-jari \\(R_A = 5\\) cm dan \\(R_B = 10\\) cm, maka pernyataan yang benar adalah...",
+                "options": [
+                    "Kecepatan linear A = Kecepatan linear B (\\(v_A = v_B\\))",
+                    "Kecepatan sudut A = Kecepatan sudut B (\\(\\omega_A = \\omega_B\\))",
+                    "\\(v_A = 2 v_B\\)",
+                    "\\(\\omega_A = 2 \\omega_B\\)",
+                    "Kecepatan keduanya nol"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Untuk roda yang sepusat, saat poros berputar, kedua roda akan menyelesaikan satu putaran dalam waktu yang sama. Ini berarti kecepatan sudutnya sama (\\(\\omega_A = \\omega_B\\))."
+            },
+            {
+                "question": "23. Roda A dan Roda B dihubungkan dengan sabuk (tali). Jika jari-jari \\(R_A = 5\\) cm dan \\(R_B = 10\\) cm, maka pernyataan yang benar adalah...",
+                "options": [
+                    "Kecepatan linear A = Kecepatan linear B (\\(v_A = v_B\\))",
+                    "Kecepatan sudut A = Kecepatan sudut B (\\(\\omega_A = \\omega_B\\))",
+                    "\\(v_A = 0,5 v_B\\)",
+                    "\\(\\omega_A = 0,5 \\omega_B\\)",
+                    "\\(\\omega_A = \\omega_B\\) dan \\(v_A = v_B\\)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Untuk roda yang dihubungkan dengan sabuk atau tali, kecepatan sabuk di setiap titik harus sama. Ini berarti kecepatan linearnya sama (\\(v_A = v_B\\))."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN VI: Hukum Newton dan Dinamika",
+        "passageText": "Terapkan Hukum I, II, dan III Newton serta konsep gaya gesek.",
+        "questions": [
+            {
+                "question": "24. Ketika bus yang sedang melaju kencang tiba-tiba direm, penumpang akan terdorong ke depan. Peristiwa ini sesuai dengan...",
+                "options": [
+                    "Hukum I Newton",
+                    "Hukum II Newton",
+                    "Hukum III Newton",
+                    "Hukum Gravitasi",
+                    "Gaya Sentripetal"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Ini adalah contoh Hukum I Newton (Kelembaman/Inersia). Tubuh penumpang cenderung mempertahankan keadaannya (bergerak maju). Ketika bus berhenti, tubuh penumpang tetap ingin maju."
+            },
+            {
+                "question": "25. Sebuah balok bermassa 2 kg ditarik dengan gaya 10 N di atas lantai licin (gesekan diabaikan). Percepatan yang dialami balok adalah...",
+                "options": [
+                    "\\(0,2 \\text{ m/s}^2\\)",
+                    "\\(2 \\text{ m/s}^2\\)",
+                    "\\(5 \\text{ m/s}^2\\)",
+                    "\\(8 \\text{ m/s}^2\\)",
+                    "\\(20 \\text{ m/s}^2\\)"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Menggunakan Hukum II Newton: \\(\\Sigma F = m \times a \\implies 10 \\text{ N} = 2 \\text{ kg} \\times a \\implies a = 10 / 2 = 5 \\text{ m/s}^2\\)."
+            },
+            {
+                "question": "26. Seseorang bermassa 50 kg berada di dalam lift yang sedang bergerak ke atas dengan percepatan \\(2 \\text{ m/s}^2\\). Jika \\(g = 10 \\text{ m/s}^2\\), desakan kaki orang pada lantai lift (Gaya Normal, N) adalah...",
+                "options": [
+                    "100 N",
+                    "400 N",
+                    "500 N",
+                    "600 N",
+                    "700 N"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Saat lift bergerak ke atas: \\(\\Sigma F = m a \\implies N - w = m a \\implies N = w + ma = (mg) + (ma) = (50 \\times 10) + (50 \\times 2) = 500 + 100 = 600\\) N."
+            },
+            {
+                "question": "27. Sebuah lemari 10 kg diam di lantai. Koefisien gesek statis (\\(\\mu_s\\)) = 0,4 dan kinetis (\\(\\mu_k\\)) = 0,2. (\\(g = 10 \\text{ m/s}^2\\)). Berapa besar gaya gesek statis maksimum (\\(f_{s,\\text{maks}}\\))?",
+                "options": [
+                    "2 N",
+                    "20 N",
+                    "4 N",
+                    "40 N",
+                    "100 N"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Gaya Normal (N) = Gaya Berat (w) = \\(m \times g = 10 \times 10 = 100\\) N. \\(f_{s,\\text{maks}} = \\mu_s \times N = 0,4 \times 100 = 40\\) N."
+            },
+            {
+                "question": "28. Dari soal 27, jika lemari didorong dengan gaya horizontal 30 N, berapakah gaya gesek yang bekerja?",
+                "options": [
+                    "0 N",
+                    "20 N",
+                    "30 N",
+                    "40 N",
+                    "50 N"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Gaya dorong (F) = 30 N. Gaya gesek statis maks (\\(f_{s,\\text{maks}}\\)) = 40 N. Karena \\(F < f_{s,\\text{maks}}\\) (30 N < 40 N), benda DIAM. Jika benda diam, gaya gesek \\(f_s = F = 30\\) N."
+            },
+            {
+                "question": "29. Dari soal 27, jika lemari didorong dengan gaya horizontal 50 N, berapakah gaya gesek yang bekerja?",
+                "options": [
+                    "0 N",
+                    "20 N",
+                    "30 N",
+                    "40 N",
+                    "50 N"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Gaya dorong (F) = 50 N. Gaya gesek statis maks (\\(f_{s,\\text{maks}}\\)) = 40 N. Karena \\(F > f_{s,\\text{maks}}\\), benda BERGERAK. Gaya gesek yang bekerja adalah gesek kinetis (\\(f_k\\)): \\(f_k = \\mu_k \times N = 0,2 \times 100 = 20\\) N."
+            },
+            {
+                "question": "30. Dua balok A (4 kg) dan B (6 kg) digantung pada katrol licin (sistem Atwood). Percepatan sistem tersebut adalah... (\\(g = 10 \\text{ m/s}^2\\))",
+                "options": [
+                    "\\(1 \\text{ m/s}^2\\)",
+                    "\\(2 \\text{ m/s}^2\\)",
+                    "\\(4 \\text{ m/s}^2\\)",
+                    "\\(6 \\text{ m/s}^2\\)",
+                    "\\(10 \\text{ m/s}^2\\)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Percepatan \\(a = \\frac{\\Sigma F}{m_{\\text{total}}} = \\frac{w_B - w_A}{m_A + m_B} = \\frac{(6 \\times 10) - (4 \\times 10)}{4 + 6} = \\frac{60 - 40}{10} = \\frac{20}{10} = 2 \\text{ m/s}^2\\)."
+            }
+        ]
+    }
+]

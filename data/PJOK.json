@@ -1,0 +1,506 @@
+[
+  {
+    "passageTitle": "BAGIAN 1: Bola Basket",
+    "passageText": "Teknik dasar permainan bola basket meliputi passing, dribbling, shooting, dan pivot, serta pemahaman aturan pelanggaran waktu.",
+    "questions": [
+      {
+        "question": "1. Gerakan memutar badan dengan salah satu kaki sebagai poros tumpuan dalam permainan bola basket disebut...",
+        "options": [
+          "Dribbling",
+          "Shooting",
+          "Pivot",
+          "Rebound",
+          "Lay-up"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Pivot adalah gerakan berputar untuk melindungi bola dari lawan dengan satu kaki tetap menempel di lantai sebagai poros."
+      },
+      {
+        "question": "2. Perhatikan pernyataan berikut mengenai teknik Lay-up shoot:\n(1) Dilakukan dengan jarak jauh dari ring.\n(2) Diawali dengan dua langkah lebar.\n(3) Bola dilepaskan dengan satu tangan di dekat ring.\n(4) Posisi badan membelakangi ring.\n\nPernyataan yang tepat mengenai Lay-up adalah...",
+        "options": [
+          "(1) dan (2)",
+          "(2) dan (3)",
+          "(3) dan (4)",
+          "(1) dan (3)",
+          "(2) dan (4)"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Lay-up adalah tembakan melayang yang dilakukan dekat ring, diawali dengan langkah ritmis (kanan-kiri-lompat) dan bola dilepas dengan satu tangan."
+      },
+      {
+        "question": "3. Pernyataan Tepat/Tidak Tepat:\n'Dalam bola basket, Chest Pass paling efektif digunakan untuk mengoper jarak jauh melambung melewati lawan.'",
+        "options": [
+          "Tepat",
+          "Tidak Tepat"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Chest pass adalah operan dada untuk jarak dekat dan cepat lurus. Untuk jarak jauh/melambung menggunakan Overhead pass."
+      },
+      {
+        "question": "4. Jika seorang pemain memegang bola tanpa mendribble lebih dari 5 detik saat dijaga ketat lawan, maka terjadi pelanggaran...",
+        "options": [
+          "Traveling",
+          "Double dribble",
+          "Five second violation",
+          "Three second violation",
+          "Back ball"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Aturan 5 detik berlaku jika pemain memegang bola (tidak mendribble) dan dijaga ketat."
+      },
+      {
+        "question": "5. Teknik mengoper bola dengan cara memantulkan bola ke lantai terlebih dahulu disebut...",
+        "options": [
+          "Chest pass",
+          "Bounce pass",
+          "Overhead pass",
+          "Baseball pass",
+          "Hook pass"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bounce artinya memantul. Teknik ini efektif mengecoh lawan yang berpostur tinggi."
+      },
+      {
+        "question": "6. Posisi tangan yang benar saat menangkap bola basket adalah...",
+        "options": [
+          "Jari-jari tertutup rapat",
+          "Telapak tangan membentuk corong menghadap datangnya bola",
+          "Tangan lurus kaku ke depan",
+          "Tangan di belakang punggung",
+          "Satu tangan mengepal"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Jari harus rileks dan membuka (membentuk corong) agar bola tidak memantul keluar dan mencegah cedera jari."
+      },
+      {
+        "question": "39. Analisis Permainan Bola Besar: Dalam permainan bola basket dan bola tangan, komunikasi tim sangat penting. Pola pertahanan dimana setiap pemain menjaga satu lawan tertentu kemanapun ia bergerak disebut...",
+        "options": [
+          "Zone Defense",
+          "Man to Man Defense",
+          "Pressing",
+          "Counter Attack",
+          "Double Team"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Man to man artinya satu lawan satu. Zone defense menjaga wilayah/area."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 2: Bola Tangan (Handball)",
+    "passageText": "Permainan bola tangan memiliki aturan langkah (traveling) dan dribbling yang berbeda dengan basket, serta teknik tembakan khusus seperti flying shot.",
+    "questions": [
+      {
+        "question": "7. Perbedaan mendasar aturan langkah kaki (traveling) antara bola basket dan bola tangan adalah...",
+        "options": [
+          "Bola basket 3 langkah, bola tangan 2 langkah",
+          "Bola basket 2 langkah, bola tangan 3 langkah",
+          "Keduanya 3 langkah",
+          "Bola tangan boleh melangkah sepuasnya",
+          "Bola basket tidak boleh melangkah"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Di bola tangan, pemain boleh membawa bola maksimal 3 langkah sebelum harus memantulkan atau melempar bola. Di basket maksimal 2 langkah."
+      },
+      {
+        "question": "8. Teknik menembak dalam bola tangan yang dilakukan sambil melompat tinggi untuk melewati jangkauan kiper disebut...",
+        "options": [
+          "Standing shot",
+          "Flying shot",
+          "Side shot",
+          "Dive shot",
+          "Fall shot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Flying shot (tembakan melayang) dilakukan saat badan berada di udara."
+      },
+      {
+        "question": "9. Pernyataan Tepat/Tidak Tepat:\n'Area gawang (garis 6 meter) dalam bola tangan hanya boleh diinjak oleh penjaga gawang (kiper).'",
+        "options": [
+          "Tepat",
+          "Tidak Tepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Pemain penyerang maupun bertahan (selain kiper) tidak boleh menginjak area gawang. Penyerang boleh melompat di atasnya, asalkan melepas bola sebelum mendarat."
+      },
+      {
+        "question": "10. Dalam bola tangan, durasi permainan normal untuk kategori dewasa/SMA adalah...",
+        "options": [
+          "2 x 45 menit",
+          "4 x 10 menit",
+          "2 x 30 menit",
+          "2 x 20 menit",
+          "3 set kemenangan"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Standar waktu permainan bola tangan resmi adalah 2 babak masing-masing 30 menit."
+      },
+      {
+        "question": "11. Teknik Dribbling pada bola tangan berbeda dengan bola basket karena...",
+        "options": [
+          "Bola dipantulkan menggunakan dua tangan bersamaan",
+          "Bola dipantulkan dengan kaki",
+          "Bola dibawa lari tanpa dipantulkan",
+          "Irama pantulan lebih lambat dan boleh dibawa 3 langkah lalu pantul lagi",
+          "Bola harus diputar"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Dribble bola tangan lebih fleksibel (soft), pemain boleh lari 3 langkah, pantul, tangkap, lari 3 langkah lagi."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 3: Jalan Cepat",
+    "passageText": "Jalan cepat mengutamakan kontinuitas kontak kaki dengan tanah dan posisi kaki tumpu yang lurus (tidak bengkok).",
+    "questions": [
+      {
+        "question": "12. Kunci utama yang membedakan jalan cepat dengan lari adalah...",
+        "options": [
+          "Kecepatan gerakan",
+          "Adanya fase melayang pada lari",
+          "Panjang langkah",
+          "Ayunan tangan",
+          "Posisi start"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Definisi jalan cepat adalah gerak maju tanpa terputus hubungan dengan tanah. Lari memiliki fase flight (melayang)."
+      },
+      {
+        "question": "13. Perhatikan teknik berikut:\n(1) Lutut kaki tumpu harus lurus.\n(2) Mendarat dengan ujung kaki.\n(3) Kontak kaki dengan tanah tetap terjaga.\n(4) Badan condong drastis ke depan.\n\nTeknik jalan cepat yang benar ditunjukkan nomor...",
+        "options": [
+          "(1) dan (3)",
+          "(2) dan (4)",
+          "(1) dan (2)",
+          "(3) dan (4)",
+          "Semuanya benar"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Kaki tumpu harus lurus (tidak bengkok) saat posisi tegak lurus, dan mendarat harus dengan tumit (bukan ujung kaki)."
+      },
+      {
+        "question": "14. Start yang digunakan dalam perlombaan jalan cepat adalah start...",
+        "options": [
+          "Jongkok",
+          "Melayang",
+          "Berdiri",
+          "Menungging",
+          "Pendek"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Jalan cepat tidak membutuhkan ledakan awal seperti sprint, sehingga menggunakan start berdiri (standing start)."
+      },
+      {
+        "question": "15. Apa akibatnya jika seorang atlet jalan cepat kedua kakinya terangkat dari tanah secara bersamaan?",
+        "options": [
+          "Diberi bonus waktu",
+          "Diberi peringatan atau diskualifikasi",
+          "Dianggap sah",
+          "Harus mengulang start",
+          "Pertandingan dihentikan"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Itu melanggar definisi jalan. Jika dilakukan berulang atau mencolok, atlet akan didiskualifikasi (kartu merah)."
+      },
+      {
+        "question": "16. Posisi siku yang benar saat melakukan ayunan lengan pada jalan cepat adalah ditekuk kurang lebih...",
+        "options": [
+          "180 derajat",
+          "90 derajat",
+          "45 derajat",
+          "10 derajat",
+          "Lurus ke bawah"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Siku ditekuk 90 derajat membantu keseimbangan dan dorongan tubuh ke depan secara efisien."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 4: Lari Jarak Pendek (Atletik)",
+    "passageText": "Lari jarak pendek (sprint) menggunakan start jongkok dan mengandalkan sistem energi anaerobik untuk kecepatan maksimal.",
+    "questions": [
+      {
+        "question": "17. Urutan aba-aba pada start jongkok lari jarak pendek adalah...",
+        "options": [
+          "Siap - Awas - Ya",
+          "Bersedia - Siap - Ya",
+          "Awas - Siap - Ya",
+          "Satu - Dua - Tiga",
+          "On your mark - Get set - Go"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ini adalah urutan standar dalam atletik Indonesia (PASI). 'Bersedia' (di blok), 'Siap' (pinggul naik), 'Ya' (lari)."
+      },
+      {
+        "question": "18. Pada aba-aba 'Siap', posisi badan pelari adalah...",
+        "options": [
+          "Berdiri tegak",
+          "Pinggul diangkat lebih tinggi dari bahu",
+          "Kepala melihat garis finish",
+          "Kedua tangan diangkat",
+          "Duduk rileks"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Posisi ini memindahkan berat badan ke lengan untuk persiapan tolakan eksplosif."
+      },
+      {
+        "question": "19. Sumber energi utama yang digunakan dalam lari jarak pendek (sprint) bersifat...",
+        "options": [
+          "Aerobik (dengan oksigen)",
+          "Anaerobik (tanpa oksigen)",
+          "Pernapasan perut",
+          "Oksidasi lambat",
+          "Hemat energi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Karena waktunya sangat singkat dan intensitas tinggi, tubuh menggunakan cadangan energi ATP-PC di otot, bukan pembakaran oksigen."
+      },
+      {
+        "question": "20. Pernyataan Tepat/Tidak Tepat:\n'Saat memasuki garis finish lari 100m, pelari sebaiknya melompat untuk menggapai garis lebih cepat.'",
+        "options": [
+          "Tepat",
+          "Tidak Tepat"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Melompat justru memperlambat laju lari karena saat di udara tidak ada pijakan untuk menambah kecepatan. Teknik yang benar adalah membusungkan dada."
+      },
+      {
+        "question": "21. Nomor lari jarak pendek yang sering diperlombakan adalah...",
+        "options": [
+          "100m, 200m, 400m",
+          "400m, 800m, 1500m",
+          "100m, 200m, 800m",
+          "5km, 10km, Marathon",
+          "100m, 400m, 800m"
+        ],
+        "correctAnswer": 0,
+        "explanation": "100-400m masuk kategori sprint. 800m ke atas sudah masuk jarak menengah."
+      },
+      {
+        "question": "22. Kesalahan yang sering terjadi saat start jongkok adalah...",
+        "options": [
+          "Tangan membentuk V terbalik",
+          "Pandangan ke bawah saat 'Bersedia'",
+          "Kaki menolak terlalu lemah",
+          "Tubuh rileks",
+          "Kepala segaris dengan punggung"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Tolakan yang lemah menyebabkan pelari terlambat keluar dari blok start (slow reaction)."
+      },
+      {
+        "question": "38. Analisis Lari Jarak Pendek: Seorang pelari 100 meter sering mengalami cedera hamstring saat fase finish. Kemungkinan kesalahan teknik yang dilakukannya adalah...",
+        "options": [
+          "Mengayunkan tangan terlalu tinggi",
+          "Berhenti mendadak tepat di garis finish",
+          "Membusungkan dada",
+          "Lari dengan ujung kaki",
+          "Menengok ke lawan"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Pelari sprint tidak boleh mengerem mendadak di garis finish. Berhenti mendadak memberi tekanan ekstrem pada otot hamstring."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 5: Kebugaran Jasmani",
+    "passageText": "Kebugaran jasmani meliputi komponen kelincahan, kekuatan, daya tahan, dan kelentukan yang diukur melalui berbagai tes standar.",
+    "questions": [
+      {
+        "question": "23. Kemampuan tubuh untuk mengubah arah dengan cepat tanpa kehilangan keseimbangan disebut...",
+        "options": [
+          "Strength (Kekuatan)",
+          "Agility (Kelincahan)",
+          "Speed (Kecepatan)",
+          "Power (Daya ledak)",
+          "Endurance (Daya tahan)"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Definisi kelincahan (agility) adalah kemampuan mengubah arah dengan cepat dan tepat."
+      },
+      {
+        "question": "24. Latihan Shuttle Run (lari bolak-balik) bertujuan melatih komponen...",
+        "options": [
+          "Kekuatan otot lengan",
+          "Daya tahan jantung",
+          "Kelincahan",
+          "Kelentukan",
+          "Keseimbangan"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Gerakan mengerem dan berbalik arah dengan cepat dalam Shuttle Run melatih kelincahan kaki."
+      },
+      {
+        "question": "25. Tes baring duduk (Sit-up) selama 60 detik digunakan untuk mengukur...",
+        "options": [
+          "Daya tahan jantung paru",
+          "Kekuatan dan ketahanan otot perut",
+          "Kekuatan otot lengan",
+          "Kelentukan pinggang",
+          "Kecepatan reaksi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Gerakan sit-up membebani otot abdominal (perut)."
+      },
+      {
+        "question": "26. Perhatikan pernyataan tentang tes kebugaran jasmani Indonesia (TKJI) untuk remaja:\n(1) Lari 60 meter (Kecepatan)\n(2) Angkat tubuh/Pull-up (Kekuatan lengan)\n(3) Baring duduk/Sit-up (Kekuatan perut)\n(4) Loncat tegak/Vertical Jump (Daya ledak)\n(5) Lari 1200m/1000m (Daya tahan)\n\nManakah yang termasuk rangkaian tes TKJI?",
+        "options": [
+          "(1), (2), (3) saja",
+          "(1) dan (5) saja",
+          "Semuanya Benar",
+          "(2), (3), (4) saja",
+          "(1), (2), (5) saja"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kelima item tersebut adalah standar baterai tes TKJI untuk anak sekolah."
+      },
+      {
+        "question": "27. Pernyataan Tepat/Tidak Tepat:\n'Seseorang dikatakan bugar jika ia mampu melakukan aktivitas sehari-hari tanpa mengalami kelelahan yang berlebihan dan masih punya cadangan tenaga.'",
+        "options": [
+          "Tepat",
+          "Tidak Tepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ini adalah definisi harfiah dari kebugaran jasmani (Physical Fitness)."
+      },
+      {
+        "question": "28. Gerakan mencium lutut (sit and reach) bertujuan melatih...",
+        "options": [
+          "Kekuatan punggung",
+          "Kelentukan (Flexibility)",
+          "Keseimbangan",
+          "Daya ledak",
+          "Kecepatan"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sit and reach mengukur seberapa lentur otot hamstring dan punggung bawah."
+      },
+      {
+        "question": "40. Analisis Kebugaran: Budi ingin meningkatkan daya ledak (power) otot kakinya untuk bermain basket. Latihan yang paling tepat untuk Budi adalah...",
+        "options": [
+          "Jogging 30 menit",
+          "Vertical Jump dan Box Jump",
+          "Sit-up dan Back-up",
+          "Peregangan statis",
+          "Angkat beban berat (pelan)"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Power adalah Kekuatan x Kecepatan. Latihan melompat (pliometrik) melatih otot kaki untuk berkontraksi cepat dan kuat (meledak)."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 6: Senam Berirama",
+    "passageText": "Senam berirama menggabungkan gerakan tubuh dengan irama musik, menekankan pada kelentukan, kontinuitas, dan ketepatan ritme.",
+    "questions": [
+      {
+        "question": "29. Tiga unsur utama yang harus ada dalam senam irama adalah...",
+        "options": [
+          "Kecepatan, kekuatan, daya tahan",
+          "Irama, kelentukan tubuh, dan kontinuitas gerakan",
+          "Musik dangdut, seragam ketat, panggung",
+          "Bola, pita, dan tali",
+          "Salto, guling depan, guling belakang"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Gerakan harus sesuai ketukan (irama), tubuh harus luwes (kelentukan), dan tidak boleh terputus-putus (kontinuitas)."
+      },
+      {
+        "question": "30. Gerakan langkah kaki dimana tumit kaki kanan diletakkan di depan jari kaki kiri (seperti berjalan di titian) disebut...",
+        "options": [
+          "Langkah biasa (Looppas)",
+          "Langkah rapat (By trekpas)",
+          "Langkah keseimbangan (Balanspas)",
+          "Langkah depan (Galoppas)",
+          "Langkah silang"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Langkah keseimbangan (balanspas) dilakukan dengan gerakan yang meminimalisir lebar langkah untuk menjaga balance."
+      },
+      {
+        "question": "31. Pernyataan Tepat/Tidak Tepat:\n'Senam irama dapat dilakukan tanpa musik asalkan gerakan tetap mengikuti ketukan hitungan yang teratur.'",
+        "options": [
+          "Tepat",
+          "Tidak Tepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Irama bisa berasal dari musik, tepukan tangan, atau hitungan mulut (satu-dua-tiga-empat)."
+      },
+      {
+        "question": "32. Sikap awal yang benar untuk melakukan gerak langkah biasa adalah...",
+        "options": [
+          "Berdiri tegak rileks",
+          "Jongkok",
+          "Kuda-kuda rendah",
+          "Membungkuk",
+          "Tidur telentang"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Senam irama selalu diawali dengan sikap berdiri tegak (Anatomical position) yang rileks."
+      },
+      {
+        "question": "33. Fungsi pendinginan (cooling down) setelah melakukan senam irama adalah...",
+        "options": [
+          "Meningkatkan suhu tubuh",
+          "Mengembalikan kondisi tubuh ke keadaan semula secara bertahap",
+          "Membuat otot kaku",
+          "Menambah denyut nadi",
+          "Mempersiapkan mental"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tujuannya menurunkan detak jantung dan melemaskan otot agar tidak terjadi penumpukan asam laktat."
+      }
+    ]
+  },
+  {
+    "passageTitle": "BAGIAN 7: Pergaulan Bebas",
+    "passageText": "Pergaulan bebas adalah perilaku menyimpang yang memiliki dampak serius bagi kesehatan fisik (PMS) dan masa depan remaja.",
+    "questions": [
+      {
+        "question": "34. Yang dimaksud dengan 'Pergaulan Bebas' adalah...",
+        "options": [
+          "Berteman dengan siapa saja tanpa membedakan ras",
+          "Jalinan pertemanan yang luas di media sosial",
+          "Pergaulan yang tidak terikat/melanggar norma agama dan sosial",
+          "Kebebasan berpendapat di muka umum",
+          "Kegiatan kelompok belajar"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Kata kunci 'Bebas' di sini berkonotasi negatif, artinya lepas dari aturan/norma yang berlaku."
+      },
+      {
+        "question": "35. Salah satu dampak fisik yang paling berbahaya dari perilaku seks bebas adalah...",
+        "options": [
+          "Dikucilkan masyarakat",
+          "Prestasi menurun",
+          "Penularan Penyakit Menular Seksual (PMS) seperti HIV/AIDS",
+          "Kehilangan kepercayaan orang tua",
+          "Depresi"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Ini adalah dampak fisik (kesehatan) langsung. Opsi lain adalah dampak sosial dan psikologis."
+      },
+      {
+        "question": "36. Faktor internal (dari dalam diri) yang menyebabkan remaja terjerumus pergaulan bebas adalah...",
+        "options": [
+          "Lingkungan keluarga yang tidak harmonis",
+          "Teman sebaya yang buruk",
+          "Rendahnya kontrol diri dan pemahaman agama",
+          "Pengaruh internet",
+          "Kemiskinan"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Faktor internal berasal dari mindset dan karakter individu itu sendiri. Opsi A, B, D, E adalah faktor eksternal."
+      },
+      {
+        "question": "37. Pernyataan Tepat/Tidak Tepat:\n'Mengisi waktu luang dengan kegiatan positif seperti olahraga atau organisasi sekolah merupakan salah satu cara preventif mencegah pergaulan bebas.'",
+        "options": [
+          "Tepat",
+          "Tidak Tepat"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Kesibukan positif mengalihkan perhatian remaja dari hal-hal negatif dan menyalurkan energi secara produktif."
+      }
+    ]
+  }
+]

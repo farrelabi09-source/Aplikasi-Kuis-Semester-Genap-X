@@ -1,0 +1,506 @@
+[
+    {
+        "passageTitle": "BAGIAN I: Konsep Dasar Ilmu Sejarah",
+        "passageText": "Pahami konsep dasar sejarah, cara berpikir diakronik/sinkronik, dan metode penelitian sejarah.",
+        "questions": [
+            {
+                "question": "1. Sejarah dianggap sebagai ilmu empiris. Hal ini berarti bahwa kebenaran dalam sejarah...",
+                "options": [
+                    "Bersifat mutlak dan tidak dapat diganggu gugat",
+                    "Didasarkan pada pemikiran filosofis para ahli",
+                    "Diperoleh melalui pengalaman dan penemuan bukti (sumber)",
+                    "Hanya dapat ditulis oleh saksi mata langsung",
+                    "Merupakan kesepakatan seluruh masyarakat"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Empiris artinya didasarkan pada pengalaman atau bukti nyata. Dalam sejarah, 'pengalaman' ini adalah sumber sejarah (artefak, dokumen, prasasti). Sejarah bukan filsafat (B) dan kebenarannya tidak mutlak (A)."
+            },
+            {
+                "question": "2. Sejarawan Anhar Gonggong meneliti 'Pemberontakan DI/TII di Sulawesi Selatan'. Ia memfokuskan penelitiannya pada aspek kondisi sosial, ekonomi, dan politik masyarakat Sulawesi Selatan pada rentang waktu 1950-1965. Pendekatan berpikir sejarah yang digunakan adalah...",
+                "options": [
+                    "Sinkronik",
+                    "Diakronik",
+                    "Kronologis",
+                    "Kausalitas",
+                    "Periodisasi"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Pendekatan sinkronik fokus pada analisis yang meluas dalam ruang (menganalisis berbagai aspek seperti sosial, ekonomi, politik) pada satu titik waktu tertentu (rentang 1950-1965)."
+            },
+            {
+                "question": "3. Pernyataan berikut yang menunjukkan adanya anakronisme dalam pemahaman sejarah adalah...",
+                "options": [
+                    "Gajah Mada menggunakan keris untuk memimpin pasukannya.",
+                    "Kerajaan Sriwijaya menguasai perdagangan di Selat Malaka menggunakan kapal-kapal kayu.",
+                    "Pasukan Sultan Agung dari Mataram Islam menggunakan meriam saat menyerang Batavia.",
+                    "Pangeran Diponegoro menggunakan strategi gerilya untuk melawan pasukan Belanda yang dilengkapi tank.",
+                    "Jenderal Sudirman memimpin perang gerilya melawan Agresi Militer Belanda II."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Anakronisme adalah kesalahan penempatan waktu. Perang Diponegoro (1825-1830) terjadi jauh sebelum tank (D) ditemukan (Perang Dunia I, 1914-1918)."
+            },
+            {
+                "question": "4. Seorang sejarawan menemukan buku harian seorang tentara Belanda yang bertugas di Aceh pada tahun 1890. Dalam penelitian sejarah, buku harian tersebut diklasifikasikan sebagai...",
+                "options": [
+                    "Sumber sekunder",
+                    "Sumber primer",
+                    "Sumber tersier",
+                    "Historiografi",
+                    "Artefak"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Sumber primer adalah kesaksian 'tangan pertama' atau sumber yang dibuat sezaman dengan peristiwa. Buku harian seorang tentara (saksi) yang ditulis pada saat ia bertugas (1890) adalah sumber primer."
+            },
+            {
+                "question": "5. Perhatikan dua sumber sejarah berikut: (1) Kitab Negarakertagama; (2) Buku 'Runtuhnya Kerajaan Hindu-Jawa' (2005) karya Prof. Dr. B.J.O. Schrieke. Klasifikasi yang tepat adalah...",
+                "options": [
+                    "1 adalah primer, 2 adalah primer",
+                    "1 adalah sekunder, 2 adalah primer",
+                    "1 adalah primer, 2 adalah sekunder",
+                    "1 adalah sekunder, 2 adalah tersier",
+                    "1 adalah primer, 2 adalah tersier"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kitab Negarakertagama (1) ditulis pada zaman Majapahit (sumber primer). Buku karya Prof. Schrieke (2) adalah hasil penelitian sejarawan modern yang menafsirkan sumber primer (sumber sekunder)."
+            },
+            {
+                "question": "6. Tahap Verifikasi (Kritik) adalah momen krusial. Ketika sejarawan menguji apakah isi sebuah surat rahasia Pangeran Diponegoro masuk akal, tidak bias, dan jujur, ia sedang melakukan...",
+                "options": [
+                    "Heuristik",
+                    "Kritik Eksternal",
+                    "Kritik Internal",
+                    "Interpretasi",
+                    "Historiografi"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kritik Eksternal (B) menguji fisik/keaslian (kertas, tinta). Kritik Internal (C) menguji isi/kredibilitas (apakah isinya masuk akal, jujur, atau bias)."
+            },
+            {
+                "question": "7. Seorang peneliti mewawancarai seorang veteran Perang Kemerdekaan dan juga membaca arsip-arsip militer Belanda di ANRI. Tindakan peneliti tersebut merupakan bagian dari tahap...",
+                "options": [
+                    "Heuristik",
+                    "Verifikasi",
+                    "Interpretasi",
+                    "Historiografi",
+                    "Periodisasi"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Heuristik adalah tahap pengumpulan sumber sejarah. Kegiatan mewawancarai (sumber lisan) dan membaca arsip (sumber tulisan) adalah proses mencari dan mengumpulkan bukti."
+            },
+            {
+                "question": "8. Tahap akhir dari metode penelitian sejarah adalah Historiografi. Makna penting dari tahap ini adalah...",
+                "options": [
+                    "Memastikan semua sumber yang ditemukan adalah asli",
+                    "Mengumpulkan semua jejak masa lalu tanpa terkecuali",
+                    "Menafsirkan fakta-fakta yang ditemukan secara subjektif",
+                    "Mengomunikasikan hasil rekonstruksi masa lalu agar dapat dipelajari",
+                    "Memisahkan antara fakta sejarah dan mitos"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Historiografi (penulisan sejarah) adalah tahap di mana sejarawan menyajikan hasil temuannya (yang sudah diuji dan ditafsirkan) ke dalam bentuk tulisan (buku, artikel) agar dapat dibaca oleh publik."
+            },
+            {
+                "question": "9. Konsep berpikir Diakronik sangat penting dalam sejarah untuk...",
+                "options": [
+                    "Menganalisis struktur sosial masyarakat pada satu waktu",
+                    "Melihat proses, perkembangan, dan perubahan suatu peristiwa dari waktu ke waktu",
+                    "Membandingkan dua peristiwa di tempat berbeda pada waktu yang sama",
+                    "Memahami kondisi ekonomi suatu negara secara mendalam",
+                    "Mengabaikan unsur waktu dan fokus pada unsur ruang"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Diakronik (Dia = melintasi, Khronos = waktu) adalah cara berpikir yang memanjang dalam waktu, tujuannya untuk memahami bagaimana suatu peristiwa berkembang dan berubah dari awal hingga akhir."
+            },
+            {
+                "question": "10. Sejarah dan manusia adalah dua hal yang tidak dapat dipisahkan. Pernyataan ini paling tepat dijelaskan karena...",
+                "options": [
+                    "Manusialah yang menjadi subjek (pelaku) sekaligus objek (yang dipelajari) dalam sejarah",
+                    "Manusia adalah satu-satunya makhluk yang memiliki akal budi",
+                    "Sejarah hanya menceritakan tentang raja-raja dan orang besar",
+                    "Manusia dapat menciptakan sumber sejarah kapan pun",
+                    "Sejarah adalah ilmu yang mempelajari masa depan manusia"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Sejarah adalah ilmu tentang manusia. Manusia adalah subjek (yang menciptakan sejarah) dan sekaligus objek (yang dikaji oleh sejarawan). Sejarah tidak ada tanpa aktivitas manusia."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN II: Zaman Praaksara di Indonesia",
+        "passageText": "Analisis kehidupan manusia purba, dari food gathering, food producing, hingga masa perundagian.",
+        "questions": [
+            {
+                "question": "11. Penemuan Kjokkenmoddinger (tumpukan sampah kerang) di pesisir Sumatra adalah bukti penting dari masa Mesolitikum. Analisis paling tepat terhadap temuan ini adalah...",
+                "options": [
+                    "Manusia purba pada masa itu sudah hidup menetap dan bercocok tanam",
+                    "Manusia purba pada masa itu memiliki teknologi pelayaran yang canggih",
+                    "Manusia purba pada masa itu hidup semi-sedenter dan memanfaatkan sumber daya laut",
+                    "Telah terjadi perdagangan barter antarpulau",
+                    "Manusia purba pada masa itu hanya mengonsumsi kerang"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kjokkenmoddinger adalah tumpukan sampah kerang. Ini menunjukkan pola hidup semi-sedenter (menetap sementara) di tepi pantai. Mereka belum bercocok tanam (A), tetapi sudah memanfaatkan sumber daya laut."
+            },
+            {
+                "question": "12. Peralihan dari zaman Paleolitikum ke Neolitikum disebut sebagai 'Revolusi Neolitik'. Disebut revolusi karena...",
+                "options": [
+                    "Terjadi perubahan cara hidup fundamental dari food gathering ke food producing",
+                    "Manusia mulai menggunakan alat-alat dari logam",
+                    "Terjadi perang besar yang mengubah tatanan dunia",
+                    "Manusia mulai mengenal tulisan dan aksara",
+                    "Manusia purba jenis Meganthropus punah"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Disebut 'revolusi' karena pergeseran dari mengumpulkan makanan (bergantung pada alam) ke menghasilkan makanan (bercocok tanam) mengubah segalanya secara fundamental."
+            },
+            {
+                "question": "13. Dampak kausalitas (sebab-akibat) paling signifikan dari dimulainya era food producing (bercocok tanam) pada zaman Neolitikum adalah...",
+                "options": [
+                    "Manusia kembali hidup berpindah-pindah (nomaden)",
+                    "Manusia mulai membangun perkampungan dan hidup menetap (sedenter)",
+                    "Manusia mulai berburu menggunakan kapak persegi",
+                    "Manusia meninggalkan gua-gua dan kembali ke padang rumput",
+                    "Sistem kepercayaan Animisme mulai ditinggalkan"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Sebab: Bercocok tanam (food producing). Akibat: Manusia harus merawat tanaman dan menunggu panen, sehingga mereka tidak bisa lagi berpindah-pindah (nomaden) dan harus menetap (sedenter)."
+            },
+            {
+                "question": "14. Zaman Logam di Indonesia sering disebut sebagai 'Masa Perundagian'. Istilah ini merujuk pada...",
+                "options": [
+                    "Munculnya golongan Undagi atau tukang yang terampil, menandakan adanya spesialisasi kerja",
+                    "Sistem pemerintahan yang dipimpin oleh seorang raja",
+                    "Sistem perdagangan barter yang menggunakan alat-alat logam",
+                    "Sebuah kerajaan besar yang menguasai teknik pengolahan logam",
+                    "Perang antarkampung untuk memperebutkan sumber daya logam"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Masa Perundagian (dari kata Undagi = tukang/ahli) adalah masa di mana teknologi pengolahan logam membutuhkan keahlian khusus, yang menandakan masyarakat menjadi lebih kompleks."
+            },
+            {
+                "question": "15. Temuan Homo Floresiensis ('Hobbit') di Liang Bua, Flores, mengguncang dunia paleoantropologi. Makna penting dari temuan ini adalah...",
+                "options": [
+                    "Membuktikan bahwa nenek moyang bangsa Indonesia adalah manusia kerdil",
+                    "Menunjukkan bahwa evolusi manusia purba (spesiasi) dapat terjadi secara unik di wilayah terisolasi",
+                    "Mematahkan teori Out of Africa",
+                    "Membuktikan bahwa Pithecanthropus Erectus adalah leluhur langsung Homo Floresiensis",
+                    "Menunjukkan bahwa manusia purba Flores sudah mengenal teknologi perkapalan"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Temuan 'Hobbit' menunjukkan bahwa di pulau yang terisolasi, evolusi manusia dapat mengambil jalur yang berbeda (dalam hal ini, insular dwarfism atau pengerdilan pulau)."
+            },
+            {
+                "question": "16. Teori Out of Taiwan adalah teori yang paling banyak diterima mengenai asal-usul nenek moyang bangsa Indonesia. Menurut teori ini, gelombang migrasi penutur Austronesia membawa sebuah kebudayaan baru yang fundamental, yaitu...",
+                "options": [
+                    "Kebudayaan berburu dan meramu (Paleolitikum)",
+                    "Kebudayaan mengolah logam (Perundagian)",
+                    "Kebudayaan bercocok tanam (Neolitikum)",
+                    "Kebudayaan membuat bangunan batu besar (Megalitikum)",
+                    "Kebudayaan tulis dan aksara"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Teori Out of Taiwan mengidentifikasi penutur Austronesia sebagai pembawa kebudayaan Neolitikum. Mereka bermigrasi sambil membawa teknologi bercocok tanam (padi, ubi) dan beternak."
+            },
+            {
+                "question": "17. Pada masa Paleolitikum, manusia purba hidup secara nomaden (berpindah-pindah). Faktor utama yang menyebabkan pola hidup nomaden tersebut adalah...",
+                "options": [
+                    "Terjadinya bencana alam dan letusan gunung berapi secara terus-menerus",
+                    "Kehidupan manusia purba yang sangat bergantung pada ketersediaan hewan buruan dan umbi-umbian di alam",
+                    "Adanya peperangan antarkelompok manusia purba untuk memperebutkan gua",
+                    "Sistem kepercayaan yang mengharuskan mereka bergerak mengikuti arah matahari",
+                    "Manusia purba belum mampu membuat tempat tinggal permanen"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Pada masa food gathering (Paleolitikum), manusia sepenuhnya bergantung pada alam. Jika hewan buruan atau tumbuhan di satu lokasi habis, mereka harus berpindah (nomaden) ke lokasi lain."
+            },
+            {
+                "question": "18. Bangunan Punden Berundak dari masa Megalitikum dianggap sebagai salah satu wujud kearifan lokal (local genius) Indonesia. Hal ini karena...",
+                "options": [
+                    "Bangunan tersebut murni meniru arsitektur dari India",
+                    "Punden Berundak menjadi bukti adanya sistem pemerintahan kerajaan",
+                    "Struktur ini menjadi dasar arsitektur Candi Borobudur, menunjukkan adanya akulturasi",
+                    "Bangunan ini hanya ditemukan di Indonesia dan tidak ada di tempat lain",
+                    "Punden Berundak adalah benteng pertahanan dari serangan kelompok lain"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Local genius adalah kemampuan menyerap budaya asing (Hindu-Buddha) tanpa kehilangan identitas asli. Punden Berundak (struktur asli Indonesia) diakulturasikan dengan budaya India menjadi bentuk Candi Borobudur."
+            },
+            {
+                "question": "19. Ditemukannya Nekara (gendang perunggu) di berbagai wilayah di Indonesia, dari Sumatra hingga Papua, menunjukkan bahwa pada Zaman Logam...",
+                "options": [
+                    "Telah terjadi jaringan perdagangan (barter) antarpulau yang intensif",
+                    "Seluruh wilayah Indonesia dikuasai oleh satu kerajaan perunggu",
+                    "Agama Hindu telah menyebar ke seluruh pelosok Nusantara",
+                    "Setiap daerah mampu memproduksi Nekara sendiri",
+                    "Nekara digunakan sebagai alat tukar (mata uang)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Nekara memiliki desain yang rumit dan ditemukan di banyak pulau, membuktikan adanya jaringan pelayaran dan perdagangan antarpulau yang maju pada Zaman Logam."
+            },
+            {
+                "question": "20. Perbedaan mendasar antara teori Out of Africa dan Out of Taiwan adalah...",
+                "options": [
+                    "Out of Africa menjelaskan persebaran Homo Sapiens, sedangkan Out of Taiwan menjelaskan persebaran penutur Austronesia (leluhur suku di Indonesia).",
+                    "Out of Africa menjelaskan asal-usul Pithecanthropus, sedangkan Out of Taiwan menjelaskan asal-usul Meganthropus.",
+                    "Out of Africa adalah teori yang salah, sedangkan Out of Taiwan adalah teori yang benar.",
+                    "Out of Africa menjelaskan migrasi jalur laut, sedangkan Out of Taiwan menjelaskan migrasi jalur darat.",
+                    "Out of Africa terjadi pada zaman Neolitikum, sedangkan Out of Taiwan terjadi pada zaman Paleolitikum."
+                ],
+                "correctAnswer": 0,
+                "explanation": "Out of Africa adalah persebaran Homo Sapiens pertama (puluhan ribu tahun lalu). Out of Taiwan adalah migrasi penutur bahasa Austronesia (ribuan tahun lalu) yang menjadi leluhur mayoritas suku Indonesia."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN III: Praaksara & Jalur Rempah",
+        "passageText": "Pahami kaitan antara zaman Praaksara, Jalur Rempah, dan proses konektivitas global.",
+        "questions": [
+            {
+                "question": "21. Penemuan fosil Pithecanthropus Erectus oleh Eugene Dubois di Trinil sangat penting bagi ilmu pengetahuan karena...",
+                "options": [
+                    "Menjadi bukti bahwa manusia modern berevolusi di Jawa",
+                    "Dianggap sebagai missing link (mata rantai hilang) antara kera dan manusia yang berjalan tegak",
+                    "Merupakan fosil manusia purba tertua yang pernah ditemukan di dunia",
+                    "Menunjukkan bahwa manusia purba Jawa sudah mengenal api",
+                    "Membuktikan bahwa manusia purba hidup bersamaan dengan dinosaurus"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Temuan Dubois sangat penting karena Pithecanthropus Erectus (Manusia Kera yang Berjalan Tegak) memiliki ciri-ciri kera dan manusia, dianggap sebagai bukti evolusi."
+            },
+            {
+                "question": "22. Sistem kepercayaan yang meyakini bahwa benda-benda tertentu (seperti pusaka, keris, atau batu) memiliki kekuatan gaib (mana) disebut...",
+                "options": [
+                    "Animisme",
+                    "Dinamisme",
+                    "Totemisme",
+                    "Monoteisme",
+                    "Ateisme"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Animisme (A) adalah kepercayaan pada roh. Dinamisme (B) adalah kepercayaan pada kekuatan gaib (mana) yang ada pada benda-benda tertentu."
+            },
+            {
+                "question": "23. Dasar yang digunakan para arkeolog untuk membagi zaman Praaksara menjadi Paleolitikum, Mesolitikum, Neolitikum, dan Zaman Logam adalah...",
+                "options": [
+                    "Jenis manusia purba yang hidup pada masa itu",
+                    "Perkembangan teknologi alat-alat yang digunakan dan pola huniannya",
+                    "Sistem kepercayaan yang dianut oleh masyarakat",
+                    "Jenis hewan yang diburu pada masa itu",
+                    "Letak geografis penemuan fosil dan artefak"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Pembabakan zaman Praaksara didasarkan pada budaya dan teknologi: Paleolitikum (Batu Tua/kasar), Neolitikum (Batu Muda/halus), Zaman Logam (metalurgi)."
+            },
+            {
+                "question": "24. Tesis utama yang ditekankan dalam materi 'Jalur Rempah' pada Kurikulum Merdeka adalah...",
+                "options": [
+                    "Nusantara adalah wilayah yang terisolasi sebelum kedatangan bangsa Eropa",
+                    "Jalur Rempah baru terbentuk setelah Portugis datang ke Maluku",
+                    "Laut berfungsi sebagai pemersatu dan penghubung Nusantara dengan jaringan global sejak ribuan tahun lalu",
+                    "Perdagangan rempah-rempah hanya menguntungkan kerajaan-kerajaan di Maluku",
+                    "Jalur Sutra (darat) jauh lebih penting daripada Jalur Rempah (laut)"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Tesis Jalur Rempah adalah mengubah cara pandang: Laut bukan pemisah, melainkan 'jalan tol' yang menyatukan Nusantara dan menjadikannya pusat perdagangan global jauh sebelum era kolonialisme."
+            },
+            {
+                "question": "25. Pada abad ke-15 M, harga rempah-rempah (cengkeh dan pala) di Eropa bisa lebih mahal daripada emas. Faktor utama penyebabnya adalah...",
+                "options": [
+                    "Rempah-rempah adalah bahan baku utama pembuatan mesiu",
+                    "Paus di Vatikan mewajibkan penggunaan rempah dalam setiap ritual keagamaan",
+                    "Manfaatnya sebagai pengawet makanan, obat, dan penghangat tubuh, serta jalur distribusinya yang sangat panjang",
+                    "Adanya monopoli perdagangan yang dilakukan oleh Kerajaan Majapahit",
+                    "Kelangkaan rempah-rempah akibat bencana alam di Maluku"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Harga mahal disebabkan oleh 2 hal: 1) Permintaan tinggi (pengawet, obat) dan 2) Penawaran langka (hanya tumbuh di Maluku dan jalur distribusi sangat panjang via banyak perantara)."
+            },
+            {
+                "question": "26. Ditemukannya Prasasti Yupa di Kutai (abad ke-4 M) dianggap sebagai penanda zaman sejarah di Indonesia. Hal ini karena...",
+                "options": [
+                    "Yupa adalah prasasti tertua yang pernah dibuat di Indonesia",
+                    "Yupa adalah bukti pertama bahwa masyarakat Nusantara telah mengenal tulisan",
+                    "Yupa menceritakan tentang kedermawanan Raja Mulawarman",
+                    "Yupa adalah bukti masuknya agama Islam ke Indonesia",
+                    "Yupa terbuat dari batu yang lebih awet daripada daun lontar"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Zaman Sejarah (History) dimulai ketika manusia mengenal tulisan (Aksara). Penemuan Yupa (dengan huruf Pallawa) adalah bukti tertulis tertua, sehingga menjadi batas dimulainya zaman sejarah."
+            },
+            {
+                "question": "27. Teori Arus Balik (F.D.K. Bosch) mengenai proses masuknya Hindu-Buddha memiliki kelebihan dibanding teori lain karena...",
+                "options": [
+                    "Menempatkan para pedagang (Waisya) sebagai aktor utama",
+                    "Menunjukkan adanya penaklukan militer oleh Kerajaan India (Ksatria)",
+                    "Menempatkan bangsa Indonesia sebagai subjek yang pasif",
+                    "Menunjukkan peran aktif bangsa Indonesia yang belajar ke India lalu kembali menyebarkan ajaran",
+                    "Membuktikan bahwa hanya kaum Brahmana yang boleh menyebarkan agama"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Teori Ksatria, Waisya, dan Brahmana menempatkan orang India sebagai aktor utama (Indonesia pasif). Teori Arus Balik menempatkan orang Indonesia sebagai subjek yang aktif."
+            },
+            {
+                "question": "28. Candi Borobudur adalah bukti akulturasi budaya lokal Indonesia dan budaya Hindu-Buddha. Unsur yang paling jelas menunjukkan budaya lokal Indonesia (Megalitikum) adalah...",
+                "options": [
+                    "Adanya stupa di bagian puncak candi",
+                    "Adanya relief yang menceritakan kisah Lalitavistara",
+                    "Bentuk bangunannya yang berupa Punden Berundak",
+                    "Penggunaan patung-patung Buddha di setiap tingkatannya",
+                    "Penggunaan batu andesit sebagai bahan baku utama"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Stupa (A), relief (B), dan patung Buddha (D) adalah unsur dari India. Punden Berundak (struktur pemujaan roh nenek moyang bertingkat) adalah unsur asli Indonesia dari zaman Megalitikum."
+            },
+            {
+                "question": "29. Kerajaan Sriwijaya mampu mendominasi Nusantara sebagai kemaharajaan maritim. Faktor strategis utama yang mendukung kejayaannya adalah...",
+                "options": [
+                    "Kekuatan agrarisnya yang menghasilkan beras dalam jumlah besar",
+                    "Kemampuannya mengontrol Selat Malaka sebagai 'pintu gerbang' Jalur Rempah",
+                    "Persekutuannya dengan Kerajaan Mataram Kuno di Jawa",
+                    "Posisinya sebagai satu-satunya produsen cengkeh dan pala",
+                    "Keberhasilannya menaklukkan seluruh Pulau Jawa"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Kekuatan utama Sriwijaya bukan pada hasil bumi (A), melainkan pada lokasi strategisnya yang memungkinkannya memonopoli dan memajaki semua kapal dagang yang melewati Selat Malaka."
+            },
+            {
+                "question": "30. Mahapatih Gajah Mada mengucapkan 'Sumpah Palapa'. Dalam konteks geopolitik dan ekonomi saat itu, tujuan utama di balik sumpah tersebut adalah...",
+                "options": [
+                    "Menyebarkan agama Hindu ke seluruh Nusantara",
+                    "Menghancurkan Kerajaan Sriwijaya yang beragama Buddha",
+                    "Menguasai dan mengontrol jaringan perdagangan rempah-rempah di bawah hegemoni Majapahit",
+                    "Mencari sekutu untuk melawan invasi dari Kekaisaran Mongol",
+                    "Membangun pangkalan militer di setiap pulau"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Sumpah Palapa adalah visi geopolitik-ekonomi. Dengan menyatukan Nusantara (terutama daerah penghasil rempah), Majapahit bertujuan untuk memonopoli perdagangan rempah yang sangat menguntungkan."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN IV: Kerajaan Islam dan Konektivitas Global",
+        "passageText": "Pahami kaitan antara kerajaan agraris-maritim, proses Islamisasi, dan persaingan dagang dengan bangsa Eropa.",
+        "questions": [
+            {
+                "question": "31. Kerajaan Majapahit sering disebut sebagai kerajaan 'Agraris-Maritim'. Pernyataan yang paling tepat untuk menjelaskan konsep tersebut adalah...",
+                "options": [
+                    "Majapahit menolak semua bentuk perdagangan laut dan hanya fokus pada pertanian",
+                    "Kekuatan Majapahit sepenuhnya bergantung pada upeti dari kerajaan-kerajaan di Maluku",
+                    "Majapahit mengandalkan lumbung pangan (agraris) dari Jawa, sambil menggunakan kekuatan maritimnya untuk mengontrol perdagangan",
+                    "Sriwijaya adalah kerajaan agraris, sedangkan Majapahit murni kerajaan maritim",
+                    "Semua rakyat Majapahit diwajibkan menjadi petani dan pelaut secara bersamaan"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Majapahit memiliki dua pilar: 1) Agraris (pedalaman Jawa yang subur sebagai lumbung beras) dan 2) Maritim (armada laut Gajah Mada untuk mengontrol pelabuhan dan jalur dagang)."
+            },
+            {
+                "question": "32. Proses Islamisasi di Nusantara berjalan relatif cepat dan damai. Faktor sosiologis utama yang menyebabkan ajaran Islam mudah diterima masyarakat pesisir adalah...",
+                "options": [
+                    "Ajaran Islam dibawa oleh pedagang kaya yang membagi-bagikan emas",
+                    "Islam diperkenalkan melalui peperangan dan penaklukan",
+                    "Ajaran Islam bersifat egaliter (setara) dan tidak mengenal sistem kasta",
+                    "Masyarakat Nusantara sudah tidak memiliki kepercayaan apa pun",
+                    "Adanya paksaan dari raja-raja yang lebih dulu masuk Islam"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Berbeda dengan Hindu yang kaku (kasta), Islam menawarkan konsep egaliter (kesetaraan) yang sangat menarik bagi masyarakat lapisan bawah."
+            },
+            {
+                "question": "33. Wali Songo menggunakan media Wayang Kulit untuk menyebarkan Islam di Jawa. Cerita Mahabarata dan Ramayana (dari Hindu) tetap digunakan, namun disisipi nilai-nilai tauhid. Strategi dakwah ini menunjukkan...",
+                "options": [
+                    "Kegagalan Islam menggantikan budaya Hindu-Buddha",
+                    "Upaya pemurnian ajaran Islam dari budaya lokal",
+                    "Proses akulturasi budaya yang berjalan secara damai dan adaptif",
+                    "Bahwa ajaran Islam di Jawa tidak murni lagi",
+                    "Adanya peperangan budaya antara Islam dan Hindu"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Wali Songo tidak memberangus budaya lama (Wayang). Mereka mengadaptasi budaya tersebut dan mengisinya dengan nilai-nilai baru (Islam). Ini adalah strategi akulturasi yang efektif."
+            },
+            {
+                "question": "34. Terdapat korelasi yang sangat kuat antara Jalur Rempah dengan proses Islamisasi di Nusantara. Hubungan yang paling tepat adalah...",
+                "options": [
+                    "Jalur Rempah berfungsi sebagai 'Jalur Dakwah', di mana para pedagang Muslim menyebarkan agamanya di kota-kota pelabuhan",
+                    "Hanya pedagang yang beragama Islam yang diizinkan berlayar di Jalur Rempah",
+                    "Kerajaan Majapahit runtuh karena diserang oleh para pedagang Muslim",
+                    "Ajaran Islam membuat perdagangan rempah-rempah dilarang",
+                    "Proses Islamisasi hanya terjadi di daerah penghasil rempah"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Jalur Rempah adalah infrastruktur (jalannya). Para pedagang Muslim adalah aktor di jalur tersebut. Sambil berdagang, mereka berinteraksi dan menyebarkan Islam di pelabuhan-pelabuhan."
+            },
+            {
+                "question": "35. Jatuhnya Malaka ke tangan Portugis pada tahun 1511 memiliki dampak ekonomi-politik yang sangat besar. Salah satu dampak langsungnya adalah...",
+                "options": [
+                    "Kerajaan Sriwijaya bangkit kembali sebagai kekuatan maritim",
+                    "Kerajaan Aceh Darussalam tumbuh pesat sebagai bandar perdagangan lada alternatif",
+                    "Kerajaan Majapahit menghentikan Sumpah Palapa",
+                    "Harga rempah-rempah di Eropa langsung jatuh",
+                    "Spanyol dan Portugis bersatu untuk menguasai Nusantara"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Setelah Malaka dikuasai Portugis, para pedagang Muslim menghindari Malaka. Aceh, yang berada di jalur dagang alternatif dan penghasil lada, mengambil kesempatan ini dan tumbuh pesat."
+            },
+            {
+                "question": "36. Kerajaan Demak memegang peranan penting sebagai kerajaan Islam pertama di Jawa. Faktor strategis yang mendukung peran Demak adalah...",
+                "options": [
+                    "Letaknya di pedalaman yang jauh dari jangkauan Portugis",
+                    "Dukungan penuh dari sisa-sisa kekuatan Kerajaan Majapahit",
+                    "Posisinya di pesisir utara Jawa yang strategis dan didukung oleh daerah agraris yang subur",
+                    "Kemampuannya memproduksi cengkeh dan pala",
+                    "Persekutuannya dengan Kerajaan Pajajaran"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kekuatan Demak bersifat ganda: Ia strategis di pesisir (untuk perdagangan maritim) dan juga memiliki pedalaman (agraris) yang subur untuk memasok beras."
+            },
+            {
+                "question": "37. Kerajaan Gowa-Tallo (Makassar) di bawah pimpinan Sultan Hasanuddin gigih melawan VOC. Alasan utama VOC sangat ingin menaklukkan Makassar adalah...",
+                "options": [
+                    "Gowa-Tallo adalah pusat penghasil cengkeh utama",
+                    "Gowa-Tallo adalah sekutu utama Portugis di Nusantara",
+                    "Gowa-Tallo menerapkan prinsip 'perdagangan bebas' yang mengancam monopoli VOC",
+                    "Sultan Hasanuddin ingin menyebarkan agama Islam ke wilayah kekuasaan VOC",
+                    "Gowa-Tallo ingin menguasai Batavia"
+                ],
+                "correctAnswer": 2,
+                "explanation": "VOC (Belanda) ingin memonopoli perdagangan rempah. Gowa-Tallo (Makassar) menentang ini dan menerapkan perdagangan bebas (siapa saja boleh berdagang), yang mengancam monopoli VOC."
+            },
+            {
+                "question": "38. Di Maluku, terjadi persaingan sengit di mana Ternate bersekutu dengan Portugis, sementara Tidore bersekutu dengan Spanyol. Pola politik ini menunjukkan...",
+                "options": [
+                    "Upaya Ternate dan Tidore untuk bersatu melawan penjajah Eropa",
+                    "Bahwa bangsa Eropa berhasil menerapkan politik devide et impera (adu domba)",
+                    "Bahwa Spanyol dan Portugis berperang untuk menyebarkan agama",
+                    "Keberhasilan kerajaan lokal dalam memanfaatkan kekuatan Eropa",
+                    "Bahwa Ternate dan Tidore adalah kerajaan yang lemah"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Ternate dan Tidore adalah musuh bebuyutan. Kedatangan Portugis dan Spanyol dimanfaatkan dalam konflik lokal ini (politik adu domba) untuk kepentingan Eropa."
+            },
+            {
+                "question": "39. Peristiwa Jatuhnya Konstantinopel ke tangan Turki Utsmani pada tahun 1453 dianggap sebagai pemicu utama Era Penjelajahan Samudra. Hubungan sebab-akibatnya adalah...",
+                "options": [
+                    "Turki Utsmani melarang orang Eropa berdagang di wilayahnya",
+                    "Paus memerintahkan raja-raja Eropa untuk merebut kembali Konstantinopel",
+                    "Jalur perdagangan rempah-rempah tradisional (darat) terputus, sehingga Eropa terdorong mencari jalur laut langsung ke sumbernya",
+                    "Turki Utsmani membocorkan peta rahasia Jalur Rempah kepada Portugis",
+                    "Bangsa Eropa ingin membuktikan bahwa bumi itu bulat"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Sebelum 1453, rempah ke Eropa melewati Konstantinopel (jalur darat). Setelah kota itu dikuasai Turki Utsmani, jalur itu ditutup. Bangsa Eropa 'terpaksa' mencari jalur laut baru langsung ke sumber rempah."
+            },
+            {
+                "question": "40. Konsep Konektivitas Global yang ditekankan dalam materi Jalur Rempah berarti...",
+                "options": [
+                    "Bahwa seluruh kerajaan di Nusantara adalah satu kesatuan politik",
+                    "Bahwa Indonesia baru terhubung dengan dunia luar setelah kedatangan VOC",
+                    "Bahwa rempah-rempah Nusantara telah menjadi komoditas global yang menghubungkan peradaban Barat dan Timur sejak masa kuno",
+                    "Bahwa hanya Tiongkok dan India yang berdagang di Nusantara",
+                    "Bahwa semua pelaut di dunia harus singgah di Maluku"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Konektivitas Global berarti Nusantara (karena rempahnya) bukanlah objek, melainkan subjek dalam sejarah dunia, yang telah menghubungkan peradaban besar (Romawi, India, Tiongkok) ribuan tahun sebelum kolonialisme."
+            }
+        ]
+    }
+]

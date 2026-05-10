@@ -1,0 +1,460 @@
+[
+    {
+        "passageTitle": "BAGIAN I: EKSPLORASI BUNYI DALAM MUSIK",
+        "passageText": "Bacalah setiap pertanyaan dan pahami eksplorasi bunyi (sumber dan cara memainkan) serta fungsi alat musik.",
+        "questions": [
+            {
+                "question": "1. Alat musik yang sumber bunyinya berasal dari getaran udara yang dihembuskan melalui rongga-rongga alat musik itu sendiri, dan dimainkan dengan cara ditiup, diklasifikasikan sebagai...",
+                "options": [
+                    "Idiophone",
+                    "Chordophone",
+                    "Membranophone",
+                    "Aerophone"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Aerophone adalah alat musik yang sumber bunyinya dari getaran udara (angin) yang ditiup, seperti seruling atau terompet."
+            },
+            {
+                "question": "2. Instrumen musik seperti Gitar, Biola, dan Kontrabass dikategorikan sebagai alat musik Chordophone karena memiliki sumber bunyi yang berasal dari...",
+                "options": [
+                    "Komponen elektrik",
+                    "Pukulan pada badan alat musik",
+                    "Dawai atau tali",
+                    "Membran atau selaput"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Chordophone (kordo: tali/dawai) adalah alat musik yang sumber bunyinya berasal dari dawai atau tali yang digesek atau dipetik."
+            },
+            {
+                "question": "3. Alat musik Maracas dan Gong termasuk dalam kategori Idiophone. Hal ini karena sumber bunyi pada alat musik Idiophone berasal dari...",
+                "options": [
+                    "Membran yang ditabuh",
+                    "Alat musik itu sendiri",
+                    "Getaran udara yang dihembuskan",
+                    "Komponen elektrik"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Idiophone (idio: diri) adalah alat musik yang sumber bunyinya berasal dari getaran badan alat musik itu sendiri ketika dipukul atau digoyangkan."
+            },
+            {
+                "question": "4. Drum, Tamborin, dan Djembe diklasifikasikan sebagai alat musik Membranophone. Karakteristik utama yang menentukan kategori ini adalah...",
+                "options": [
+                    "Sumber bunyinya berasal dari dawai",
+                    "Sumber bunyinya berasal dari membran/selaput",
+                    "Sumber bunyinya berasal dari getaran udara",
+                    "Dimainkan dengan cara ditekan tutsnya"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Membranophone (membran: selaput) adalah alat musik yang sumber bunyinya berasal dari selaput atau kulit yang diregangkan dan ditabuh."
+            },
+            {
+                "question": "5. Keyboard dan Midi Controller, yang menghasilkan bunyi dari komponen elektrik, termasuk dalam jenis alat musik...",
+                "options": [
+                    "Idiophone",
+                    "Membranophone",
+                    "Electrophone",
+                    "Chordophone"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Electrophone (elektro: listrik) adalah alat musik yang sumber bunyinya dihasilkan atau diolah melalui komponen elektronik."
+            },
+            {
+                "question": "6. Berdasarkan cara memainkannya, jenis alat musik Recorder, Flute, Saxophone, dan Seruling dikelompokkan sebagai alat musik...",
+                "options": [
+                    "Gesek",
+                    "Petik",
+                    "Tiup",
+                    "Pukul"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Alat musik ini dimainkan dengan cara ditiup (menghembuskan udara ke dalam lubang resonansi)."
+            },
+            {
+                "question": "7. Alat musik Sasando, Gitar, dan Ukulele dikelompokkan berdasarkan cara memainkannya sebagai alat musik...",
+                "options": [
+                    "Pukul",
+                    "Gesek",
+                    "Ditekan",
+                    "Petik"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Alat musik ini menghasilkan bunyi dengan cara memetik dawai atau senar."
+            },
+            {
+                "question": "8. Alat musik Piano, yang menghasilkan suara dari sumber bunyi dawai (Chordophone), dimainkan dengan cara...",
+                "options": [
+                    "Digesek",
+                    "Ditiup",
+                    "Ditekan tutsnya",
+                    "Ditabuh"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Meskipun sumber bunyinya dawai, teknik memainkannya adalah menekan tuts yang akan menggerakkan palu kayu untuk memukul dawai."
+            },
+            {
+                "question": "9. Alat musik Pianika merupakan kombinasi dari sumber bunyi Aerophone dan teknik memainkannya dengan cara...",
+                "options": [
+                    "Dipetik dan ditekan",
+                    "Ditiup dan ditekan tutsnya",
+                    "Digesek dan ditiup",
+                    "Ditiup dan digoyangkan"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Pianika dimainkan dengan ditiup (Aerophone) untuk menggetarkan plat logam, sekaligus menekan tuts untuk menentukan nada."
+            },
+            {
+                "question": "10. Alat musik yang berfungsi untuk memainkan nada-nada yang membentuk sebuah melodi dalam lagu disebut alat musik...",
+                "options": [
+                    "Harmonis",
+                    "Ritmis",
+                    "Melodis",
+                    "Perkusi"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Alat musik melodis menghasilkan serangkaian nada (melodi). Contoh: Biola, Recorder, Saxophone."
+            },
+            {
+                "question": "11. Fungsi utama alat musik ritmis seperti Drum, Gendang, dan Rebana adalah...",
+                "options": [
+                    "Menghasilkan akor pengiring",
+                    "Memainkan nada-nada utama lagu",
+                    "Mengatur dan menjaga ketukan (tempo) lagu",
+                    "Memberikan suara elektrik"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Alat musik ritmis tidak bernada, fungsinya hanya untuk menjaga irama dan tempo lagu."
+            },
+            {
+                "question": "12. Piano, Keyboard, dan Gitar sering dikategorikan sebagai alat musik harmonis karena kemampuannya untuk...",
+                "options": [
+                    "Dimainkan dengan ditiup",
+                    "Menghasilkan beberapa nada secara bersamaan (akor)",
+                    "Menjaga kecepatan musik (tempo)",
+                    "Hanya memainkan satu nada"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Alat musik harmonis dapat menghasilkan dua nada atau lebih secara bersamaan, membentuk paduan suara (akor) untuk mengiringi melodi."
+            },
+            {
+                "question": "13. Eksperimen menggunakan botol kaca, galon air, panci, dan wajan sebagai sumber bunyi dalam musik, berkaitan dengan kategori alat musik...",
+                "options": [
+                    "Electrophone",
+                    "Membranophone",
+                    "Aerophone",
+                    "Idiophone"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Benda yang menghasilkan bunyi dari getaran badannya sendiri (ketika dipukul) adalah Idiophone."
+            },
+            {
+                "question": "14. Pengelompokan jenis alat musik berdasarkan Aerophone, Idiophone, Chordophone, Membranophone, dan Electrophone didasarkan pada...",
+                "options": [
+                    "Cara memainkannya",
+                    "Fungsi alat musik",
+                    "Sumber bunyinya",
+                    "Bahan dasar pembuatannya"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Klasifikasi alat musik yang menggunakan istilah Yunani (seperti Chordophone) didasarkan pada sumber bunyi (Hornbostel-Sachs System)."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN II: EKSPLORASI BENTUK MUSIK",
+        "passageText": "Pahamilah berbagai unsur dan struktur lagu yang umum digunakan dalam penciptaan musik.",
+        "questions": [
+            {
+                "question": "15. Serangkaian nada yang disusun secara berurutan dan menciptakan pola yang menarik dalam sebuah lagu disebut...",
+                "options": [
+                    "Ritme",
+                    "Tempo",
+                    "Melodi",
+                    "Harmoni"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Melodi adalah serangkaian nada yang membentuk kalimat lagu, yang bersifat horisontal."
+            },
+            {
+                "question": "16. Unsur musik yang menyangkut pola durasi dan tekanan, serta berfungsi untuk menciptakan gerakan dan suasana dalam sebuah lagu adalah...",
+                "options": [
+                    "Melodi",
+                    "Tempo",
+                    "Harmoni",
+                    "Ritme"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Ritme (irama) adalah pola ketukan yang berulang dan menentukan gerak lagu. Ini berkaitan dengan durasi dan tekanan nada."
+            },
+            {
+                "question": "17. Kecepatan musik, yang umumnya dinyatakan dalam ketukan per menit (BPM), disebut...",
+                "options": [
+                    "Harmoni",
+                    "Ritme",
+                    "Tempo",
+                    "Melodi"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Tempo adalah kecepatan lagu, biasanya ditunjukkan dengan istilah seperti Allegro (cepat) atau Andante (sedang)."
+            },
+            {
+                "question": "18. Penyatuan beberapa nada secara bersamaan untuk menciptakan akor dan warna musik disebut...",
+                "options": [
+                    "Melodi",
+                    "Harmoni",
+                    "Ritme",
+                    "Tempo"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Harmoni adalah keselarasan bunyi yang dihasilkan dari penyatuan nada-nada secara vertikal (simultan/bersamaan)."
+            },
+            {
+                "question": "19. Lagu dengan Bentuk Tunggal (A-A) memiliki ciri khas...",
+                "options": [
+                    "Tiga bagian yang kontras (A-B-A).",
+                    "Satu bagian melodi yang diulang dengan lirik berbeda pada setiap bait.",
+                    "Terdiri dari dua bagian melodi yang berbeda (A dan B).",
+                    "Dimulai dengan bagian instrumental yang panjang."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Bentuk Tunggal (Strophic Form) hanya memiliki satu bagian melodi utama (A) yang terus diulang (A-A-A...). Contoh: Lagu anak-anak atau Hymne."
+            },
+            {
+                "question": "20. Lagu “Balonku Ada Lima” (bait pertama dan kedua) adalah contoh Bentuk Tunggal (A-A) karena...",
+                "options": [
+                    "Memiliki bagian Bridge dan Coda.",
+                    "Hanya memiliki dua akor dasar.",
+                    "Melodi pada bait pertama dan kedua memiliki kesamaan.",
+                    "Memiliki tiga bagian melodi yang berbeda."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Bentuk Tunggal ditandai dengan melodi yang sama di setiap bait, meskipun liriknya berubah."
+            },
+            {
+                "question": "21. Bentuk Biner (Binary A-B) pada lagu terdiri dari...",
+                "options": [
+                    "Tiga bagian melodi yang saling terkait.",
+                    "Dua bagian utama (A dan B) yang berbeda dalam melodi atau harmoni.",
+                    "Satu bagian melodi yang terus diulang.",
+                    "Bagian tengah yang kembali ke melodi awal."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Bentuk Biner terdiri dari dua bagian kontras (A dan B) yang disajikan secara berurutan. Contoh umum: lagu dansa tradisional."
+            },
+            {
+                "question": "22. Lagu nasional “Indonesia Pusaka” ciptaan Ismail Marzuki merupakan contoh lagu dengan Bentuk Biner (A-B). Struktur ini terlihat jelas pada perbedaan antara...",
+                "options": [
+                    "Lirik Verse 1 dan Chorus.",
+                    "Lirik Intro dan Outro.",
+                    "Lirik bagian A ('Indonesia tanah air beta...') dan bagian B ('Di sana tempat lahir beta...').",
+                    "Bagian Bridge dan Coda."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Bagian A dan B pada lagu 'Indonesia Pusaka' memiliki melodi yang berbeda secara kontras, yang merupakan ciri Bentuk Biner (A-B)."
+            },
+            {
+                "question": "23. Pada lagu dengan Bentuk Tinear (Ternary A-B-A), fungsi utama bagian B adalah untuk...",
+                "options": [
+                    "Mengulang materi musik bagian A secara persis.",
+                    "Menyajikan kontras dalam melodi, harmoni, maupun tempo.",
+                    "Menjadi bagian penutup yang memperkuat tema utama.",
+                    "Memperkenalkan tema lagu secara instrumental."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Bagian B selalu berfungsi sebagai kontras (perbedaan) sebelum kembali ke bagian A yang asli (A-B-A)."
+            },
+            {
+                "question": "24. Dalam Struktur Musik Barat, bagian yang paling mudah diingat, seringkali dinyanyikan secara berulang, dan biasanya memiliki puncak emosi lagu adalah...",
+                "options": [
+                    "Verse",
+                    "Bridge",
+                    "Chorus",
+                    "Intro"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Chorus (Reff) adalah bagian klimaks dan tema utama yang paling sering diulang dan menjadi identitas lagu."
+            },
+            {
+                "question": "25. Bagian Verse dalam struktur lagu memiliki fungsi utama sebagai...",
+                "options": [
+                    "Bagian pembuka instrumental.",
+                    "Bagian transisi yang mengubah suasana.",
+                    "Bagian utama yang berisi lirik cerita atau narasi.",
+                    "Bagian penutup yang berisi repetisi tema."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Verse (Bait) berfungsi untuk melanjutkan narasi atau cerita dalam lagu. Melodinya sama, tetapi liriknya berbeda di setiap pengulangan."
+            },
+            {
+                "question": "26. Bagian Intro dalam struktur musik berfungsi untuk...",
+                "options": [
+                    "Mengakhiri lagu secara perlahan.",
+                    "Memperkenalkan tema dan suasana musik sebelum lirik lagu dimulai.",
+                    "Mengubah nada dasar (Modulasi).",
+                    "Memberikan jeda instrumental di tengah lagu."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Intro (Introduction) adalah bagian pembuka instrumental yang membangun suasana sebelum penyanyi masuk."
+            },
+            {
+                "question": "27. Bridge dalam struktur lagu berfungsi sebagai...",
+                "options": [
+                    "Pengulangan melodi utama.",
+                    "Bagian instrumental di tengah lagu (Interlud).",
+                    "Bagian penutup (Coda).",
+                    "Bagian transisi yang mengubah suasana musik."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Bridge (Jembatan) adalah bagian transisional yang memberikan kontras melodi/lirik sebelum kembali ke Chorus atau bagian akhir."
+            },
+            {
+                "question": "28. Istilah Coda dan Outro dalam struktur lagu merujuk pada...",
+                "options": [
+                    "Bagian yang menghubungkan Verse dan Chorus.",
+                    "Bagian instrumental yang terletak di tengah lagu.",
+                    "Bagian penutup yang berisi repetisi dari tema utama.",
+                    "Perubahan kecepatan lagu."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Coda dan Outro adalah bagian penutup yang bertugas mengakhiri lagu, seringkali dengan mengulang atau memudarkan (fade out) tema utama."
+            },
+            {
+                "question": "29. Bagian yang berisi instrumen seperti Intro, tetapi berada di tengah lagu sebagai pemisah antar bagian vokal, disebut...",
+                "options": [
+                    "Bridge",
+                    "Pre-Chorus",
+                    "Modulasi",
+                    "Interlud"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Interlud (Interlude) adalah bagian instrumental di tengah lagu yang memisahkan verse atau chorus tanpa mengubah struktur secara dramatis (berbeda dengan Bridge)."
+            },
+            {
+                "question": "30. Permainan musik yang dimainkan secara bersama-sama oleh sekelompok orang, baik menggunakan satu jenis alat musik maupun berbagai jenis alat musik, disebut...",
+                "options": [
+                    "Solois",
+                    "Orkestra",
+                    "Ansambel Musik",
+                    "Band"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Ansambel musik adalah kelompok kecil pemain musik yang membawakan karya musik bersama-sama, yang dapat diklasifikasikan menjadi ansambel sejenis atau ansambel campuran."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN III: MANAJEMEN MUSIK",
+        "passageText": "Pahamilah fungsi-fungsi manajemen dan peranannya dalam mengelola sebuah proyek musik atau karir artis.",
+        "questions": [
+            {
+                "question": "31. Manajemen Musik didefinisikan sebagai proses mengelola seluruh aktivitas yang berkaitan dengan...",
+                "options": [
+                    "Hanya pertunjukan dan konser.",
+                    "Hanya urusan hukum dan kontrak.",
+                    "Produksi, pertunjukan, dan distribusi musik.",
+                    "Hanya pengorganisasian alat musik."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Manajemen musik mencakup seluruh spektrum, dari penciptaan (produksi) hingga pemasaran (distribusi) dan penampilan (pertunjukan)."
+            },
+            {
+                "question": "32. Tahap awal yang menentukan arah kegiatan musik, di mana tujuan, konsep, dan strategi untuk melaksanakan kegiatan (seperti konser atau rekaman) ditetapkan, disebut fungsi...",
+                "options": [
+                    "Pengorganisasian (Organizing)",
+                    "Perencanaan (Planning)",
+                    "Pengarahan (Actuating/Directing)",
+                    "Pengawasan (Controlling)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Perencanaan (Planning) adalah langkah awal untuk menentukan apa yang akan dilakukan dan bagaimana cara mencapainya."
+            },
+            {
+                "question": "33. Fungsi manajemen yang merupakan proses mengatur dan membagi tugas kepada setiap anggota tim agar semua rencana dapat terlaksana dengan baik adalah...",
+                "options": [
+                    "Perencanaan (Planning)",
+                    "Pengorganisasian (Organizing)",
+                    "Pengarahan (Actuating/Directing)",
+                    "Pengawasan (Controlling)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Pengorganisasian (Organizing) melibatkan pembagian tugas, sumber daya, dan membangun struktur tim."
+            },
+            {
+                "question": "34. Tindakan untuk menggerakkan, memotivasi, dan mengkoordinasi semua pihak agar bekerja sesuai tugasnya untuk mencapai tujuan pertunjukan musik disebut fungsi...",
+                "options": [
+                    "Perencanaan (Planning)",
+                    "Pengorganisasian (Organizing)",
+                    "Pengarahan (Actuating/Directing)",
+                    "Pengawasan (Controlling)"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Pengarahan (Actuating/Directing) adalah fungsi untuk memastikan pelaksanaan berjalan dan memotivasi tim."
+            },
+            {
+                "question": "35. Proses menilai pelaksanaan kegiatan musik, memastikan sesuai rencana, dan memperbaiki kekurangan yang terjadi disebut fungsi...",
+                "options": [
+                    "Perencanaan (Planning)",
+                    "Pengorganisasian (Organizing)",
+                    "Pengarahan (Actuating/Directing)",
+                    "Pengawasan (Controlling)"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Pengawasan (Controlling) adalah membandingkan hasil aktual dengan rencana dan mengambil tindakan korektif."
+            },
+            {
+                "question": "36. Salah satu aspek pengelolaan karir seorang musisi dalam manajemen musik adalah Administrasi, yang meliputi urusan...",
+                "options": [
+                    "Penciptaan dan produksi musik.",
+                    "Mengatur keuangan, kontrak, dan urusan hukum.",
+                    "Membangun citra dan promosi karya.",
+                    "Merancang strategi jangka panjang untuk karir."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Administrasi mencakup aspek legal dan keuangan dalam karir musisi (kontrak, royalti, pembukuan)."
+            },
+            {
+                "question": "37. Berikut ini yang merupakan salah satu unsur penting dalam manajemen musik yang terkait dengan pengelolaan keuangan, kontrak, dan urusan hukum adalah...",
+                "options": [
+                    "Artis",
+                    "Musik",
+                    "Bisnis",
+                    "Kreativitas"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Unsur Bisnis dalam manajemen musik meliputi semua aspek komersial dan legal, seperti kontrak dan keuangan."
+            },
+            {
+                "question": "38. Manajer musik berperan sebagai Juru Bicara untuk artis yang diwakilinya, yang berarti...",
+                "options": [
+                    "Membantu proses penulisan lagu.",
+                    "Mewakili artis dalam negosiasi dan urusan publik.",
+                    "Mengatur jadwal latihan rutin.",
+                    "Mencari bakat baru untuk dikembangkan."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Juru Bicara (spokesperson) bertugas menjadi perwakilan resmi artis di hadapan media dan pihak lain."
+            },
+            {
+                "question": "39. Era dalam sejarah perkembangan manajemen musik yang membawa perubahan signifikan, dengan munculnya platform streaming dan media sosial yang memengaruhi cara manajemen dilakukan adalah...",
+                "options": [
+                    "Era Klasik",
+                    "Era Jazz dan Blues",
+                    "Era Rock and Roll",
+                    "Era Digital"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Era Digital ditandai dengan dominasi internet, streaming, dan media sosial yang mengubah total model bisnis musik."
+            },
+            {
+                "question": "40. Salah satu strategi pemasaran musik di era digital adalah Pemasaran Digital, yang memanfaatkan platform seperti...",
+                "options": [
+                    "Radio dan media cetak.",
+                    "Konser dan tur langsung.",
+                    "Media sosial dan streaming musik.",
+                    "Penghargaan dan Festival."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Pemasaran digital fokus pada penggunaan media internet untuk menjangkau audiens (media sosial, platform streaming)."
+            }
+        ]
+    }
+]

@@ -1,0 +1,506 @@
+[
+    {
+        "passageTitle": "BAGIAN I: Teks Eksposisi (Soal 1-4)",
+        "passageText": "(1) Sampah plastik telah menjadi salah satu masalah lingkungan paling kritis di dunia saat ini. (2) Sifatnya yang sulit terurai (non-biodegradable) menyebabkan penumpukan sampah di daratan dan lautan. (3) Menurut data dari Asosiasi Industri Plastik Indonesia (INAPLAS), Indonesia menghasilkan sekitar 6,8 juta ton sampah plastik per tahun. (4) Dari jumlah tersebut, hanya sekitar 10% yang didaur ulang, sementara sisanya mencemari lingkungan. (5) Oleh karena itu, diperlukan langkah-langkah drastis untuk mengurangi penggunaan plastik sekali pakai.",
+        "questions": [
+            {
+                "question": "1. Berdasarkan struktur dan isinya, teks di atas paling tepat digolongkan sebagai...",
+                "options": [
+                    "Teks Laporan Hasil Observasi",
+                    "Teks Eksposisi",
+                    "Teks Anekdot",
+                    "Teks Narasi",
+                    "Teks Deskripsi"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Teks tersebut menyajikan sebuah Tesis (opini penulis) pada kalimat (1) dan (5). Tesis ini didukung oleh Argumentasi berupa data dan fakta (kalimat 2, 3, dan 4). Ini adalah struktur khas Teks Eksposisi."
+            },
+            {
+                "question": "2. Kalimat yang berfungsi sebagai tesis (pernyataan pendapat) utama dalam kutipan tersebut ditunjukkan oleh nomor...",
+                "options": [
+                    "(1) dan (2)",
+                    "(1) dan (5)",
+                    "(2) dan (3)",
+                    "(3) dan (4)",
+                    "(4) dan (5)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Tesis adalah gagasan utama. Kalimat (1) menetapkan masalah (opini \"masalah kritis\") dan kalimat (5) menegaskan ulang/rekomendasi (opini \"diperlukan langkah drastis\"). Kalimat (2), (3), dan (4) adalah fakta pendukung."
+            },
+            {
+                "question": "3. Kalimat yang murni menyajikan fakta (bukan opini) untuk mendukung argumen ditunjukkan oleh nomor...",
+                "options": [
+                    "(1) dan (5)",
+                    "(2) dan (5)",
+                    "(1) dan (3)",
+                    "(3) dan (4)",
+                    "(2) dan (5)"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Fakta adalah pernyataan yang dapat diverifikasi. Kalimat (3) menyajikan data (\"6,8 juta ton\") dan kalimat (4) menyajikan data (\"10% didaur ulang\"). Keduanya adalah fakta."
+            },
+            {
+                "question": "4. Kata \"Oleh karena itu\" pada kalimat (5) berfungsi sebagai...",
+                "options": [
+                    "Konjungsi temporal",
+                    "Verba relasional",
+                    "Konjungsi kausalitas (sebab-akibat)",
+                    "Verba mental",
+                    "Kata persuasif"
+                ],
+                "correctAnswer": 2,
+                "explanation": "\"Oleh karena itu\" adalah konjungsi antarkalimat yang menyatakan hubungan sebab-akibat atau simpulan, menghubungkan argumen (sebab) dengan simpulan (akibat)."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN II: Teks Laporan Hasil Observasi (Soal 5-8)",
+        "passageText": "Wayang adalah seni pertunjukan tradisional asli Indonesia yang berasal dan berkembang pesat di Pulau Jawa dan Bali. UNESCO, lembaga yang membawahi kebudayaan dari PBB, pada 7 November 2003 menetapkannya sebagai warisan budaya dunia dalam kategori Masterpiece of Oral and Intangible Heritage of Humanity. Wayang digolongkan menjadi beberapa jenis berdasarkan bahan pembuatannya, seperti wayang kulit (dari kulit hewan) dan wayang golek (dari kayu).",
+        "questions": [
+            {
+                "question": "5. Dilihat dari tujuan dan strukturnya, teks di atas merupakan bagian...",
+                "options": [
+                    "Tesis dalam Teks Eksposisi",
+                    "Orientasi dalam Teks Anekdot",
+                    "Pernyataan Umum/Klasifikasi dalam Teks LHO",
+                    "Argumentasi dalam Teks Eksposisi",
+                    "Deskripsi Manfaat dalam Teks LHO"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Teks tersebut memberikan definisi umum (\"Wayang adalah...\"), asal-usul, dan klasifikasi umum (\"digolongkan menjadi...\"). Ini adalah ciri khas bagian Pernyataan Umum (Klasifikasi) dalam Teks LHO."
+            },
+            {
+                "question": "6. Sifat informasi yang disajikan dalam teks tersebut adalah...",
+                "options": [
+                    "Subjektif dan persuasif",
+                    "Faktual dan objektif",
+                    "Naratif dan menghibur",
+                    "Kritis dan menyindir",
+                    "Imajinatif dan fiktif"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Seluruh informasi dalam teks adalah fakta yang dapat diverifikasi (Definisi wayang, penetapan UNESCO, jenis wayang). Tidak ada opini atau ajakan, menunjukkan sifat faktual dan objektif."
+            },
+            {
+                "question": "7. Kata \"adalah\", \"menetapkannya\", dan \"digolongkan\" dalam teks tersebut secara berurutan berfungsi sebagai...",
+                "options": [
+                    "Verba relasional, verba material, verba relasional",
+                    "Verba material, verba relasional, verba mental",
+                    "Verba relasional, verba mental, verba material",
+                    "Verba mental, verba material, verba relasional",
+                    "Verba material, verba material, verba mental"
+                ],
+                "correctAnswer": 0,
+                "explanation": "\"adalah\" = Verba Relasional (mendefinisikan). \"menetapkannya\" = Verba Material (tindakan fisik UNESCO). \"digolongkan\" = Verba Relasional (mengklasifikasikan)."
+            },
+            {
+                "question": "8. Tujuan utama penulis menyajikan teks tersebut adalah untuk...",
+                "options": [
+                    "Meyakinkan pembaca agar mencintai wayang",
+                    "Mengkritik generasi muda yang melupakan wayang",
+                    "Menceritakan pengalaman menonton wayang",
+                    "Memberikan informasi faktual mengenai definisi dan klasifikasi wayang",
+                    "Menghibur pembaca dengan cerita lucu tentang wayang"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Sesuai sifat Teks LHO, tujuannya adalah murni informatif dan klasifikatif. Teks itu memberi tahu pembaca \"Apa itu wayang?\" secara objektif."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN III: Teks Anekdot (Soal 9-12)",
+        "passageText": "Suatu hari, seorang politisi datang berkunjung ke sebuah desa terpencil untuk berkampanye. Ia melihat seorang peternak sedang memberi makan babi-babinya yang tampak sangat gemuk.\n\n\"Wah, babi Bapak sehat sekali! Diberi makan apa, Pak?\" tanya politisi itu, berusaha ramah.\n\n\"Oh, ini saya beri makan sisa-sisa makanan dari restoran, Pak. Kadang juga limbah sayuran,\" jawab peternak.\n\nPolitisi itu langsung marah, \"Apa?! Itu tidak boleh! Bapak menyiksa hewan! Bapak saya denda 5 juta rupiah karena memberi makan yang tidak layak!\"\n\nSebulan kemudian, politisi lain dari partai berbeda datang ke desa yang sama. Ia juga bertanya hal yang sama kepada peternak itu.\n\nTakut didenda, peternak menjawab, \"Saya beri makan steak, keju impor, dan salad sayuran organik, Pak.\"\n\nPolitisi kedua ini marah lebih besar, \"Bapak gila! Di saat banyak rakyat kelaparan, Bapak malah menghamburkan makanan mewah untuk babi! Bapak saya denda 10 juta!\"\n\nPeternak itu pusing.\n\nMinggu depannya, politisi ketiga datang. Pertanyaan yang sama kembali diajukan.\n\nPeternak itu berpikir sejenak, lalu menjawab dengan tenang, \"Begini, Pak. Setiap pagi, saya beri mereka uang masing-masing 50 ribu rupiah. Terserah mereka mau jajan apa.\"",
+        "questions": [
+            {
+                "question": "9. Teks di atas paling tepat dikategorikan sebagai Teks Anekdot karena...",
+                "options": [
+                    "Menyajikan data faktual tentang peternakan babi",
+                    "Menceritakan urutan peristiwa secara kronologis",
+                    "Menggunakan bahasa formal dan istilah teknis",
+                    "Berisi cerita lucu yang bertujuan menyindir perilaku politisi",
+                    "Mengajak pembaca untuk beternak babi dengan benar"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Ciri utama anekdot adalah (1) cerita lucu (jawaban akhir peternak) dan (2) adanya sindiran/kritik sosial (perilaku politisi yang selalu mencari-cari kesalahan)."
+            },
+            {
+                "question": "10. Kritik sosial atau sindiran yang ingin disampaikan melalui anekdot tersebut adalah...",
+                "options": [
+                    "Politisi sangat peduli pada kesejahteraan hewan ternak",
+                    "Rakyat kecil (peternak) selalu berada di posisi yang serba salah di mata pejabat",
+                    "Harga pakan ternak sangat mahal sehingga peternak kebingungan",
+                    "Politisi seharusnya memberikan uang tunai langsung kepada rakyat",
+                    "Babi sebaiknya dibiarkan mencari makan sendiri"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Inti anekdot ini adalah kritik terhadap figur otoritas (politisi). Apa pun yang dilakukan peternak, ia selalu disalahkan. Ini menyindir bahwa rakyat kecil sering menjadi korban kebijakan yang serba salah."
+            },
+            {
+                "question": "11. Bagian \"Peternak itu pusing\" dalam struktur teks anekdot disebut...",
+                "options": [
+                    "Abstrak",
+                    "Orientasi",
+                    "Krisis",
+                    "Reaksi",
+                    "Koda"
+                ],
+                "correctAnswer": 3,
+                "explanation": "\"Krisis\" adalah puncak masalah (saat politisi kedua marah). \"Reaksi\" adalah tanggapan tokoh terhadap krisis. \"Peternak itu pusing\" adalah reaksi peternak terhadap dua krisis yang dialaminya."
+            },
+            {
+                "question": "12. Puncak kelucuan sekaligus kejanggalan (Krisis) utama dalam teks anekdot tersebut terjadi ketika...",
+                "options": [
+                    "Politisi pertama datang berkunjung ke desa",
+                    "Peternak memberi makan babinya dengan limbah sayuran",
+                    "Politisi kedua marah karena babi diberi makan steak dan keju",
+                    "Peternak memberi uang 50 ribu agar babi jajan sendiri",
+                    "Politisi pertama mendenda peternak 5 juta rupiah"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Jawaban akhir peternak (\"memberi uang 50 ribu...\") adalah puncak kelucuan (absurditas) sekaligus krisis/solusi konyol yang ia ciptakan untuk menghindari kemarahan politisi ketiga."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN IV: Teori dan Perbandingan Teks (Soal 13-40)",
+        "passageText": "Pahami konsep, struktur, dan kaidah kebahasaan dari Teks LHO, Eksposisi, dan Anekdot.",
+        "questions": [
+            {
+                "question": "13. Berikut ini adalah pernyataan yang paling tepat mengenai Teks Laporan Hasil Observasi (LHO)...",
+                "options": [
+                    "Teks LHO bersifat subjektif karena berdasarkan pengamatan penulis.",
+                    "Teks LHO bertujuan meyakinkan pembaca untuk mengikuti pandangan penulis.",
+                    "Teks LHO harus mengandung unsur humor untuk mengkritik suatu fenomena.",
+                    "Teks LHO menyajikan fakta dan klasifikasi secara sistematis dan objektif.",
+                    "Teks LHO wajib diawali dengan krisis dan diakhiri dengan koda."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Esensi Teks LHO adalah menyajikan informasi apa adanya (objektif) berdasarkan fakta hasil pengamatan, yang biasanya disusun secara sistematis (klasifikasi, deskripsi bagian, deskripsi manfaat)."
+            },
+            {
+                "question": "14. Perbedaan fundamental antara Teks LHO dan Teks Eksposisi terletak pada...",
+                "options": [
+                    "Penggunaan bahasa (LHO informal, Eksposisi formal)",
+                    "Tujuan penulisan (LHO mengkritik, Eksposisi memaparkan)",
+                    "Sifat data (LHO objektif-faktual, Eksposisi subjektif-argumentatif)",
+                    "Struktur teks (LHO tidak memiliki struktur baku)",
+                    "Kehadiran tokoh (LHO memiliki tokoh, Eksposisi tidak)"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Perbedaan mendasar: LHO murni fakta objektif (penulis tidak boleh beropini). Teks Eksposisi didasarkan pada opini/tesis penulis (subjektif) yang dikuatkan oleh fakta (argumentatif)."
+            },
+            {
+                "question": "15. Dalam Teks Eksposisi, bagian yang berfungsi menyajikan data, statistik, pendapat ahli, dan contoh nyata untuk memperkuat gagasan utama penulis disebut...",
+                "options": [
+                    "Tesis",
+                    "Koda",
+                    "Argumentasi",
+                    "Deskripsi Bagian",
+                    "Penegasan Ulang"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Argumentasi adalah 'daging' dari Teks Eksposisi. Di sinilah penulis menyajikan semua bukti (fakta, data, contoh) untuk membuktikan bahwa tesis (opininya) benar dan logis."
+            },
+            {
+                "question": "16. \"Menurut saya, kebijakan ini sangat tidak efektif.\" Kalimat ini tidak mungkin ditemukan dalam Teks LHO karena melanggar prinsip...",
+                "options": [
+                    "Kelengkapan data",
+                    "Kebahasaan formal",
+                    "Objektivitas",
+                    "Penggunaan konjungsi",
+                    "Sistematika penulisan"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Frasa \"Menurut saya\" dan kata \"sangat tidak efektif\" adalah bentuk opini subjektif. Teks LHO mengharamkan subjektivitas dan harus bersifat objektif (apa adanya)."
+            },
+            {
+                "question": "17. Perhatikan kalimat: (1) Mangga adalah buah genus Mangifera. (2) Sebaiknya, kita mengonsumsi mangga. (3) Seorang nenek kebingungan mencari mangga. (4) Mangga memiliki daging buah berwarna kuning. Kalimat untuk Deskripsi Bagian LHO adalah...",
+                "options": [
+                    "(1)",
+                    "(2)",
+                    "(3)",
+                    "(4)",
+                    "(1) dan (2)"
+                ],
+                "correctAnswer": 3,
+                "explanation": "(1) adalah Pernyataan Umum/Klasifikasi. (2) adalah Teks Eksposisi (rekomendasi). (3) adalah Teks Narasi/Anekdot. (4) adalah Deskripsi Bagian (mendeskripsikan ciri fisik)."
+            },
+            {
+                "question": "18. \"Pada suatu hari yang cerah, seorang presiden terlihat sedang berjalan-jalan di taman istana.\" Kutipan ini paling tepat merupakan bagian Orientasi dari sebuah Teks...",
+                "options": [
+                    "LHO",
+                    "Eksposisi",
+                    "Anekdot",
+                    "Prosedur",
+                    "Deskripsi"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Orientasi dalam Teks Anekdot berfungsi memperkenalkan latar (waktu: \"suatu hari\", tempat: \"taman istana\") dan tokoh (\"seorang presiden\")."
+            },
+            {
+                "question": "19. \"Fotosintesis, metabolisme, dan ekosistem\" adalah contoh penggunaan kaidah kebahasaan...",
+                "options": [
+                    "Verba mental",
+                    "Konjungsi kausalitas",
+                    "Istilah teknis/ilmiah",
+                    "Kata persuasif",
+                    "Konjungsi temporal"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kata-kata tersebut adalah istilah khusus yang digunakan dalam bidang ilmu tertentu (Biologi/Sains). Penggunaan istilah teknis adalah ciri umum Teks LHO dan Teks Eksposisi."
+            },
+            {
+                "question": "20. Tujuan utama Teks Anekdot adalah...",
+                "options": [
+                    "Menginformasikan hasil pengamatan secara rinci",
+                    "Meyakinkan pembaca tentang kebenaran suatu opini",
+                    "Menceritakan kisah fiksi untuk menghibur semata",
+                    "Menjelaskan langkah-langkah melakukan sesuatu",
+                    "Menyampaikan kritik sosial melalui cerita humor"
+                ],
+                "correctAnswer": 4,
+                "explanation": "Perbedaan anekdot dengan humor biasa adalah tujuannya. Humor biasa hanya untuk tertawa. Anekdot menggunakan humor sebagai 'bungkus' untuk menyampaikan pesan tersirat (kritik/sindiran)."
+            },
+            {
+                "question": "21. \"Paus Biru (Balaenoptera musculus) adalah mamalia laut terbesar di dunia. Hewan ini termasuk dalam subordo paus balin.\" Teks ini menggunakan kaidah kebahasaan dominan...",
+                "options": [
+                    "Verba mental dan kata persuasif",
+                    "Konjungsi temporal dan kalimat retoris",
+                    "Verba relasional dan verba material",
+                    "Kalimat seru dan bahasa informal",
+                    "Konjungsi kausalitas dan istilah teknis"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Teks tersebut didominasi oleh verba relasional (\"adalah\", \"termasuk\") yang berfungsi mengklasifikasikan."
+            },
+            {
+                "question": "22. Bagian penutup dalam Teks Eksposisi yang berfungsi merangkum argumen dan memperkuat kembali pendapat penulis disebut...",
+                "options": [
+                    "Koda",
+                    "Penegasan Ulang",
+                    "Deskripsi Manfaat",
+                    "Reaksi",
+                    "Tesis"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Struktur Teks Eksposisi: Tesis -> Argumentasi -> Penegasan Ulang. Penegasan Ulang (Reiteration) adalah simpulan yang menegaskan kembali Tesis."
+            },
+            {
+                "question": "23. \"Lalu, petugas itu mengambil tilang dan sang pengendara pun pasrah.\" Kutipan di atas menggunakan konjungsi yang menunjukkan urutan waktu (kronologis), yaitu...",
+                "options": [
+                    "Dan",
+                    "Pun",
+                    "Sang",
+                    "Lalu",
+                    "Petugas"
+                ],
+                "correctAnswer": 3,
+                "explanation": "\"Lalu\" adalah konjungsi temporal (waktu) yang menunjukkan peristiwa selanjutnya. Ini sering digunakan dalam Teks Anekdot."
+            },
+            {
+                "question": "24. \"Kita harus segera beralih ke energi terbarukan. Sebaiknya, pemerintah memberikan subsidi...\" Kata \"harus\" dan \"sebaiknya\" berfungsi sebagai...",
+                "options": [
+                    "Kata persuasif (rekomendasi)",
+                    "Verba mental (opini)",
+                    "Konjungsi kausalitas (sebab-akibat)",
+                    "Istilah teknis (energi)",
+                    "Verba relasional (definisi)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Kata-kata tersebut digunakan penulis untuk membujuk, mengajak, atau merekomendasikan suatu tindakan. Ini adalah ciri bahasa persuasif dalam Teks Eksposisi."
+            },
+            {
+                "question": "25. Struktur: (1) Tesis, (2) Pernyataan Umum, (3) Argumentasi, (4) Deskripsi Bagian, (5) Deskripsi Manfaat, (6) Penegasan Ulang. Struktur yang tepat untuk Teks LHO adalah...",
+                "options": [
+                    "(1) - (3) - (6)",
+                    "(2) - (4) - (5)",
+                    "(1) - (4) - (6)",
+                    "(2) - (3) - (5)",
+                    "(1) - (2) - (3)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Struktur baku LHO adalah (2) Pernyataan Umum (Klasifikasi/Definisi), diikuti (4) Deskripsi Bagian (perincian ciri-ciri), dan ditutup (5) Deskripsi Manfaat. Struktur (1) - (3) - (6) adalah milik Teks Eksposisi."
+            },
+            {
+                "question": "26. \"Seorang dosen filsafat bertanya kepada mahasiswanya, 'Kenapa ayam menyeberang jalan?'\" Kalimat ini dalam struktur Teks Anekdot berfungsi sebagai...",
+                "options": [
+                    "Abstrak",
+                    "Orientasi",
+                    "Krisis",
+                    "Reaksi",
+                    "Koda"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Bagian ini memperkenalkan tokoh (dosen, mahasiswa) dan situasi awal (latar) yang akan memicu cerita (krisis). Ini adalah fungsi dari Orientasi."
+            },
+            {
+                "question": "27. \"Penyebab utama banjir di Jakarta adalah alih fungsi lahan dan sistem drainase yang buruk. Selain itu, curah hujan ekstrem memperparah kondisi.\" Kaidah kebahasaan yang menonjol adalah...",
+                "options": [
+                    "Penggunaan verba mental",
+                    "Penggunaan konjungsi kausalitas",
+                    "Penggunaan kalimat retoris",
+                    "Penggunaan konjungsi temporal",
+                    "Penggunaan bahasa informal"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Teks ini menjelaskan sebab-akibat. \"adalah\" (menjelaskan penyebab) dan \"Selain itu\" (penambahan argumen) sangat kental dengan hubungan kausalitas (sebab-akibat)."
+            },
+            {
+                "question": "28. Hal yang membedakan Teks Anekdot dari cerita humor biasa adalah...",
+                "options": [
+                    "Teks Anekdot selalu menggunakan tokoh terkenal",
+                    "Teks Anekdot memiliki struktur Krisis dan Reaksi",
+                    "Teks Anekdot harus berdasarkan kisah nyata",
+                    "Teks Anekdot mengandung pesan moral atau kritik sosial",
+                    "Teks Anekdot selalu lebih panjang dari cerita humor"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Kelucuan dalam humor biasa tujuannya hanya tawa. Kelucuan dalam anekdot adalah sarana (alat) untuk menyampaikan tujuan utamanya, yaitu kritik atau sindiran."
+            },
+            {
+                "question": "29. \"Bank Sampah merupakan sebuah konsep pengumpulan sampah kering yang telah dipilah dan memiliki nilai jual.\" Kalimat ini paling cocok digunakan untuk memulai bagian...",
+                "options": [
+                    "Tesis (Eksposisi)",
+                    "Pernyataan Umum (LHO)",
+                    "Orientasi (Anekdot)",
+                    "Argumentasi (Eksposisi)",
+                    "Deskripsi Manfaat (LHO)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Kalimat tersebut menggunakan verba relasional (\"merupakan\") untuk memberikan definisi umum tentang \"Bank Sampah\". Ini adalah ciri khas Pernyataan Umum (Klasifikasi) pada Teks LHO."
+            },
+            {
+                "question": "30. \"Saya yakin bahwa pendidikan karakter adalah fondasi utama.\" Kata \"yakin\" dan \"adalah\" dalam Teks Eksposisi tersebut berfungsi sebagai...",
+                "options": [
+                    "Verba mental dan Verba relasional",
+                    "Verba material dan Verba mental",
+                    "Kata persuasif dan Verba material",
+                    "Verba relasional dan Konjungsi",
+                    "Istilah teknis dan Verba mental"
+                ],
+                "correctAnswer": 0,
+                "explanation": "\"yakin\" adalah Verba Mental (menunjukkan apa yang dipikirkan/dirasakan penulis). \"adalah\" adalah Verba Relasional (mendefinisikan \"pendidikan karakter\" sebagai \"fondasi\")."
+            },
+            {
+                "question": "31. \"Apakah kita akan diam saja melihat ketidakadilan ini?\" Kalimat tanya ini disebut kalimat retoris, yang berfungsi untuk...",
+                "options": [
+                    "Menanyakan informasi yang belum diketahui penulis",
+                    "Meminta pembaca menjawab pertanyaan di akhir teks",
+                    "Menyindir atau menegaskan suatu maksud tanpa perlu dijawab",
+                    "Memulai sebuah observasi lapangan",
+                    "Memperkenalkan tokoh dalam cerita"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kalimat retoris adalah pertanyaan yang tidak membutuhkan jawaban. Tujuannya adalah untuk penegasan, perenungan, atau sindiran."
+            },
+            {
+                "question": "32. Bagian Teks LHO yang menjelaskan ciri-ciri fisik, habitat, perilaku, atau bagian-bagian dari objek yang diamati adalah...",
+                "options": [
+                    "Pernyataan Umum",
+                    "Tesis",
+                    "Orientasi",
+                    "Deskripsi Bagian",
+                    "Deskripsi Manfaat"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Deskripsi Bagian adalah inti dari LHO yang berfungsi 'membedah' atau merinci objek yang telah diklasifikasikan di Pernyataan Umum."
+            },
+            {
+                "question": "33. (1) LHO objektif, Eksposisi subjektif. (2) LHO mengklasifikasi, Anekdot mengkritik. (3) Eksposisi pakai argumen, LHO tidak. (4) Anekdot faktual, LHO fiktif. Pernyataan perbandingan yang SALAH adalah...",
+                "options": [
+                    "(1)",
+                    "(2)",
+                    "(3)",
+                    "(4)",
+                    "(1) dan (3)"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Pernyataan (4) terbalik. Teks Anekdot boleh fiktif (untuk tujuan sindiran). Teks LHO wajib faktual dan objektif berdasarkan hasil pengamatan."
+            },
+            {
+                "question": "34. Urutan struktur Teks Anekdot yang paling umum adalah...",
+                "options": [
+                    "Tesis - Argumentasi - Penegasan Ulang",
+                    "Abstrak - Orientasi - Krisis - Reaksi - Koda",
+                    "Pernyataan Umum - Deskripsi Bagian - Deskripsi Manfaat",
+                    "Orientasi - Tesis - Krisis - Koda",
+                    "Abstrak - Krisis - Reaksi - Tesis"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Ini adalah lima struktur baku Teks Anekdot: Abstrak (opsional), Orientasi, Krisis, Reaksi, dan Koda (opsional)."
+            },
+            {
+                "question": "35. \"Gel lidah buaya sering dimanfaatkan sebagai bahan baku industri kosmetik dan obat-obatan herbal.\" Kutipan ini paling tepat diletakkan pada bagian...",
+                "options": [
+                    "Deskripsi Manfaat (LHO)",
+                    "Penegasan Ulang (Eksposisi)",
+                    "Koda (Anekdot)",
+                    "Deskripsi Bagian (LHO)",
+                    "Argumentasi (Eksposisi)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Kalimat tersebut secara jelas memaparkan fungsi atau kegunaan (\"dimanfaatkan sebagai...\") dari objek (lidah buaya). Ini adalah ciri khas bagian Deskripsi Manfaat dalam Teks LHO."
+            },
+            {
+                "question": "36. \"Melihat jawaban konyol muridnya, sang guru hanya bisa menggelengkan kepala sambil tersenyum kecut.\" Kutipan ini dalam Teks Anekdot merupakan bagian...",
+                "options": [
+                    "Abstrak",
+                    "Orientasi",
+                    "Krisis",
+                    "Reaksi",
+                    "Koda"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Ini adalah tanggapan/respons (\"Reaksi\") dari sang guru terhadap Krisis (jawaban konyol muridnya)."
+            },
+            {
+                "question": "37. \"Akibatnya, es di kutub mencair dan permukaan air laut naik.\" Frasa \"Akibatnya\" dalam Teks Eksposisi berfungsi untuk...",
+                "options": [
+                    "Menunjukkan urutan waktu (Temporal)",
+                    "Menjelaskan hubungan sebab-akibat (Kausalitas)",
+                    "Memberikan definisi (Relasional)",
+                    "Mengajak pembaca (Persuasif)",
+                    "Menunjukkan pendapat (Mental)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "\"Akibatnya\" secara eksplisit menunjukkan dampak atau akibat dari suatu sebab yang telah dijelaskan sebelumnya. Ini adalah konjungsi kausalitas."
+            },
+            {
+                "question": "38. \"Lumba-lumba hidung botol (Tursiops truncatus) adalah mamalia cerdas yang hidup di perairan hangat.\" Kalimat ini menggunakan istilah teknis/ilmiah, yaitu...",
+                "options": [
+                    "Lumba-lumba hidung botol",
+                    "Tursiops truncatus",
+                    "Mamalia cerdas",
+                    "Perairan hangat",
+                    "Adalah"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Tursiops truncatus adalah nama latin (taksonomi) yang merupakan istilah ilmiah/teknis dalam bidang biologi."
+            },
+            {
+                "question": "39. Persamaan antara Teks LHO dan Teks Eksposisi adalah...",
+                "options": [
+                    "Keduanya bertujuan untuk menghibur pembaca",
+                    "Keduanya sama-sama menyajikan opini penulis sebagai inti teks",
+                    "Keduanya sering menggunakan bahasa formal dan istilah teknis",
+                    "Keduanya memiliki struktur Krisis, Reaksi, dan Koda",
+                    "Keduanya harus bersifat objektif dan tidak boleh memihak"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Baik LHO (untuk menjelaskan sains/objek) maupun Eksposisi (untuk menjelaskan argumen) sama-sama ditulis dalam ragam bahasa formal dan sering memakai istilah teknis sesuai topik."
+            },
+            {
+                "question": "40. Teks yang bertujuan utama untuk memengaruhi pembaca agar setuju dengan pendapat penulis, dengan didukung data dan fakta, adalah...",
+                "options": [
+                    "Teks LHO",
+                    "Teks Anekdot",
+                    "Teks Eksposisi",
+                    "Teks Narasi",
+                    "Teks Prosedur"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Ini adalah definisi dari Teks Eksposisi. Tujuannya persuasif (memengaruhi), intinya adalah pendapat (Tesis), dan senjatanya adalah data/fakta (Argumentasi)."
+            }
+        ]
+    }
+]

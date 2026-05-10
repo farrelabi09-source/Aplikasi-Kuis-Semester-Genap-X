@@ -1,0 +1,466 @@
+[
+    {
+        "passageTitle": "BAGIAN I: Hakikat Sosiologi sebagai Ilmu Pengetahuan",
+        "passageText": "Pahami hakikat sosiologi, bapak sosiologi, dan ciri-ciri dasarnya.",
+        "questions": [
+            {
+                "question": "1. Sosiologi merupakan ilmu yang lahir dan berkembang sebagai respons terhadap krisis sosial yang diakibatkan oleh dua revolusi besar di Eropa. Peristiwa sejarah yang menjadi faktor utama kelahiran sosiologi adalah...",
+                "options": [
+                    "Reformasi Gereja dan Aufklärung.",
+                    "Kolonialisme dan Perang Dunia I.",
+                    "Revolusi Industri dan Revolusi Prancis.",
+                    "Renaissance dan Perang Dingin."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kelahiran sosiologi dipicu oleh perubahan drastis tatanan sosial akibat Revolusi Industri (perubahan struktur ekonomi) dan Revolusi Prancis (perubahan sistem politik dan sosial)."
+            },
+            {
+                "question": "2. Seorang sosiolog meneliti dampak perubahan kebijakan pemerintah terhadap perilaku konsumsi masyarakat. Berdasarkan objek kajian sosiologi, masyarakat sebagai wadah dan seluruh fenomena sosial adalah...",
+                "options": [
+                    "Objek formal.",
+                    "Objek material.",
+                    "Objek analisis.",
+                    "Objek fakta sosial."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Objek material sosiologi adalah masyarakat secara keseluruhan (segala fenomena sosial), sedangkan hubungan sosial yang dikaji adalah objek formal."
+            },
+            {
+                "question": "3. Auguste Comte meyakini bahwa masyarakat harus dipelajari dengan menggunakan metode ilmiah, bebas dari spekulasi filosofis atau mistis. Pandangan ini dikenal sebagai...",
+                "options": [
+                    "Verstehen.",
+                    "Materialisme Historis.",
+                    "Positivisme.",
+                    "Hukum Tiga Tahap."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Positivisme adalah pandangan Comte yang mendorong penggunaan metode ilmiah (fakta yang dapat diobservasi) untuk memahami masyarakat."
+            },
+            {
+                "question": "4. Dalam Hukum Tiga Tahap Auguste Comte, tahap di mana manusia menjelaskan fenomena dengan konsep abstrak seperti 'alam' atau 'ide' tanpa melibatkan dewa, merupakan Tahap...",
+                "options": [
+                    "Teologis.",
+                    "Positif.",
+                    "Metafisik.",
+                    "Primitif."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Tahap Metafisik adalah tahap transisi di mana penjelasan didasarkan pada kekuatan abstrak atau esensi filosofis."
+            },
+            {
+                "question": "5. Konsep kunci yang diperkenalkan oleh Émile Durkheim untuk merujuk pada cara bertindak, berpikir, dan merasa yang bersifat eksternal bagi individu dan memiliki kekuatan koersif (memaksa) adalah...",
+                "options": [
+                    "Anomie.",
+                    "Tindakan Sosial.",
+                    "Fakta Sosial.",
+                    "Kelas Sosial."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Fakta Sosial adalah fondasi metodologis Durkheim, yang menekankan bahwa norma dan struktur sosial memiliki keberadaan di luar individu dan memaksa."
+            },
+            {
+                "question": "6. Menurut Karl Marx, sejarah masyarakat hingga saat ini pada dasarnya adalah sejarah perjuangan kelas. Teori konflik Marx didasarkan pada pandangan bahwa...",
+                "options": [
+                    "Solidaritas organik adalah ciri masyarakat modern.",
+                    "Kekuatan pendorong perubahan sosial adalah pertentangan antara kelompok yang menguasai alat produksi dan kelompok yang hanya memiliki tenaga kerja.",
+                    "Rasionalitas birokrasi adalah jebakan baja yang membelenggu manusia modern.",
+                    "Masyarakat harus melalui tiga tahap evolusi berpikir untuk mencapai tahap positif."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Marx fokus pada Materialisme Historis, di mana perubahan didorong oleh konflik antara kelas borjuis (pemilik alat produksi) dan kelas proletar (pekerja)."
+            },
+            {
+                "question": "7. Melalui karyanya 'The Protestant Ethic and the Spirit of Capitalism', Max Weber menjelaskan bahwa...",
+                "options": [
+                    "Kapitalisme adalah hasil tak terhindarkan dari perjuangan kelas.",
+                    "Nilai-nilai agama Protestan (Calvinisme) mendukung munculnya etos kerja keras, hemat, dan rasional yang menjadi dasar bagi perkembangan kapitalisme.",
+                    "Agama merupakan candu masyarakat yang menghalangi kesadaran kelas.",
+                    "Runtuhnya nilai-nilai agama menjadi penyebab utama anomie di masyarakat modern."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Weber menunjukkan bahwa etika Protestan (ide) memainkan peran kunci dalam munculnya kapitalisme di Barat."
+            },
+            {
+                "question": "8. Pernyataan yang paling tepat mengenai perbedaan objek material dan objek formal sosiologi adalah...",
+                "options": [
+                    "Objek material adalah teori, sedangkan objek formal adalah fakta sosial.",
+                    "Objek material adalah masyarakat secara umum, sedangkan objek formal adalah interaksi sosial dan hubungan antarmanusia.",
+                    "Objek material adalah gejala alam, sedangkan objek formal adalah gejala sosial.",
+                    "Objek material adalah Max Weber, sedangkan objek formal adalah Karl Marx."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Objek material adalah wadah kajian (masyarakat), sementara objek formal adalah sudut pandang sosiologi terhadap masyarakat tersebut (hubungan sosial)."
+            },
+            {
+                "question": "9. Fokus kajian utama Max Weber yang membedakannya dari Durkheim dan Marx adalah...",
+                "options": [
+                    "Analisis konflik kelas yang didasarkan pada materi.",
+                    "Penemuan fakta sosial yang bersifat memaksa.",
+                    "Hukum Tiga Tahap perkembangan masyarakat.",
+                    "Tindakan sosial yang berorientasi pada makna subjektif individu."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Weber fokus pada tindakan sosial (perilaku yang bermakna) dan menggunakan metode Verstehen untuk memahami motif individu."
+            },
+            {
+                "question": "10. Seorang peneliti ingin memahami mengapa kelompok remaja tertentu memiliki resistensi terhadap aturan sekolah. Peneliti tersebut menggunakan metode Verstehen. Hal ini berarti peneliti harus...",
+                "options": [
+                    "Mencatat frekuensi pelanggaran aturan.",
+                    "Menafsirkan motif, niat, dan makna di balik tindakan resistensi remaja.",
+                    "Mengukur hubungan antara aturan dan sanksi.",
+                    "Mengidentifikasi fakta sosial yang memaksa remaja."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Verstehen adalah metode Max Weber yang menekankan pada pemahaman interpretatif (penafsiran makna) dari tindakan sosial."
+            },
+            {
+                "question": "11. Yang termasuk dalam kategori pemicu krisis sosial di Eropa, yang kemudian menjadi faktor pendorong kelahiran Sosiologi, adalah...",
+                "options": [
+                    "Pergeseran dari masyarakat industri ke masyarakat informasi.",
+                    "Terbentuknya kesadaran kelas yang tinggi.",
+                    "Perubahan tatanan politik (Revolusi Prancis) dan perubahan struktur ekonomi (Revolusi Industri).",
+                    "Tumbuhnya birokrasi modern di Eropa."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Revolusi Industri menyebabkan masalah ekonomi-sosial, dan Revolusi Prancis menyebabkan kekacauan politik dan sosial, yang menuntut adanya ilmu baru untuk mengatasinya."
+            },
+            {
+                "question": "12. Konsep fakta sosial Émile Durkheim memiliki dua ciri utama, yaitu...",
+                "options": [
+                    "Rasional dan subjektif.",
+                    "Kumulatif dan teoretis.",
+                    "Eksternal dan koersif (memaksa).",
+                    "Material dan formal."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Fakta sosial bersifat di luar individu (eksternal) dan memiliki kekuatan untuk mengendalikan atau memaksa individu (koersif)."
+            },
+            {
+                "question": "13. Karl Marx terkenal dengan pandangannya bahwa 'agama adalah candu masyarakat'. Maksud Marx dengan pandangan tersebut adalah...",
+                "options": [
+                    "Agama mendorong rasionalitas dan kerja keras (mirip Weber).",
+                    "Agama adalah fakta sosial yang menyatukan masyarakat.",
+                    "Agama mendorong manusia menuju Tahap Positif.",
+                    "Agama adalah ilusi yang membuat kaum tertindas menerima nasibnya dan menghalangi kesadaran kelas."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Dalam pandangan Konflik Marx, agama berfungsi sebagai alat ideologi yang menenangkan kaum proletar sehingga mereka tidak memberontak, menghalangi mereka untuk menyadari penindasan."
+            },
+            {
+                "question": "14. Tahap evolusi berpikir manusia yang ditandai dengan upaya menjelaskan fenomena melalui observasi dan penemuan hukum ilmiah yang dapat diukur, menurut Auguste Comte, adalah Tahap...",
+                "options": [
+                    "Teologis.",
+                    "Positif.",
+                    "Metafisik.",
+                    "Empiris."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Tahap Positif adalah tahap akhir dan tertinggi, di mana pengetahuan didasarkan pada ilmu pengetahuan (observasi empiris) dan fakta."
+            },
+            {
+                "question": "15. Meskipun Marx dan Weber sama-sama mengkaji Kapitalisme, perbedaan fundamental dalam fokus kajian mereka adalah...",
+                "options": [
+                    "Marx fokus pada interaksi, Weber pada struktur.",
+                    "Marx fokus pada struktur ekonomi (materi), Weber fokus pada peran ide dan makna subjektif.",
+                    "Marx menggunakan positivisme, Weber menggunakan fungsionalisme.",
+                    "Marx fokus pada fakta sosial, Weber fokus pada solidaritas."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Marx melihat ekonomi (materi) sebagai dasar, sementara Weber menekankan bahwa ide (seperti etika Protestan) dapat membentuk sistem ekonomi."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN II: Karakteristik dan Fungsi Sosiologi",
+        "passageText": "Pahami ciri-ciri ilmiah sosiologi dan fungsinya dalam masyarakat.",
+        "questions": [
+            {
+                "question": "16. Sebagai ilmu pengetahuan, sosiologi tidak bertugas untuk menentukan benar atau salah, baik atau buruknya suatu perilaku tawuran pelajar, tetapi hanya menjelaskan fenomena tersebut secara objektif. Hal ini menunjukkan ciri ilmiah sosiologi yang bersifat...",
+                "options": [
+                    "Teoretis.",
+                    "Kumulatif.",
+                    "Non-Etis.",
+                    "Empiris."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Non-Etis berarti sosiologi tidak memberikan penilaian moral (baik/buruk) terhadap objek kajiannya, melainkan hanya menjelaskan fakta sosial secara objektif."
+            },
+            {
+                "question": "17. Seorang sosiolog meneliti pola kemacetan di Jakarta, dan hasilnya kemudian digunakan oleh pemerintah daerah untuk merancang kebijakan transportasi baru. Fungsi sosiologi yang ditunjukkan oleh kegiatan ini adalah...",
+                "options": [
+                    "Memahami perubahan sosial.",
+                    "Memecahkan masalah sosial.",
+                    "Memberikan data ilmiah untuk kebijakan sosial.",
+                    "Memperkuat solidaritas organik."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Sosiologi menyediakan data empiris sebagai masukan untuk perencana kebijakan (pemerintah) dalam mengatasi masalah publik."
+            },
+            {
+                "question": "18. Prinsip sosiologi yang menyatakan bahwa teori-teori dalam sosiologi harus selalu dikembangkan, disempurnakan, dan diperbaiki agar relevan dengan perkembangan masyarakat adalah ciri...",
+                "options": [
+                    "Empiris.",
+                    "Non-etis.",
+                    "Kumulatif.",
+                    "Teoretis."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kumulatif berarti sosiologi bersifat membangun dan memperbaiki teori-teori yang sudah ada, sehingga ilmu pengetahuan terus terakumulasi."
+            },
+            {
+                "question": "19. Penelitian yang didasarkan pada observasi dan akal sehat, bukan spekulasi filosofis, adalah ciri ilmiah sosiologi yang disebut...",
+                "options": [
+                    "Teoretis.",
+                    "Kumulatif.",
+                    "Non-etis.",
+                    "Empiris."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Empiris menekankan bahwa sosiologi harus berdasarkan fakta nyata di lapangan yang dapat diobservasi dan diverifikasi, bukan spekulasi."
+            },
+            {
+                "question": "20. Manakah pernyataan yang paling tepat menggambarkan peran sosiologi dalam pembangunan masyarakat?",
+                "options": [
+                    "Menentukan tujuan akhir pembangunan.",
+                    "Menyediakan data mengenai pola kehidupan, potensi konflik, dan aspirasi masyarakat untuk memandu perencanaan dan evaluasi pembangunan yang adaptif.",
+                    "Menggantikan peran ekonom dalam perencanaan anggaran.",
+                    "Mengembangkan teori-teori yang bersifat spekulatif."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Sosiologi memberikan informasi sosial yang komprehensif, memungkinkan perencana untuk membuat program yang sesuai dengan kebutuhan dan mencegah masalah sosial baru."
+            },
+            {
+                "question": "21. Sosiologi berusaha menyusun abstraksi dari hasil observasi, membentuk kerangka yang menjelaskan hubungan sebab akibat di masyarakat. Ini adalah ciri sosiologi...",
+                "options": [
+                    "Empiris.",
+                    "Non-etis.",
+                    "Kumulatif.",
+                    "Teoretis."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Teoretis adalah upaya sosiologi untuk menciptakan generalisasi atau abstraksi logis (teori) dari fakta-fakta yang telah diobservasi."
+            },
+            {
+                "question": "22. Sosiologi memiliki fungsi untuk memahami perubahan sosial di masyarakat. Contoh dari fungsi ini adalah...",
+                "options": [
+                    "Menyediakan dana untuk perbaikan kampung kumuh.",
+                    "Menganalisis dampak masuknya teknologi digital terhadap interaksi tatap muka remaja.",
+                    "Mengajukan tuntutan hukum atas kasus korupsi.",
+                    "Menilai moralitas perilaku pengguna media sosial."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Memahami perubahan sosial berarti menganalisis pola, sebab, dan akibat dari transformasi yang terjadi di masyarakat, seperti dampak teknologi."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN III: Langkah-Langkah Penelitian Sosial",
+        "passageText": "Pahami tahapan dan metode dalam melakukan penelitian sosial sederhana.",
+        "questions": [
+            {
+                "question": "23. Tahap awal dalam penelitian sosial yang bertujuan untuk mencari landasan teori, kerangka berpikir, dan membandingkan hasil penelitian yang akan dilakukan dengan penelitian yang sudah ada adalah...",
+                "options": [
+                    "Perumusan masalah.",
+                    "Analisis data.",
+                    "Kajian pustaka.",
+                    "Penarikan kesimpulan."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kajian pustaka (atau tinjauan literatur) berfungsi sebagai dasar teoretis, dilakukan setelah masalah dirumuskan."
+            },
+            {
+                "question": "24. Seorang peneliti sosiologi melakukan penelitian tentang fenomena bolos sekolah. Ia menyebarkan daftar pertanyaan tertulis yang harus diisi oleh siswa secara mandiri. Kegiatan ini termasuk metode pengumpulan data berupa...",
+                "options": [
+                    "Wawancara.",
+                    "Observasi partisipan.",
+                    "Kuesioner.",
+                    "Studi kasus."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kuesioner (angket) adalah alat pengumpulan data berupa daftar pertanyaan tertulis yang diisi oleh responden."
+            },
+            {
+                "question": "25. Setelah data terkumpul, peneliti mulai mengelompokkan jawaban, membuat tabulasi, dan menafsirkan angka-angka yang diperoleh dari kuesioner untuk menemukan pola dan hubungan. Langkah ini termasuk dalam tahapan penelitian sosial, yaitu...",
+                "options": [
+                    "Perumusan hipotesis.",
+                    "Pengumpulan data.",
+                    "Analisis data.",
+                    "Kajian pustaka."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Analisis data adalah proses mengolah, menafsirkan, dan mencari pola hubungan dalam data yang telah dikumpulkan."
+            },
+            {
+                "question": "26. Langkah yang paling awal dan fundamental yang harus dilakukan oleh seorang peneliti adalah...",
+                "options": [
+                    "Melakukan kajian pustaka.",
+                    "Menentukan metode pengumpulan data.",
+                    "Merumuskan masalah penelitian.",
+                    "Mengumpulkan data di lapangan."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Seluruh proses penelitian dimulai dari perumusan masalah, yaitu penentuan fokus dan pertanyaan yang akan dijawab."
+            },
+            {
+                "question": "27. Urutan logis yang benar dalam tahapan penelitian sosial adalah...",
+                "options": [
+                    "Kajian pustaka $\\rightarrow$ perumusan masalah $\\rightarrow$ analisis data $\\rightarrow$ pengumpulan data.",
+                    "Perumusan masalah $\\rightarrow$ kajian pustaka $\\rightarrow$ pengumpulan data $\\rightarrow$ analisis data $\\rightarrow$ penarikan kesimpulan.",
+                    "Pengumpulan data $\\rightarrow$ perumusan masalah $\\rightarrow$ analisis data $\\rightarrow$ laporan.",
+                    "Analisis data $\\rightarrow$ kajian pustaka $\\rightarrow$ perumusan masalah $\\rightarrow$ laporan."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Urutan baku dimulai dari masalah, landasan teori (kajian pustaka), mengambil data, mengolah, dan menyimpulkan."
+            },
+            {
+                "question": "28. Fungsi utama dari penyusunan Laporan Penelitian Sosial adalah...",
+                "options": [
+                    "Untuk memanipulasi data yang tidak sesuai dengan hipotesis.",
+                    "Untuk menentukan populasi dan sampel penelitian.",
+                    "Sebagai kerangka acuan untuk penelitian selanjutnya dan bentuk pertanggungjawaban ilmiah.",
+                    "Sebagai dasar untuk mengubah identitas responden."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Laporan berfungsi sebagai bentuk pertanggungjawaban ilmiah dan sarana penyebarluasan temuan."
+            },
+            {
+                "question": "29. Seorang peneliti ingin mendapatkan data mendalam tentang motivasi dan latar belakang tindakan korupsi. Metode pengumpulan data yang paling efektif adalah...",
+                "options": [
+                    "Kuesioner tertutup.",
+                    "Observasi non-partisipan.",
+                    "Wawancara mendalam.",
+                    "Analisis statistik."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Wawancara adalah teknik tatap muka yang ideal untuk menggali data kualitatif yang mendalam tentang motif atau pandangan subjek."
+            },
+            {
+                "question": "30. Seorang mahasiswa sosiologi melakukan penelitian tentang pandangan masyarakat tentang pembangunan ibu kota baru. Ia memutuskan untuk tinggal di daerah tersebut selama beberapa bulan, berinteraksi langsung, dan mencatat semua yang ia lihat dan dengar. Metode yang dilakukan adalah...",
+                "options": [
+                    "Kuesioner tertutup.",
+                    "Wawancara terstruktur.",
+                    "Observasi non-partisipan.",
+                    "Observasi partisipan."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Observasi partisipan adalah metode di mana peneliti terlibat langsung dalam kehidupan subjek yang diteliti."
+            },
+            {
+                "question": "31. Langkah terakhir dalam proses penelitian sosial, setelah data selesai dianalisis, adalah...",
+                "options": [
+                    "Pengujian instrumen.",
+                    "Penarikan kesimpulan.",
+                    "Merumuskan masalah.",
+                    "Membuat jadwal penelitian."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Penarikan kesimpulan adalah langkah untuk menjawab masalah penelitian, yang dilakukan setelah analisis data."
+            },
+            {
+                "question": "32. Dalam penulisan laporan penelitian, daftar pustaka berfungsi sebagai...",
+                "options": [
+                    "Sarana untuk menjaga kerahasiaan responden.",
+                    "Alat untuk menentukan populasi dan sampel.",
+                    "Bentuk pertanggungjawaban dan kejujuran akademis atas sumber yang digunakan.",
+                    "Pengganti hasil wawancara."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Daftar pustaka adalah bukti bahwa peneliti mengakui sumber informasi yang digunakan, menunjukkan kejujuran akademik."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN IV: Etika dalam Penelitian Sosial",
+        "passageText": "Pahami prinsip-prinsip etika yang harus dipatuhi oleh peneliti sosiologi.",
+        "questions": [
+            {
+                "question": "33. Seorang peneliti menjamin bahwa identitas, nama, dan informasi pribadi sensitif responden tidak akan dipublikasikan atau disebarkan kepada pihak lain. Etika penelitian sosial yang diterapkan adalah...",
+                "options": [
+                    "Kejujuran data.",
+                    "Izin penelitian.",
+                    "Menjaga kerahasiaan responden.",
+                    "Non-etis."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Menjaga kerahasiaan adalah prinsip etika untuk melindungi privasi dan identitas subjek penelitian."
+            },
+            {
+                "question": "34. Manakah tindakan peneliti berikut yang dikategorikan sebagai tindakan yang tidak etis?",
+                "options": [
+                    "Melakukan revisi hipotesis setelah data awal menunjukkan arah yang berbeda.",
+                    "Mengutip data responden tanpa menyebutkan namanya.",
+                    "Mengubah angka-angka hasil wawancara agar temuannya sesuai dengan keinginan pihak yang mendanai penelitian.",
+                    "Menjelaskan tujuan penelitian kepada responden secara jujur."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Mengubah atau memanipulasi data adalah pelanggaran serius terhadap prinsip kejujuran data dan objektivitas ilmiah."
+            },
+            {
+                "question": "35. Penerapan etika penelitian sosial di lingkungan sekolah yang paling utama terkait dengan perlindungan siswa sebagai responden adalah...",
+                "options": [
+                    "Menggunakan metode penelitian kuantitatif.",
+                    "Meminta izin kepada guru Bimbingan Konseling (BK) untuk melihat data absen siswa.",
+                    "Memublikasikan nilai siswa yang bermasalah agar menjadi pelajaran bagi yang lain.",
+                    "Mengumpulkan data tanpa merumuskan hipotesis."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Mendapatkan izin dari pihak berwenang (kepala sekolah/guru BK) adalah langkah etis yang wajib dalam konteks institusi sekolah."
+            },
+            {
+                "question": "36. Tindakan peneliti yang dianggap etis dalam tahap penulisan laporan penelitian adalah...",
+                "options": [
+                    "Menghapus data minoritas yang dianggap tidak penting.",
+                    "Menuliskan nama asli responden agar pembaca dapat memverifikasi data.",
+                    "Mencantumkan daftar pustaka secara lengkap dan akurat sesuai kaidah penulisan ilmiah.",
+                    "Mengubah kesimpulan agar sejalan dengan kepentingan pemberi dana."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Pencantuman daftar pustaka adalah bentuk kejujuran akademik dan pertanggungjawaban ilmiah (etika kejujuran)."
+            },
+            {
+                "question": "37. Seorang peneliti di sekolah melakukan wawancara tentang pandangan siswa terhadap bullying. Ia harus meyakinkan siswa bahwa jawaban mereka tidak akan memengaruhi nilai atau reputasi mereka. Hal ini berkaitan erat dengan etika...",
+                "options": [
+                    "Melakukan kajian pustaka yang lengkap.",
+                    "Menjaga kerahasiaan dan keamanan responden.",
+                    "Bersikap non-etis.",
+                    "Bersikap kumulatif."
+                ],
+                "correctAnswer": 1,
+                "explanation": "Pemberian jaminan keamanan dan kerahasiaan (anonimitas) adalah kunci agar responden merasa nyaman dan memberikan data yang jujur."
+            },
+            {
+                "question": "38. Tindakan seorang peneliti yang menyebarkan nama dan foto responden di media sosial karena responden memberikan data yang dianggap 'menarik' merupakan pelanggaran etika penelitian, yaitu...",
+                "options": [
+                    "Pelanggaran kejujuran data.",
+                    "Pelanggaran izin penelitian.",
+                    "Pelanggaran kerahasiaan responden.",
+                    "Pelanggaran prinsip teoretis."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Menyebarkan identitas responden tanpa izin, meskipun tujuannya 'menarik', melanggar prinsip kerahasiaan."
+            },
+            {
+                "question": "39. Berikut ini yang termasuk dalam praktik etika kejujuran data dalam penelitian sosial adalah...",
+                "options": [
+                    "Menghapus semua wawancara yang sulit ditranskrip.",
+                    "Mengumpulkan data hanya dari responden yang disukai.",
+                    "Melaporkan data apa adanya, meskipun data tersebut bertentangan dengan hipotesis awal.",
+                    "Mengubah waktu dan tempat wawancara tanpa pemberitahuan."
+                ],
+                "correctAnswer": 2,
+                "explanation": "Kejujuran data menuntut peneliti untuk menyajikan dan melaporkan temuan secara objektif, tidak peduli hasilnya sesuai atau tidak sesuai dengan harapan."
+            },
+            {
+                "question": "40. Manakah contoh tindakan peneliti di sekolah yang paling menunjukkan penerapan etika menjaga kerahasiaan responden?",
+                "options": [
+                    "Meminta izin dari guru mata pelajaran.",
+                    "Memberikan hadiah kepada siswa yang bersedia diwawancarai.",
+                    "Menghitung data menggunakan program statistik yang valid.",
+                    "Mengganti nama siswa yang diwawancarai dengan inisial atau kode (misalnya, Responden X) dalam laporan penelitian."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Menggunakan inisial atau kode adalah praktik standar untuk melindungi identitas dan kerahasiaan responden dalam publikasi."
+            }
+        ]
+    }
+]

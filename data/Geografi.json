@@ -1,0 +1,518 @@
+[
+    {
+        "passageTitle": "BAGIAN I: Pengertian, Konsep, Prinsip, dan Pendekatan Geografi",
+        "passageText": "Pahami konsep, prinsip, dan pendekatan dasar geografi untuk menyelesaikan soal-soal berikut.",
+        "questions": [
+            {
+                "question": "1. Berdasarkan seminar dan lokakarya IGI di Semarang tahun 1988, studi geografi berfokus pada...",
+                "options": [
+                    "Persamaan dan perbedaan fenomena sosial di muka bumi.",
+                    "Hubungan timbal balik antara manusia dan lingkungan alamnya.",
+                    "Analisis gejala alam dan persebarannya secara keruangan.",
+                    "Persamaan dan perbedaan fenomena geosfer dengan sudut pandang kelingkungan dan kewilayahan dalam konteks keruangan.",
+                    "Deskripsi statistik wilayah-wilayah di permukaan bumi."
+                ],
+                "correctAnswer": 3,
+                "explanation": "Definisi hasil seminar IGI Semarang (1988) secara spesifik menyebutkan bahwa geografi adalah ilmu yang mempelajari persamaan dan perbedaan fenomena geosfer (mencakup semua lapisan) dengan menggunakan pendekatan kelingkungan, kewilayahan, dalam konteks keruangan."
+            },
+            {
+                "question": "2. Fenomena banjir bandang yang merusak lahan pertanian (biosfer) dan permukiman (antroposfer) akibat hujan ekstrem (atmosfer) dan alih fungsi lahan di hulu sungai (litosfer) merupakan contoh kajian geosfer yang melibatkan...",
+                "options": [
+                    "Litosfer, biosfer, dan atmosfer",
+                    "Antroposfer, hidrosfer, dan biosfer",
+                    "Atmosfer, litosfer, dan hidrosfer",
+                    "Biosfer, antroposfer, dan litosfer",
+                    "Atmosfer, litosfer, hidrosfer, biosfer, dan antroposfer"
+                ],
+                "correctAnswer": 4,
+                "explanation": "Analisis tersebut mencakup semua lapisan geosfer: hujan ekstrem (atmosfer), alih fungsi lahan (litosfer), banjir (hidrosfer), lahan pertanian rusak (biosfer), dan permukiman rusak (antroposfer)."
+            },
+            {
+                "question": "3. Harga tanah di pusat kota lebih mahal dibandingkan di pinggiran kota. Fenomena ini paling tepat dikaji menggunakan konsep esensial geografi...",
+                "options": [
+                    "Aglomerasi",
+                    "Morfologi",
+                    "Nilai kegunaan",
+                    "Keterjangkauan",
+                    "Diferensiasi area"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Konsep Nilai Kegunaan menjelaskan bahwa nilai suatu tempat bersifat relatif, tergantung fungsi dan kebutuhannya. Tanah di pusat kota memiliki nilai (kegunaan) strategis yang lebih tinggi untuk bisnis, sehingga harganya lebih mahal."
+            },
+            {
+                "question": "4. Permukiman penduduk di daerah pegunungan kapur cenderung mengelompok di sekitar sumber mata air. Pola permukiman ini terbentuk berdasarkan konsep...",
+                "options": [
+                    "Aglomerasi",
+                    "Morfologi",
+                    "Lokasi",
+                    "Interaksi",
+                    "Keterkaitan keruangan"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Konsep Aglomerasi adalah kecenderungan persebaran yang bersifat mengelompok pada suatu wilayah. Dalam kasus ini, permukiman mengelompok (beraglomerasi) karena adanya faktor penarik yang sama, yaitu sumber mata air."
+            },
+            {
+                "question": "5. Wilayah pesisir pantai memiliki potensi perikanan, sedangkan wilayah pegunungan memiliki potensi sayuran. Kedua wilayah tersebut kemudian melakukan aktivitas perdagangan. Konsep geografi yang mendasari fenomena ini adalah...",
+                "options": [
+                    "Keterkaitan keruangan dan aglomerasi",
+                    "Diferensiasi area dan interaksi/interdependensi",
+                    "Nilai kegunaan dan morfologi",
+                    "Pola dan keterjangkauan",
+                    "Lokasi dan jarak"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Diferensiasi Area merujuk pada perbedaan karakteristik antarwilayah (pesisir vs pegunungan). Perbedaan ini menciptakan kebutuhan yang saling bergantung (Interdependensi) yang mendorong terjadinya pertukaran (Interaksi)."
+            },
+            {
+                "question": "6. Daerah X sering mengalami longsor karena curah hujan tinggi, kemiringan lereng curam, dan tata guna lahan yang salah. Untuk menganalisis fenomena tersebut, pendekatan geografi yang paling tepat digunakan adalah...",
+                "options": [
+                    "Pendekatan spasial (keruangan)",
+                    "Pendekatan ekologi (kelingkungan)",
+                    "Pendekatan kompleks wilayah",
+                    "Pendekatan historis",
+                    "Pendekatan deskriptif"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Pendekatan Ekologi (Kelingkungan) digunakan untuk menganalisis hubungan timbal balik antara aktivitas manusia (tata guna lahan) dengan lingkungan fisiknya (lereng curam, hujan tinggi) yang mengakibatkan bencana (longsor)."
+            },
+            {
+                "question": "7. Pemerintah berencana membangun jaringan jalan baru. Analisis pertama yang dilakukan adalah memetakan lokasi-lokasi yang paling strategis, pola persebaran permukiman, dan kondisi topografi. Analisis ini menggunakan pendekatan...",
+                "options": [
+                    "Pendekatan keruangan (spasial)",
+                    "Pendekatan ekologi (kelingkungan)",
+                    "Pendekatan kompleks wilayah",
+                    "Pendekatan korologi",
+                    "Pendekatan temporal"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Pendekatan Keruangan (Spasial) berfokus pada analisis lokasi (location), persebaran (distribution), dan pola (pattern) suatu fenomena di ruang. Memetakan lokasi dan pola adalah inti dari pendekatan keruangan."
+            },
+            {
+                "question": "8. Banjir di Jakarta tidak hanya disebabkan oleh masalah drainase di Jakarta, tetapi juga sangat dipengaruhi oleh kerusakan daerah resapan air di Bogor dan Puncak. Analisis yang menggabungkan kedua wilayah ini adalah...",
+                "options": [
+                    "Pendekatan keruangan",
+                    "Pendekatan kelingkungan",
+                    "Pendekatan kompleks wilayah",
+                    "Pendekatan korologi",
+                    "Pendekatan regional"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Pendekatan Kompleks Wilayah adalah gabungan antara pendekatan keruangan dan kelingkungan yang menganalisis interaksi antarwilayah. Masalah banjir Jakarta (wilayah A) tidak bisa diselesaikan tanpa memperhatikan Bogor/Puncak (wilayah B)."
+            },
+            {
+                "question": "9. Peta persebaran gunung api di Indonesia menunjukkan bahwa sebagian besar gunung api berjajar di sepanjang Pulau Sumatera, Jawa, hingga Nusa Tenggara. Fenomena ini sesuai dengan prinsip geografi...",
+                "options": [
+                    "Persebaran (Distribusi)",
+                    "Interelasi",
+                    "Deskripsi",
+                    "Korologi",
+                    "Kelingkungan"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Prinsip Persebaran (Distribusi) berfokus pada penjelasan di mana suatu fenomena terjadi di permukaan bumi. Pernyataan tersebut hanya menjelaskan lokasi persebaran gunung api."
+            },
+            {
+                "question": "10. Gempa bumi tektonik yang kuat di dasar laut seringkali memicu terjadinya gelombang tsunami. Hubungan sebab-akibat antara dua fenomena ini dijelaskan menggunakan prinsip...",
+                "options": [
+                    "Persebaran",
+                    "Interelasi",
+                    "Deskripsi",
+                    "Korologi",
+                    "Interaksi"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Prinsip Interelasi (Keterkaitan) digunakan untuk menganalisis hubungan sebab-akibat atau keterkaitan antara satu fenomena (gempa tektonik) dengan fenomena lainnya (tsunami)."
+            },
+            {
+                "question": "11. \"Analisis wilayah rawan bencana longsor di Kabupaten X dilengkapi dengan data tabel curah hujan bulanan, peta kemiringan lereng, dan diagram jenis tanah.\" Penggunaan data, peta, dan diagram merupakan penerapan prinsip...",
+                "options": [
+                    "Persebaran",
+                    "Interelasi",
+                    "Deskripsi",
+                    "Korologi",
+                    "Kelingkungan"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Prinsip Deskripsi adalah penjelasan lebih lanjut suatu fenomena geosfer dengan menggunakan data pendukung, baik dalam bentuk data kuantitatif (tabel, diagram) maupun gambaran visual (peta)."
+            },
+            {
+                "question": "12. Untuk mengkaji masalah urbanisasi, seorang peneliti memetakan daerah kumuh (persebaran), mencari tahu hubungan urbanisasi dan kemiskinan di desa (interelasi), serta menyajikan data jumlah pendatang (deskripsi). Gabungan ketiga prinsip ini disebut prinsip...",
+                "options": [
+                    "Kompleks wilayah",
+                    "Kelingkungan",
+                    "Interdependensi",
+                    "Korologi",
+                    "Keruangan"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Prinsip Korologi adalah prinsip paling komprehensif yang memadukan prinsip persebaran, interelasi, dan deskripsi untuk mengkaji suatu fenomena di suatu wilayah secara menyeluruh."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN II: Aspek Fisik & Sosial, Gejala Geografi",
+        "passageText": "Pahami perbedaan antara aspek fisik dan sosial, serta identifikasi gejala-gejala geografi di sekitar kita.",
+        "questions": [
+            {
+                "question": "13. Berikut ini yang seluruhnya merupakan bagian dari aspek fisik geografi adalah...",
+                "options": [
+                    "Iklim, kepadatan penduduk, dan industri",
+                    "Tanah, hidrologi, dan topografi",
+                    "Urbanisasi, fauna, dan budaya",
+                    "Mobilitas penduduk, pasar, dan transportasi",
+                    "Bahasa, relief, dan curah hujan"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Aspek fisik geografi mempelajari fenomena alam (abiotik dan biotik alami). Tanah (pedosfer), hidrologi (hidrosfer), dan topografi (litosfer) adalah murni aspek fisik. Pilihan lain tercampur aspek sosial."
+            },
+            {
+                "question": "14. Tradisi \"sedekah laut\" oleh nelayan di pantai utara Jawa merupakan fenomena geosfer yang termasuk dalam...",
+                "options": [
+                    "Aspek fisik (biosfer)",
+                    "Aspek fisik (hidrosfer)",
+                    "Aspek sosial (budaya)",
+                    "Aspek sosial (ekonomi)",
+                    "Aspek fisik-sosial"
+                ],
+                "correctAnswer": 2,
+                "explanation": "\"Sedekah laut\" adalah sebuah tradisi atau ritual yang dilakukan oleh masyarakat (nelayan). Ini adalah bagian dari aspek sosial, lebih spesifiknya aspek budaya (antroposfer)."
+            },
+            {
+                "question": "15. Pembangunan terasering (sengkedan) oleh petani di lereng pegunungan merupakan contoh gejala geografi...",
+                "options": [
+                    "Pemanfaatan sumber daya atmosfer",
+                    "Adaptasi manusia terhadap fenomena hidrosfer",
+                    "Adaptasi manusia terhadap kondisi litosfer (morfologi)",
+                    "Interaksi antara antroposfer dan biosfer",
+                    "Pemanfaatan aspek sosial untuk ekonomi"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Terasering adalah bentuk adaptasi yang dilakukan manusia (antroposfer) untuk mengatasi kendala fisik berupa lereng curam (morfologi/litosfer) agar lahan tetap bisa digunakan untuk pertanian."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN III: Peta, Proyeksi, dan Perhitungan",
+        "passageText": "Pahami dasar-dasar pemetaan, termasuk perhitungan skala, proyeksi, dan interpretasi arah.",
+        "questions": [
+            {
+                "question": "16. Peta yang digunakan untuk perencanaan tata ruang wilayah kota (RTRW) biasanya memiliki skala sangat besar, antara 1:100 hingga 1:5.000. Peta ini disebut juga...",
+                "options": [
+                    "Peta Geografi",
+                    "Peta Tematik",
+                    "Peta Kadaster (Teknik)",
+                    "Peta Skala Sedang",
+                    "Peta Dunia"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Peta skala 1:100 s.d. 1:5.000 (sangat detail) disebut Peta Kadaster atau Peta Teknik, sering digunakan untuk sertifikat tanah atau perencanaan infrastruktur detail."
+            },
+            {
+                "question": "17. Seorang siswa ingin melihat persebaran kepadatan penduduk di Indonesia. Peta yang paling ia butuhkan adalah...",
+                "options": [
+                    "Peta Umum (Korografi)",
+                    "Peta Topografi",
+                    "Peta Tematik (Khusus)",
+                    "Peta Skala Besar",
+                    "Peta Stasioner"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Peta yang menampilkan satu tema spesifik (seperti kepadatan penduduk atau curah hujan) disebut Peta Tematik atau Peta Khusus."
+            },
+            {
+                "question": "18. Jarak antara Kota P dan Kota Q pada peta adalah 8 cm. Peta tersebut memiliki skala 1:200.000. Berapakah jarak sebenarnya kedua kota tersebut?",
+                "options": [
+                    "1,6 km",
+                    "2,5 km",
+                    "160 km",
+                    "25 km",
+                    "16 km"
+                ],
+                "correctAnswer": 4,
+                "explanation": "JS = Jarak Peta x Skala = 8 cm x 200.000 = 1.600.000 cm. Ubah ke km (dibagi 100.000) = 16 km."
+            },
+            {
+                "question": "19. Jarak sebenarnya dari Kota A ke Kota B adalah 45 km. Jika digambar pada peta dengan skala 1:1.500.000, jarak kedua kota tersebut di peta adalah...",
+                "options": [
+                    "3 cm",
+                    "30 cm",
+                    "0,3 cm",
+                    "5 cm",
+                    "15 cm"
+                ],
+                "correctAnswer": 0,
+                "explanation": "JS = 45 km = 4.500.000 cm. JP = Jarak Sebenarnya / Skala = 4.500.000 cm / 1.500.000 = 3 cm."
+            },
+            {
+                "question": "20. Jarak Terminal A ke Terminal B di peta adalah 4 cm. Jarak sebenarnya kedua terminal adalah 2 km. Berapakah skala peta tersebut?",
+                "options": [
+                    "1 : 800.000",
+                    "1 : 500.000",
+                    "1 : 80.000",
+                    "1 : 50.000",
+                    "1 : 20.000"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Skala = JP : JS = 4 cm : 2 km = 4 cm : 200.000 cm. Sederhanakan (dibagi 4) menjadi 1 : 50.000."
+            },
+            {
+                "question": "21. Dalam sistem navigasi, arah yang ditunjukkan oleh jarum kompas sebesar 225° (diukur searah jarum jam dari Utara) merujuk pada arah...",
+                "options": [
+                    "Tenggara",
+                    "Timur Laut",
+                    "Barat Daya",
+                    "Barat Laut",
+                    "Selatan"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Ini adalah Azimuth. Utara = 0°, Timur = 90°, Selatan = 180°, Barat = 270°. Arah 225° berada di antara Selatan (180°) dan Barat (270°), sehingga disebut Barat Daya."
+            },
+            {
+                "question": "22. Sebuah bearing (sudut jurusan) dibaca sebagai N 45° W. Ini berarti arah objek tersebut adalah...",
+                "options": [
+                    "45° dari Utara ke arah Timur (Timur Laut)",
+                    "45° dari Utara ke arah Barat (Barat Laut)",
+                    "45° dari Selatan ke arah Barat (Barat Daya)",
+                    "45° dari Selatan ke arah Timur (Tenggara)",
+                    "Tepat di 45° Azimuth"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Sistem Bearing membaca dari Utara (N) atau Selatan (S). N 45° W artinya: Dimulai dari Utara (N), berputar 45° ke arah Barat (W). Ini adalah arah Barat Laut."
+            },
+            {
+                "question": "23. Proyeksi peta yang paling ideal digunakan untuk memetakan wilayah di sekitar khatulistiwa seperti Indonesia adalah...",
+                "options": [
+                    "Proyeksi Kerucut (Conical)",
+                    "Proyeksi Azimuthal (Zenithal)",
+                    "Proyeksi Silinder (Cylindrical)",
+                    "Proyeksi Bonne",
+                    "Proyeksi Gnomik"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Proyeksi Silinder menyinggung bumi di khatulistiwa. Akibatnya, wilayah di khatulistiwa (seperti Indonesia) tergambar paling akurat, sementara wilayah kutub mengalami distorsi besar."
+            },
+            {
+                "question": "24. Jika seorang navigator ingin memetakan rute pelayaran di Kutub Utara, proyeksi yang paling tepat untuk digunakan adalah...",
+                "options": [
+                    "Proyeksi Azimuthal (Zenithal)",
+                    "Proyeksi Silinder (Cylindrical)",
+                    "Proyeksi Kerucut (Conical)",
+                    "Proyeksi Mercator",
+                    "Proyeksi Sinusoidal"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Proyeksi Azimuthal (atau Zenithal/Polar) menggunakan bidang datar yang menyinggung bumi di salah satu kutub (jika Normal). Proyeksi ini paling akurat untuk menggambarkan area kutub."
+            },
+            {
+                "question": "25. Proyeksi peta yang mempertahankan keakuratan bentuk pulau (sudut-sudutnya tetap), tetapi mengorbankan keakuratan luas wilayah disebut...",
+                "options": [
+                    "Ekuivalen (Equivalent)",
+                    "Konform (Conformal)",
+                    "Ekuidistan (Equidistant)",
+                    "Zenithal",
+                    "Homolografik"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Proyeksi Konform (Conformal) mempertahankan bentuk (sudut) agar tetap sesuai. Contohnya Proyeksi Mercator, di mana Greenland terlihat besar (luas distorsi) tetapi bentuknya akurat."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN IV: Penginderaan Jauh (PJ / Inderaja)",
+        "passageText": "Pahami komponen dan teknik dasar interpretasi citra dalam penginderaan jauh.",
+        "questions": [
+            {
+                "question": "26. Objek di bawah ini yang paling mungkin tampak paling gelap pada foto udara pankromatik (hitam-putih) adalah...",
+                "options": [
+                    "Gurun pasir",
+                    "Hutan lebat",
+                    "Air jernih dan dalam",
+                    "Permukiman padat (atap seng)",
+                    "Sawah (padi)"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Rona/Warna adalah tingkat kegelapan. Air jernih dan dalam bersifat menyerap energi matahari (albedo rendah), sehingga pantulannya sangat sedikit ke sensor dan terekam dengan rona paling gelap."
+            },
+            {
+                "question": "27. Pada citra, hutan alami terlihat kasar dan tidak teratur, sedangkan kebun kelapa sawit terlihat rapi dan seragam. Unsur interpretasi yang digunakan adalah...",
+                "options": [
+                    "Rona dan Ukuran",
+                    "Situs dan Asosiasi",
+                    "Tekstur dan Pola",
+                    "Bentuk dan Bayangan",
+                    "Ukuran dan Bentuk"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Tekstur adalah frekuensi perubahan rona (kasar/halus). Hutan alami bertekstur kasar. Pola kebun sawit teratur (ditanam), berbeda dengan hutan alami yang tidak teratur."
+            },
+            {
+                "question": "28. Anda melihat bangunan besar berbentuk oval dengan lapangan hijau di tengahnya dan dikelilingi area parkir luas. Objek tersebut kemungkinan besar adalah...",
+                "options": [
+                    "Pabrik",
+                    "Terminal bus",
+                    "Bandara",
+                    "Stadion olahraga",
+                    "Universitas"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Ini menggunakan unsur interpretasi Bentuk (oval/lonjong) dan Asosiasi (keterkaitan objek). Objek yang lazim berbentuk oval besar dengan lapangan di tengah adalah stadion olahraga."
+            },
+            {
+                "question": "29. Dalam penginderaan jauh, alat yang berfungsi menangkap dan merekam pantulan gelombang elektromagnetik dari objek di bumi disebut...",
+                "options": [
+                    "Wahana",
+                    "Sensor",
+                    "Objek",
+                    "Sinyal",
+                    "Citra"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Sensor adalah alat perekam yang dipasang pada wahana (satelit/pesawat). Sensor inilah yang sensitif terhadap gelombang elektromagnetik untuk menghasilkan data (citra)."
+            },
+            {
+                "question": "30. Penginderaan jauh yang menggunakan sumber energi buatan sendiri (misalnya radar) dan tidak bergantung pada sinar matahari disebut...",
+                "options": [
+                    "Sistem pasif",
+                    "Sistem aktif",
+                    "Sistem termal",
+                    "Sistem pankromatik",
+                    "Sistem fotografi"
+                ],
+                "correctAnswer": 1,
+                "explanation": "PJ Sistem Pasif mengandalkan energi alamiah (matahari). PJ Sistem Aktif (seperti Radar/LIDAR) membawa sumber energinya sendiri, memancarkan energi, lalu merekam pantulannya."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN V: Sistem Informasi Geografis (SIG / GIS)",
+        "passageText": "Pahami model data (raster/vektor) dan fungsi analisis dasar dalam SIG.",
+        "questions": [
+            {
+                "question": "31. Dalam SIG, data yang merepresentasikan dunia nyata dalam bentuk grid atau sel-sel piksel (kotak-kotak kecil) disebut...",
+                "options": [
+                    "Data Vektor",
+                    "Data Raster",
+                    "Data Atribut",
+                    "Data Spasial",
+                    "Data Kualitatif"
+                ],
+                "correctAnswer": 1,
+                "explanation": "SIG memiliki dua model data: Vektor (titik, garis, area) untuk objek diskrit, dan Raster (grid/piksel) untuk data kontinu (citra satelit, suhu, ketinggian)."
+            },
+            {
+                "question": "32. Seorang analis SIG ingin menentukan daerah dalam radius 500 meter dari sungai untuk zona larangan mendirikan bangunan. Analisis spasial yang digunakan adalah...",
+                "options": [
+                    "Overlay",
+                    "Buffering",
+                    "Skoring",
+                    "Jaringan (Network)",
+                    "Interpolasi"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Buffering (Penyanggaan) adalah fungsi analisis SIG untuk membuat zona (area) baru berdasarkan jarak tertentu (500 meter) di sekitar suatu objek (sungai)."
+            },
+            {
+                "question": "33. Untuk menentukan lokasi terbaik sekolah baru, seorang perencana menumpangsusunkan Peta Tata Ruang, Peta Jaringan Jalan, dan Peta Rawan Banjir. Teknik ini disebut...",
+                "options": [
+                    "Buffering",
+                    "Overlay",
+                    "3D Analysis",
+                    "Digitasi",
+                    "Query"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Overlay (Tumpangsusun) adalah inti dari analisis SIG, di mana dua atau lebih lapisan peta (layer) yang berbeda digabungkan untuk menghasilkan satu lapisan peta baru."
+            },
+            {
+                "question": "34. Komponen SIG yang terdiri dari orang atau sumber daya manusia yang mengoperasikan, mengembangkan, dan memanfaatkan sistem disebut...",
+                "options": [
+                    "Hardware (Perangkat Keras)",
+                    "Software (Perangkat Lunak)",
+                    "Data",
+                    "Brainware (Manusia)",
+                    "Metode"
+                ],
+                "correctAnswer": 3,
+                "explanation": "Komponen utama SIG adalah Hardware (komputer), Software (ArcGIS), Data (spasial, atribut), dan Brainware (pengguna/manusia)."
+            },
+            {
+                "question": "35. Proses mengubah data dari peta cetak (hardcopy) menjadi data digital (softcopy) dengan cara menjiplaknya di layar komputer disebut...",
+                "options": [
+                    "Scanning",
+                    "Digitasi (Digitizing)",
+                    "Konversi",
+                    "Input",
+                    "Georeferencing"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Digitasi adalah proses menggambar ulang fitur (jalan, sungai, batas) dari peta cetak atau citra menjadi format vektor digital (titik, garis, poligon)."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN VI: Penelitian Geografi",
+        "passageText": "Pahami metodologi dasar penelitian geografi, termasuk variabel, metode, dan teknik pengumpulan data.",
+        "questions": [
+            {
+                "question": "36. Penelitian \"Pengaruh alih fungsi lahan sawah menjadi permukiman terhadap ketersediaan air tanah di Kecamatan X\". Variabel bebas (independent variable) dalam penelitian tersebut adalah...",
+                "options": [
+                    "Ketersediaan air tanah",
+                    "Alih fungsi lahan sawah menjadi permukiman",
+                    "Kecamatan X",
+                    "Jumlah permukiman",
+                    "Kedalaman sumur warga"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Variabel Bebas (Independent): Variabel yang diduga menjadi penyebab (Alih fungsi lahan). Variabel Terikat (Dependent): Variabel yang menjadi akibat (Ketersediaan air tanah)."
+            },
+            {
+                "question": "37. \"Mengapa tingkat kepadatan penduduk di Pulau Jawa jauh lebih tinggi dibandingkan di Pulau Kalimantan?\" Rumusan masalah ini paling tepat dijawab menggunakan...",
+                "options": [
+                    "Analisis komparatif (perbandingan)",
+                    "Analisis deskriptif kualitatif",
+                    "Analisis keruangan (spasial)",
+                    "Analisis historis",
+                    "Analisis ekologi"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Rumusan masalah tersebut secara eksplisit membandingkan dua wilayah (Jawa dan Kalimantan) berdasarkan satu fenomena (kepadatan penduduk). Metode analisis yang digunakan adalah komparatif."
+            },
+            {
+                "question": "38. Seorang peneliti mengambil data curah hujan di 5 stasiun cuaca yang berbeda untuk mewakili kondisi hujan di seluruh wilayah. Teknik ini disebut...",
+                "options": [
+                    "Sensus",
+                    "Wawancara mendalam",
+                    "Sampling (Pengambilan Sampel)",
+                    "Observasi partisipatif",
+                    "Studi literatur"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Peneliti hanya mengambil sebagian (5 stasiun) yang dianggap mewakili keseluruhan (populasi). Teknik pengambilan sebagian data untuk mewakili populasi disebut Sampling."
+            },
+            {
+                "question": "39. Urutan tahapan dalam proses penelitian geografi yang paling logis adalah...",
+                "options": [
+                    "Pengolahan data -> Analisis data -> Perumusan masalah -> Pengumpulan data",
+                    "Perumusan masalah -> Pengumpulan data -> Pengolahan data -> Analisis data",
+                    "Pengumpulan data -> Perumusan masalah -> Analisis data -> Kesimpulan",
+                    "Analisis data -> Pengumpulan data -> Pengolahan data -> Perumusan masalah",
+                    "Perumusan masalah -> Analisis data -> Pengolahan data -> Pengumpulan data"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Siklus penelitian dimulai dari adanya Masalah. Untuk menjawabnya, kumpulkan Data. Data mentah diolah. Setelah data siap, baru dilakukan Analisis untuk menjawab masalah."
+            },
+            {
+                "question": "40. Seorang peneliti membagikan kuesioner kepada 100 kepala keluarga di daerah rawan banjir untuk mengetahui persepsi mereka. Metode pengumpulan data yang digunakan adalah...",
+                "options": [
+                    "Observasi",
+                    "Survei (Kuesioner)",
+                    "Wawancara (Interview)",
+                    "Studi Dokumen",
+                    "Pemetaan"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Kuesioner (angket) adalah instrumen utama dalam metode Survei, yang digunakan untuk mengumpulkan data dari sejumlah besar responden (sampel) mengenai pendapat atau persepsi."
+            }
+        ]
+    }
+]

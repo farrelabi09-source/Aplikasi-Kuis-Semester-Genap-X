@@ -1,0 +1,350 @@
+[
+    {
+        "passageTitle": "BAGIAN I: Eksponen & Logaritma",
+        "passageText": "Pahami sifat-sifat dasar eksponen (pangkat) dan logaritma untuk menyelesaikan soal-soal berikut.",
+        "questions": [
+            {
+                "question": "1. Nilai dari \\(2^{-3} + 4^{-2}\\) adalah...",
+                "options": [
+                    "\\(\\frac{3}{16}\\)",
+                    "\\(\\frac{3}{8}\\)",
+                    "\\(\\frac{5}{16}\\)",
+                    "\\(\\frac{1}{4}\\)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "\\(2^{-3} = \\frac{1}{2^3} = \\frac{1}{8}\\). \\(4^{-2} = \\frac{1}{4^2} = \\frac{1}{16}\\). Jumlah: \\(\\frac{1}{8} + \\frac{1}{16} = \\frac{2}{16} + \\frac{1}{16} = \\frac{3}{16}\\)."
+            },
+            {
+                "question": "2. Bentuk sederhana dari \\((\\frac{3x^2 y^{-3}}{2x^{-1} y})^2\\) adalah...",
+                "options": [
+                    "\\(\\frac{9x^6}{4y^8}\\)",
+                    "\\(\\frac{9x^6}{4y^2}\\)",
+                    "\\(\\frac{9x^2}{4y^4}\\)",
+                    "\\(\\frac{9x^4}{4y^8}\\)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Sederhanakan di dalam kurung: \\(\\frac{3}{2} x^{2-(-1)} y^{-3-1} = \\frac{3}{2} x^3 y^{-4}\\). Kemudian kuadratkan: \\((\\frac{3}{2})^2 (x^3)^2 (y^{-4})^2 = \\frac{9}{4} x^6 y^{-8} = \\frac{9x^6}{4y^8}\\)."
+            },
+            {
+                "question": "3. Jika \\(\\sqrt{8^x} = \\frac{1}{4}\\), maka nilai x adalah...",
+                "options": [
+                    "\\(-\\frac{2}{3}\\)",
+                    "\\(-\\frac{4}{3}\\)",
+                    "-1",
+                    "2"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Ubah basis menjadi 2: \\(\\sqrt{(2^3)^x} = (2^2)^{-1} \\) atau \\( (2^{3x})^{1/2} = 2^{-2} \\). Maka \\( 2^{\\frac{3x}{2}} = 2^{-2} \\). Samakan pangkat: \\(\\frac{3x}{2} = -2\\), sehingga \\(3x = -4\\), atau \\(x = -\\frac{4}{3}\\)."
+            },
+            {
+                "question": "4. Bentuk rasional dari \\(\\frac{3}{\\sqrt{5}-2}\\) adalah...",
+                "options": [
+                    "\\(3\\sqrt{5} + 6\\)",
+                    "\\(3\\sqrt{5} - 6\\)",
+                    "\\(\\sqrt{5} + 2\\)",
+                    "\\(\\sqrt{5} - 2\\)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Kalikan dengan konjugat penyebut: \\(\\frac{3}{\\sqrt{5}-2} \\cdot \\frac{\\sqrt{5}+2}{\\sqrt{5}+2} = \\frac{3(\\sqrt{5}+2)}{(\\sqrt{5})^2 - 2^2} = \\frac{3\\sqrt{5} + 6}{5-4} = 3\\sqrt{5} + 6\\)."
+            },
+            {
+                "question": "5. Jika \\(x = 8\\) dan \\(y = 27\\), maka nilai dari \\(x^{-1/3} \\cdot y^{2/3}\\) adalah...",
+                "options": [
+                    "18",
+                    "9",
+                    "3",
+                    "\\(\\frac{9}{2}\\)"
+                ],
+                "correctAnswer": 3,
+                "explanation": "\\(x^{-1/3} = 8^{-1/3} = (2^3)^{-1/3} = 2^{-1} = \\frac{1}{2}\\). \\(y^{2/3} = 27^{2/3} = (3^3)^{2/3} = 3^2 = 9\\). Hasil kali: \\(\\frac{1}{2} \\cdot 9 = \\frac{9}{2}\\)."
+            },
+            {
+                "question": "6. Nilai dari \\(^2 \\log 8 + ^3 \\log \\frac{1}{9} - ^5 \\log \\sqrt{5}\\) adalah...",
+                "options": [
+                    "\\(\\frac{1}{2}\\)",
+                    "1",
+                    "\\(\\frac{3}{2}\\)",
+                    "2"
+                ],
+                "correctAnswer": 0,
+                "explanation": "\\(^2 \\log 8 = ^2 \\log 2^3 = 3\\). \\(^3 \\log \\frac{1}{9} = ^3 \\log 3^{-2} = -2\\). \\(^5 \\log \\sqrt{5} = ^5 \\log 5^{1/2} = \\frac{1}{2}\\). Jumlah: \\(3 + (-2) - \\frac{1}{2} = 1 - \\frac{1}{2} = \\frac{1}{2}\\)."
+            },
+            {
+                "question": "7. Jika \\(^2 \\log 3 = a\\), maka \\(^8 \\log 9\\) dinyatakan dalam a adalah...",
+                "options": [
+                    "\\(\\frac{3}{2} a\\)",
+                    "\\(\\frac{2}{3} a\\)",
+                    "2a",
+                    "\\(\\frac{1}{3} a\\)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Ubah basis: \\(^8 \\log 9 = \\frac{^2 \\log 9}{^2 \\log 8} = \\frac{^2 \\log 3^2}{^2 \\log 2^3} = \\frac{2 \\cdot ^2 \\log 3}{3 \\cdot ^2 \\log 2} = \\frac{2a}{3(1)} = \\frac{2}{3} a\\)."
+            },
+            {
+                "question": "8. Hasil dari \\(\\frac{^5 \\log 100 - ^5 \\log 4}{^2 \\log 16 - ^2 \\log 4}\\) adalah...",
+                "options": [
+                    "1",
+                    "2",
+                    "\\(\\frac{5}{2}\\)",
+                    "\\(\\frac{1}{2}\\)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Pembilang: \\(^5 \\log (\\frac{100}{4}) = ^5 \\log 25 = 2\\). Penyebut: \\(^2 \\log (\\frac{16}{4}) = ^2 \\log 4 = 2\\). Hasil: \\(\\frac{2}{2} = 1\\)."
+            },
+            {
+                "question": "9. Penyelesaian dari persamaan \\(^3 \\log (x+1) + ^3 \\log (x-1) = 1\\) adalah...",
+                "options": [
+                    "x = 2",
+                    "x = \\(\\sqrt{10}\\)",
+                    "x = \\(\\sqrt{5}\\)",
+                    "x = 3"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Gabungkan log: \\(^3 \\log ((x+1)(x-1)) = 1\\). Ubah ke pangkat: \\( (x^2 - 1) = 3^1 \\). \\( x^2 = 4 \\). Maka \\( x = 2 \\) atau \\( x = -2 \\). Syarat domain logaritma, \\(x-1 > 0\\) (jadi \\(x > 1\\)), maka hanya \\(x=2\\) yang memenuhi."
+            },
+            {
+                "question": "10. Jika \\(^2 \\log x = 3\\) dan \\(^4 \\log y = 2\\), maka nilai \\(x+y\\) adalah...",
+                "options": [
+                    "14",
+                    "24",
+                    "16",
+                    "20"
+                ],
+                "correctAnswer": 1,
+                "explanation": "\\(^2 \\log x = 3 \\implies x = 2^3 = 8\\). \\(^4 \\log y = 2 \\implies y = 4^2 = 16\\). Maka \\(x+y = 8 + 16 = 24\\)."
+            },
+            {
+                "question": "11. Nilai dari \\((\\sqrt[3]{2})^{12}\\) adalah...",
+                "options": [
+                    "16",
+                    "32",
+                    "64",
+                    "128"
+                ],
+                "correctAnswer": 0,
+                "explanation": "\\((\\sqrt[3]{2})^{12} = (2^{1/3})^{12} = 2^{(1/3) \\cdot 12} = 2^4 = 16\\)."
+            },
+            {
+                "question": "12. Jika \\(5^x = 10\\), maka \\(x = \\dots\\)",
+                "options": [
+                    "\\(^5 \\log 10\\)",
+                    "\\(\\log 5\\)",
+                    "\\(^2 \\log 5\\)",
+                    "2"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Definisi dasar logaritma: Jika \\(a^x = b\\), maka \\(x = ^a \\log b\\). Dalam kasus ini, \\(x = ^5 \\log 10\\)."
+            },
+            {
+                "question": "13. Sederhanakan \\(\\frac{a^3 b^{-2} c^4}{a^{-2} b^3 c^2}\\)",
+                "options": [
+                    "\\(a^5 b^5 c^2\\)",
+                    "\\(\\frac{a^5 c^2}{b^5}\\)",
+                    "\\(\\frac{a c^2}{b^5}\\)",
+                    "\\(\\frac{a^5 b^5}{c^2}\\)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Gunakan sifat pembagian pangkat: \\(a^{3-(-2)} b^{-2-3} c^{4-2} = a^5 b^{-5} c^2 = \\frac{a^5 c^2}{b^5}\\)."
+            },
+            {
+                "question": "14. Jika \\(^3 \\log 5 = p\\), maka \\(^9 \\log 125\\) adalah...",
+                "options": [
+                    "\\(\\frac{3}{2} p\\)",
+                    "\\(\\frac{2}{3} p\\)",
+                    "3p",
+                    "2p"
+                ],
+                "correctAnswer": 0,
+                "explanation": "\\(^9 \\log 125 = ^{3^2} \\log 5^3 = \\frac{3}{2} \\cdot ^3 \\log 5 = \\frac{3}{2} p\\)."
+            },
+            {
+                "question": "15. Penyelesaian dari persamaan \\(2^{2x-1} = 32\\) adalah...",
+                "options": [
+                    "x = 2",
+                    "x = 3",
+                    "x = 4",
+                    "x = 5"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Ubah basis kanan: \\(32 = 2^5\\). Maka \\(2^{2x-1} = 2^5\\). Samakan pangkat: \\(2x-1 = 5 \\implies 2x = 6 \\implies x = 3\\)."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN II: Persamaan Kuadrat",
+        "passageText": "Gunakan rumus Diskriminan (D) dan Rumus Vieta (hubungan antar akar) untuk menyelesaikan soal-soal berikut.",
+        "questions": [
+            {
+                "question": "16. Persamaan kuadrat \\(2x^2 - 5x + 3 = 0\\) memiliki akar \\(x_1\\) dan \\(x_2\\). Nilai \\(x_1 + x_2\\) adalah...",
+                "options": [
+                    "\\(\\frac{5}{2}\\)",
+                    "\\(-\\frac{5}{2}\\)",
+                    "\\(\\frac{3}{2}\\)",
+                    "\\(-\\frac{3}{2}\\)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Gunakan Rumus Vieta (Jumlah Akar): \\(x_1 + x_2 = -\\frac{b}{a}\\). Dengan a=2, b=-5, c=3, maka \\(x_1 + x_2 = -\\frac{-5}{2} = \\frac{5}{2}\\)."
+            },
+            {
+                "question": "17. Persamaan kuadrat yang akar-akarnya adalah -2 dan 5 adalah...",
+                "options": [
+                    "\\(x^2 - 3x - 10 = 0\\)",
+                    "\\(x^2 + 3x - 10 = 0\\)",
+                    "\\(x^2 - 7x + 10 = 0\\)",
+                    "\\(x^2 + 7x + 10 = 0\\)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Rumus: \\(x^2 - (x_1+x_2)x + (x_1 x_2) = 0\\). Jumlah: -2 + 5 = 3. Hasil Kali: (-2)(5) = -10. Persamaan: \\(x^2 - (3)x + (-10) = 0 \\implies x^2 - 3x - 10 = 0\\)."
+            },
+            {
+                "question": "18. Jenis akar dari persamaan \\(x^2 - 4x + 4 = 0\\) adalah...",
+                "options": [
+                    "Dua akar real berbeda",
+                    "Akar real kembar",
+                    "Dua akar kompleks",
+                    "Tidak memiliki akar"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Hitung Diskriminan \\(D = b^2 - 4ac\\). a=1, b=-4, c=4. \\(D = (-4)^2 - 4(1)(4) = 16 - 16 = 0\\). Karena D=0, akarnya real kembar."
+            },
+            {
+                "question": "19. Jika salah satu akar persamaan \\(x^2 + kx - 6 = 0\\) adalah 2, maka nilai k adalah...",
+                "options": [
+                    "1",
+                    "2",
+                    "-1",
+                    "-2"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Substitusikan x=2 ke persamaan: \\((2)^2 + k(2) - 6 = 0\\). \\(4 + 2k - 6 = 0\\). \\(2k - 2 = 0\\). \\(2k = 2\\). \\(k = 1\\)."
+            },
+            {
+                "question": "20. Titik puncak fungsi kuadrat \\(f(x) = x^2 - 6x + 5\\) adalah...",
+                "options": [
+                    "(3, -4)",
+                    "(-3, 32)",
+                    "(3, 4)",
+                    "(-3, 14)"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Sumbu simetri \\(x_p = -\\frac{b}{2a} = -\\frac{-6}{2(1)} = 3\\). Nilai puncak \\(y_p = f(3) = 3^2 - 6(3) + 5 = 9 - 18 + 5 = -4\\). Titik puncak: (3, -4)."
+            },
+            {
+                "question": "21. Agar persamaan kuadrat \\(x^2 + 6x + c = 0\\) memiliki akar kembar, nilai c haruslah...",
+                "options": [
+                    "9",
+                    "6",
+                    "3",
+                    "0"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Syarat akar kembar adalah D=0. \\(D = b^2 - 4ac = 0\\). \\(6^2 - 4(1)(c) = 0\\). \\(36 - 4c = 0\\). \\(4c = 36\\). \\(c = 9\\)."
+            },
+            {
+                "question": "22. Jika \\(x_1\\) dan \\(x_2\\) adalah akar dari \\(x^2 + 5x - 3 = 0\\), maka nilai \\(x_1^2 + x_2^2\\) adalah...",
+                "options": [
+                    "19",
+                    "25",
+                    "31",
+                    "22"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Gunakan Vieta: \\(x_1 + x_2 = -5\\) dan \\(x_1 x_2 = -3\\). \\(x_1^2 + x_2^2 = (x_1 + x_2)^2 - 2x_1 x_2 = (-5)^2 - 2(-3) = 25 + 6 = 31\\)."
+            }
+        ]
+    },
+    {
+        "passageTitle": "BAGIAN III: Sistem Persamaan Linear Dua Variabel (SPLDV)",
+        "passageText": "Gunakan metode eliminasi dan substitusi untuk menemukan himpunan penyelesaian dari sistem persamaan berikut.",
+        "questions": [
+            {
+                "question": "23. Himpunan penyelesaian dari sistem persamaan \\(x+y=7\\) dan \\(x-y=3\\) adalah...",
+                "options": [
+                    "\\(\\{(-5, 2)\\}\\)",
+                    "\\(\\{(5, 2)\\}\\)",
+                    "\\(\\{(5, -2)\\}\\)",
+                    "\\(\\{(2, 5)\\}\\)"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Eliminasi (Tambah kedua persamaan): \\((x+y) + (x-y) = 7+3 \\implies 2x = 10 \\implies x = 5\\). Substitusi: \\(5+y = 7 \\implies y = 2\\). HP: (5, 2)."
+            },
+            {
+                "question": "24. Penyelesaian sistem persamaan \\(2x + 3y = 8\\) dan \\(x - 2y = -3\\) adalah (x, y). Nilai \\(x \\cdot y\\) adalah...",
+                "options": [
+                    "2",
+                    "4",
+                    "6",
+                    "8"
+                ],
+                "correctAnswer": 0,
+                "explanation": "Kalikan persamaan kedua dengan 2: \\(2x - 4y = -6\\). Kurangkan dari persamaan pertama: \\((2x+3y) - (2x-4y) = 8 - (-6) \\implies 7y = 14 \\implies y = 2\\). Substitusi: \\(x - 2(2) = -3 \\implies x - 4 = -3 \\implies x = 1\\). Hasil \\(x \\cdot y = 1 \\cdot 2 = 2\\)."
+            },
+            {
+                "question": "25. Jumlah dua bilangan adalah 20. Selisih kedua bilangan itu adalah 4. Kedua bilangan tersebut adalah...",
+                "options": [
+                    "12 dan 8",
+                    "10 dan 10",
+                    "14 dan 6",
+                    "16 dan 4"
+                ],
+                "correctAnswer": 0,
+                "explanation": "\\(x+y=20\\) dan \\(x-y=4\\). Tambah kedua persamaan: \\(2x = 24 \\implies x = 12\\). Substitusi: \\(12 + y = 20 \\implies y = 8\\)."
+            },
+            {
+                "question": "26. Harga 4 buku (B) dan 2 pensil (P) adalah Rp16.000. Harga 3B dan 1P adalah Rp11.000. Harga 1B dan 1P adalah...",
+                "options": [
+                    "Rp6.000",
+                    "Rp5.500",
+                    "Rp4.500",
+                    "Rp5.000"
+                ],
+                "correctAnswer": 3,
+                "explanation": "(1) \\(4B + 2P = 16.000 \\implies 2B + P = 8.000\\). (2) \\(3B + P = 11.000\\). Kurangi (2) - (1): \\(B = 3.000\\). Substitusi: \\(2(3.000) + P = 8.000 \\implies P = 2.000\\). \\(B+P = 3.000 + 2.000 = 5.000\\)."
+            },
+            {
+                "question": "27. Di peternakan terdapat ayam (A) dan kambing (K). Jumlah kepala 15. Jumlah kaki 40. Jumlah ayam dan kambing adalah...",
+                "options": [
+                    "5 ayam dan 10 kambing",
+                    "10 ayam dan 5 kambing",
+                    "7 ayam dan 8 kambing",
+                    "8 ayam dan 7 kambing"
+                ],
+                "correctAnswer": 1,
+                "explanation": "(1) \\(A + K = 15\\). (2) \\(2A + 4K = 40\\). Kalikan (1) dengan 2: \\(2A + 2K = 30\\). Kurangi (2) - (3): \\(2K = 10 \\implies K = 5\\). Substitusi: \\(A + 5 = 15 \\implies A = 10\\)."
+            },
+            {
+                "question": "28. Keliling persegi panjang 30m. Panjang (P) 3m lebih dari lebar (L). Luas kebun adalah...",
+                "options": [
+                    "42 m²",
+                    "54 m²",
+                    "66 m²",
+                    "72 m²"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Keliling: \\(2(P+L) = 30 \\implies P+L = 15\\). (2) \\(P = L+3\\). Substitusi (2) ke (1): \\((L+3) + L = 15 \\implies 2L = 12 \\implies L = 6\\). Maka \\(P = 6+3 = 9\\). Luas \\(L \\times P = 6 \\times 9 = 54\\) m²."
+            },
+            {
+                "question": "29. Jika x dan y adalah penyelesaian dari sistem \\(2x - y = 7\\) dan \\(x + 3y = 0\\), maka nilai \\(x-y\\) adalah...",
+                "options": [
+                    "1",
+                    "4",
+                    "6",
+                    "8"
+                ],
+                "correctAnswer": 1,
+                "explanation": "Kalikan persamaan pertama dengan 3: \\(6x - 3y = 21\\). Tambah dengan persamaan kedua: \\((6x - 3y) + (x + 3y) = 21 + 0 \\implies 7x = 21 \\implies x = 3\\). Substitusi: \\(3 + 3y = 0 \\implies 3y = -3 \\implies y = -1\\). Nilai \\(x - y = 3 - (-1) = 4\\)."
+            },
+            {
+                "question": "30. Sistem persamaan \\(x+y = 1\\) dan \\(x-y = 5\\) memberikan penyelesaian (x, y). Nilai \\(x^2 + y^2\\) adalah...",
+                "options": [
+                    "5",
+                    "10",
+                    "13",
+                    "17"
+                ],
+                "correctAnswer": 2,
+                "explanation": "Tambah kedua persamaan: \\(2x = 6 \\implies x = 3\\). Kurangi persamaan: \\(2y = -4 \\implies y = -2\\). Nilai \\(x^2 + y^2 = (3)^2 + (-2)^2 = 9 + 4 = 13\\)."
+            }
+        ]
+    }
+]
